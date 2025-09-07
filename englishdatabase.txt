@@ -1,0 +1,7186 @@
+id,level,position,kind,word,persiantranslate
+1,NA,NA,-,NA
+2,A1,K1,April,آوریل
+3,A2,K1,Arab,عرب
+4,A1,K1,August,اوت
+5,B1,K1,Bible,انجیل
+6,A2,K2,British,بریتانیایی
+7,A2,K1,CD,سی‌دی
+8,B2,K1,CEO,مدیر عامل
+9,A2,K2,Canadian,کانادایی
+10,B2,K1,Caribbean,کارائیب
+11,B1,K1,Catholic,کاتولیک
+12,A2,K2,Chinese,چینی
+13,B1,K1,Christian,مسیحی
+14,B2,K1,Christianity,مسیحیت
+15,A2,K1,Christmas,کریسمس
+16,B2,K1,Congress,کنگره
+17,B2,K1,Cuban,کوبایی
+18,B2,K1,DNA,دی‌ان‌ای
+19,A2,K1,DVD,دی‌وی‌دی
+20,A1,K1,December,دسامبر
+21,B2,K1,Democrat,دموکرات
+22,A1,K1,Dr,دکتر
+23,A2,K2,European,اروپایی
+24,A1,K1,February,فوریه
+25,A2,K2,French,فرانسوی
+26,A1,K1,Friday,جمعه
+27,A2,K2,German,آلمانی
+28,A2,K1,God,خدا
+29,B1,K2,Greek,یونانی
+30,B2,K1,HIV,اچ‌آی‌وی
+31,B1,K1,Hispanic,اسپانیایی‌تبار
+32,A1,K3,I,من
+33,A2,K2,Indian,هندی
+34,A2,K1,Internet,اینترنت
+35,B1,K1,Islam,اسلام
+36,B1,K2,Islamic,اسلامی
+37,B1,K2,Israeli,اسرائیلی
+38,A2,K2,Italian,ایتالیایی
+39,A1,K1,January,ژانویه
+40,B1,K2,Jewish,یهودی
+41,A1,K1,July,جولای
+42,A1,K1,June,ژوئن
+43,A2,K2,Korean,کره‌ای
+44,B1,K2,Latin,لاتین
+45,B1,K1,Latino,لاتین‌تبار
+46,A1,K1,March,مارس
+47,C1,K1,Marxism,مارکسیسم
+48,C1,K2,Marxist,مارکسیست
+49,A1,K1,May,مه
+50,A2,K2,Mexican,مکزیکی
+51,A1,K1,Monday,دوشنبه
+52,A1,K1,Mr,آقا
+53,A1,K1,Mrs,خانم (متاهل)
+54,A1,K1,Ms,خانم
+55,B1,K1,Muslim,مسلمان
+56,A1,K1,November,نوامبر
+57,A1,K8,OK,باشه
+58,A1,K1,October,اکتبر
+59,A2,K1,PC,کامپیوتر شخصی
+60,C1,K1,Renaissance,رنسانس
+61,B2,K1,Republican,جمهوری‌خواه
+62,A2,K2,Russian,روسی
+63,A1,K1,Saturday,شنبه
+64,B2,K1,Scot,اسکاتلندی
+65,B2,K2,Scottish,اسکاتلندی
+66,A1,K1,September,سپتامبر
+67,B1,K2,Soviet,شوروی
+68,A1,K1,Sunday,یکشنبه
+69,B2,K2,Syrian,سوری
+70,A2,K1,T-shirt,تی‌شرت
+71,A1,K1,TV,تلویزیون
+72,A1,K1,Thursday,پنج‌شنبه
+73,A1,K1,Tuesday,سه‌شنبه
+74,A1,K1,Wednesday,چهارشنبه
+75,A1,K2,a,یک (حرف تعریف نامعین)
+76,A1,K5,a.m.,قبل از ظهر
+77,B2,K4,abandon,رها کردن
+78,A2,K1,ability,توانایی
+79,A1,K2,able,قادر
+80,C1,K4,abolish,منسوخ کردن
+81,B2,K1,abortion,سقط جنین
+82,A1,K6,about,درباره
+83,A1,K6,above,بالای
+84,A1,K5,abroad,خارج از کشور
+85,B1,K1,absence,غیبت
+86,B1,K2,absolute,مطلق
+87,A2,K5,absolutely,کاملاً
+88,B2,K4,absorb,جذب کردن
+89,B2,K2,abstract,انتزاعی
+90,C1,K2,absurd,پوچ
+91,B2,K1,abundance,فراوانی
+92,B1,K1,abuse,سوء استفاده
+93,A2,K2,academic,آکادمیک
+94,B2,K4,accelerate,شتاب دادن
+95,A2,K1,accent,لهجه
+96,A1,K4,accept,پذیرفتن
+97,B1,K2,acceptable,قابل قبول
+98,B2,K1,acceptance,پذیرش
+99,A2,K1,access,دسترسی
+100,B2,K2,accessible,قابل دسترس
+101,B1,K1,accessory,لوازم جانبی
+102,A1,K1,accident,تصادف
+103,B1,K4,accommodate,جا دادن
+104,B1,K1,accommodation,محل اقامت
+105,B1,K4,accompany,همراهی کردن
+106,B1,K4,accomplish,به انجام رساندن
+107,B2,K1,accomplishment,دستاورد
+108,A2,K6,according,بر اساس
+109,B2,K5,accordingly,بنابراین
+110,A2,K1,account,حساب
+111,C1,K1,accountability,پاسخگویی
+112,C1,K2,accountable,پاسخگو
+113,A2,K1,accountant,حسابدار
+114,B1,K2,accurate,دقیق
+115,B1,K5,accurately,به طور دقیق
+116,B2,K1,accusation,اتهام
+117,B2,K4,accuse,متهم کردن
+118,B2,K1,accused,متهم
+119,A2,K4,achieve,دست یافتن
+120,B1,K1,achievement,موفقیت
+121,B2,K1,acid,اسید
+122,B1,K4,acknowledge,تصدیق کردن
+123,B1,K4,acquire,به دست آوردن
+124,B2,K1,acquisition,اکتساب
+125,A1,K6,across,از عرض
+126,A2,K1,act,عمل
+127,A1,K1,action,اقدام
+128,A1,K2,active,فعال
+129,B1,K5,actively,فعالانه
+130,B1,K1,activist,فعال سیاسی
+131,A1,K1,activity,فعالیت
+132,A1,K1,actor,بازیگر مرد
+133,A1,K1,actress,بازیگر زن
+134,A2,K2,actual,واقعی
+135,A2,K5,actually,در واقع
+136,B2,K2,acute,حاد
+137,A2,K1,ad,تبلیغ
+138,B1,K4,adapt,وفق دادن
+139,B2,K1,adaptation,اقتباس
+140,A1,K4,add,اضافه کردن
+141,B2,K1,addiction,اعتیاد
+142,A2,K1,addition,اضافه
+143,B1,K2,additional,اضافی
+144,A1,K1,address,آدرس
+145,C1,K2,adept,ماهر
+146,B1,K2,adequate,کافی
+147,B2,K5,adequately,به قدر کافی
+148,C1,K4,adhere,چسبیدن
+149,C1,K2,adjacent,مجاور
+150,B1,K4,adjust,تنظیم کردن
+151,C1,K4,administer,اداره کردن
+152,B1,K1,administration,مدیریت
+153,C1,K2,administrative,اداری
+154,B2,K1,administrator,مدیر
+155,B1,K4,admire,تحسین کردن
+156,B1,K1,admission,پذیرش
+157,A2,K4,admit,پذیرفتن
+158,B2,K1,adolescent,نوجوان
+159,B1,K4,adopt,اتخاذ کردن
+160,B2,K1,adoption,فرزندخواندگی
+161,A2,K1,adult,بزرگسال
+162,A2,K1,advance,پیشرفت
+163,A2,K2,advanced,پیشرفته
+164,A2,K1,advantage,مزیت
+165,A2,K1,adventure,ماجراجویی
+166,B2,K2,adverse,نامطلوب
+167,A2,K4,advertise,تبلیغ کردن
+168,A1,K1,advertisement,آگهی
+169,A2,K1,advertising,تبلیغات
+170,A1,K1,advice,نصیحت
+171,A2,K4,advise,نصیحت کردن
+172,B2,K1,adviser,مشاور
+173,B2,K1,advocate,طرفدار
+174,A2,K1,aeroplane,هواپیما
+175,C1,K2,aesthetic,زیبایی شناختی
+176,B1,K1,affair,امر
+177,A2,K4,affect,تحت تاثیر قرار دادن
+178,C1,K1,affection,محبت
+179,A2,K4,afford,از پس هزینه برآمدن
+180,A1,K2,afraid,ترسیده
+181,A1,K6,after,بعد از
+182,C1,K1,aftermath,پیامد
+183,A1,K1,afternoon,بعد از ظهر
+184,A2,K5,afterwards,پس از آن
+185,A1,K5,again,دوباره
+186,A1,K6,against,علیه
+187,A2,K1,age,سن
+188,B1,K2,aged,سالخورده
+189,B1,K1,agency,نمایندگی
+190,B2,K1,agenda,دستور جلسه
+191,B1,K1,agent,عامل
+192,B2,K1,aggression,پرخاشگری
+193,B2,K2,aggressive,پرخاشگر
+194,A1,K5,ago,پیش
+195,A1,K4,agree,موافق بودن
+196,A2,K1,agreement,توافق
+197,B2,K2,agricultural,کشاورزی
+198,B1,K1,agriculture,کشاورزی
+199,B1,K8,ah,آه
+200,A1,K5,ahead,جلو
+201,B2,K1,aid,کمک
+202,B2,K1,aide,دستیار
+203,B2,K4,ail,ناخوش بودن
+204,B1,K1,aim,هدف
+205,A1,K1,air,هوا
+206,B1,K1,aircraft,هواپیما
+207,A2,K1,airline,شرکت هواپیمایی
+208,A1,K1,airport,فرودگاه
+209,A2,K1,alarm,زنگ خطر
+210,C1,K7,albeit,اگرچه
+211,A2,K1,album,آلبوم
+212,A1,K1,alcohol,الکل
+213,A2,K2,alcoholic,الکلی
+214,B2,K2,alert,هوشیار
+215,A2,K1,alien,بیگانه
+216,B2,K4,align,هم‌تراز کردن
+217,B2,K1,alignment,هم‌ترازی
+218,B2,K2,alike,یکسان
+219,B1,K2,alive,زنده
+220,A1,K2,all,همه
+221,B2,K1,allegation,اتهام
+222,B2,K4,allege,ادعا کردن
+223,C1,K5,allegedly,ظاهراً
+224,B1,K1,alley,کوچه
+225,B2,K1,alliance,اتحاد
+226,B2,K4,allocate,تخصیص دادن
+227,B2,K1,allocation,تخصیص
+228,A1,K4,allow,اجازه دادن
+229,B1,K1,allowance,کمک هزینه
+230,B1,K1,ally,متحد
+231,A1,K5,almost,تقریباً
+232,A1,K2,alone,تنها
+233,A1,K6,along,در امتداد
+234,B2,K6,alongside,در کنار
+235,A2,K5,aloud,با صدای بلند
+236,A1,K5,already,قبلاً
+237,A1,K5,also,همچنین
+238,B1,K4,alter,تغییر دادن
+239,C1,K1,alteration,تغییر
+240,A2,K1,alternative,جایگزین
+241,A2,K7,although,اگرچه
+242,B2,K1,altitude,ارتفاع
+243,B2,K5,altogether,در مجموع
+244,B2,K1,aluminum,آلومینیوم
+245,A1,K5,always,همیشه
+246,B2,K1,amateur,آماتور
+247,A2,K4,amaze,شگفت‌زده کردن
+248,A1,K2,amazing,شگفت‌انگیز
+249,B2,K1,ambassador,سفیر
+250,B2,K2,ambiguous,مبهم
+251,B1,K1,ambition,جاه‌طلبی
+252,B2,K2,ambitious,جاه‌طلب
+253,A2,K1,ambulance,آمبولانس
+254,B2,K4,amend,اصلاح کردن
+255,B2,K1,amendment,اصلاحیه
+256,C1,K6,amid,در میان
+257,C1,K6,amidst,در بحبوحه
+258,A2,K6,among,بین
+259,A2,K1,amount,مقدار
+260,A2,K2,amusing,سرگرم‌کننده
+261,A1,K2,an,یک (حرف تعریف نامعین)
+262,B2,K1,analogy,قیاس
+263,B1,K4,analyse,تحلیل کردن
+264,B1,K1,analysis,تحلیل
+265,B2,K1,analyst,تحلیلگر
+266,B1,K1,ancestor,جد
+267,B2,K1,anchor,لنگر
+268,B1,K2,ancient,باستانی
+269,A1,K7,and,و
+270,B1,K1,angel,فرشته
+271,A2,K1,anger,خشم
+272,B1,K1,angle,زاویه
+273,B1,K5,angrily,با عصبانیت
+274,A1,K2,angry,عصبانی
+275,A1,K1,animal,حیوان
+276,B2,K1,animation,انیمیشن
+277,A2,K1,ankle,مچ پا
+278,A2,K1,anniversary,سالگرد
+279,A2,K4,announce,اعلام کردن
+280,A2,K1,announcement,اعلامیه
+281,B1,K4,annoy,اذیت کردن
+282,B1,K2,annoyed,آزرده
+283,B1,K2,annoying,آزاردهنده
+284,B1,K2,annual,سالانه
+285,B2,K5,annually,سالیانه
+286,B2,K2,anonymous,ناشناس
+287,A1,K2,another,دیگری
+288,A1,K1,answer,پاسخ
+289,B1,K4,anticipate,پیش‌بینی کردن
+290,B1,K1,anxiety,اضطراب
+291,B1,K2,anxious,نگران
+292,A1,K2,any,هیچ
+293,A1,K3,anybody,هر کسی
+294,A2,K5,anyhow,به هر حال
+295,A2,K5,anymore,دیگر
+296,A1,K3,anyone,هر کسی
+297,A1,K3,anything,هر چیزی
+298,A1,K5,anyway,به هر حال
+299,A1,K5,anywhere,هر جا
+300,A2,K2,apart,جدا
+301,A1,K1,apartment,آپارتمان
+302,A2,K4,apologize,عذرخواهی کردن
+303,B1,K1,apology,عذرخواهی
+304,B2,K1,apparatus,دستگاه
+305,B1,K2,apparent,آشکار
+306,B1,K5,apparently,ظاهراً
+307,B1,K1,appeal,جذابیت
+308,B2,K2,appealing,جذاب
+309,A2,K4,appear,ظاهر شدن
+310,A2,K1,appearance,ظاهر
+311,B1,K1,appetite,اشتها
+312,B2,K4,applaud,تشویق کردن
+313,A1,K1,apple,سیب
+314,B2,K2,applicable,قابل اجرا
+315,B2,K1,applicant,متقاضی
+316,A2,K1,application,کاربرد
+317,A2,K4,apply,درخواست دادن
+318,B1,K4,appoint,منصوب کردن
+319,A2,K1,appointment,قرار ملاقات
+320,B1,K4,appreciate,قدردانی کردن
+321,B2,K1,appreciation,قدردانی
+322,A2,K1,approach,رویکرد
+323,A2,K2,appropriate,مناسب
+324,B2,K5,appropriately,به طور مناسب
+325,B1,K1,approval,تایید
+326,B1,K4,approve,تایید کردن
+327,B2,K2,approximate,تقریبی
+328,B1,K5,approximately,تقریباً
+329,C1,K2,arbitrary,خودسرانه
+330,A2,K1,architect,معمار
+331,C1,K2,architectural,معماری
+332,A2,K1,architecture,معماری
+333,B2,K1,archive,بایگانی
+334,A1,K1,area,ناحیه
+335,B2,K1,arena,عرصه
+336,C1,K5,arguably,احتمالاً
+337,A2,K4,argue,بحث کردن
+338,A2,K1,argument,بحث
+339,B2,K4,arise,برخاستن
+340,A2,K1,arm,بازو
+341,B1,K2,armed,مسلح
+342,C1,K1,armor,زره
+343,C1,K1,armour,زره
+344,B1,K1,arms,سلاح‌ها
+345,A2,K1,army,ارتش
+346,B1,K1,aroma,رایحه
+347,A1,K5,around,اطراف
+348,A2,K4,arrange,ترتیب دادن
+349,A2,K1,arrangement,ترتیب
+350,B2,K1,array,آرایه
+351,A2,K4,arrest,دستگیر کردن
+352,A2,K1,arrival,ورود
+353,A1,K4,arrive,رسیدن
+354,B2,K1,arrow,فلش
+355,A1,K1,art,هنر
+356,A1,K1,article,مقاله
+357,B2,K4,articulate,شمرده صحبت کردن
+358,B1,K2,artificial,مصنوعی
+359,A1,K1,artist,هنرمند
+360,B1,K2,artistic,هنری
+361,A1,K7,as,به عنوان
+362,B2,K1,ash,خاکستر
+363,B1,K2,ashamed,شرمنده
+364,B2,K5,aside,کنار
+365,A1,K4,ask,پرسیدن
+366,A2,K2,asleep,خواب
+367,B1,K1,aspect,جنبه
+368,C1,K1,aspiration,آرزو
+369,C1,K1,assassination,ترور
+370,B2,K1,assault,حمله
+371,B2,K4,assemble,مونتاژ کردن
+372,B2,K1,assembly,مجلس
+373,B2,K4,assert,ادعا کردن
+374,C1,K1,assertion,ادعا
+375,B1,K4,assess,ارزیابی کردن
+376,B1,K1,assessment,ارزیابی
+377,B2,K1,asset,دارایی
+378,B1,K4,assign,محول کردن
+379,B1,K1,assignment,تکلیف
+380,A2,K4,assist,کمک کردن
+381,B1,K1,assistance,کمک
+382,A2,K1,assistant,دستیار
+383,B1,K1,associate,شریک
+384,B1,K2,associated,مرتبط
+385,B1,K1,association,انجمن
+386,B1,K4,assume,فرض کردن
+387,B2,K1,assumption,فرض
+388,C1,K1,assurance,اطمینان
+389,B2,K4,assure,اطمینان دادن
+390,C1,K1,asylum,پناهندگی
+391,A1,K6,at,در
+392,A2,K6,at/in,در
+393,A2,K1,athlete,ورزشکار
+394,B1,K2,athletic,ورزشی
+395,B1,K1,atmosphere,جو
+396,B1,K4,attach,ضمیمه کردن
+397,B2,K1,attachment,پیوست
+398,A1,K1,attack,حمله
+399,B2,K4,attain,نائل شدن
+400,A2,K1,attempt,تلاش
+401,A2,K4,attend,شرکت کردن
+402,B2,K1,attendance,حضور
+403,A2,K1,attention,توجه
+404,B1,K4,attentionattract,جلب توجه کردن
+405,A2,K1,attitude,نگرش
+406,B2,K1,attorney,وکیل
+407,A2,K4,attract,جذب کردن
+408,A2,K1,attraction,جاذبه
+409,A2,K2,attractive,جذاب
+410,B2,K1,attribute,صفت
+411,B2,K1,auction,حراج
+412,A2,K1,audience,حضار
+413,B2,K2,audio,صوتی
+414,C1,K1,audit,حسابرسی
+415,A1,K1,aunt,عمه، خاله
+416,B2,K2,authentic,معتبر
+417,A2,K1,author,نویسنده
+418,B1,K1,authority,اختیار
+419,B2,K4,authorize,مجوز دادن
+420,B2,K1,auto,خودرو
+421,C1,K4,automate,خودکار کردن
+422,A2,K2,automatic,خودکار
+423,B1,K5,automatically,به طور خودکار
+424,C1,K1,automation,اتوماسیون
+425,B2,K1,automobile,اتومبیل
+426,C1,K2,autonomous,خودمختار
+427,B2,K1,autonomy,خودمختاری
+428,A1,K1,autumn,پاییز
+429,B2,K1,availability,در دسترس بودن
+430,A2,K2,available,در دسترس
+431,A2,K1,average,میانگین
+432,A2,K4,avoid,اجتناب کردن
+433,C1,K4,await,در انتظار بودن
+434,A2,K1,award,جایزه
+435,B1,K2,aware,آگاه
+436,B2,K1,awareness,آگاهی
+437,A1,K5,away,دور
+438,A1,K2,awful,وحشتناک
+439,B1,K2,awkward,ناجور
+440,B1,K1,ax,تبر
+441,A1,K1,baby,نوزاد
+442,B1,K1,bachelor,لیسانس، مجرد
+443,A1,K1,back,پشت
+444,B2,K1,backdrop,پس‌زمینه
+445,A2,K1,background,پیش‌زمینه
+446,B2,K1,backing,حمایت
+447,A2,K1,backpack,کوله پشتی
+448,B2,K1,backup,پشتیبان
+449,A2,K5,backward,عقب
+450,A2,K1,bacon,بیکن
+451,B1,K1,bacteria,باکتری
+452,A1,K2,bad,بد
+453,A2,K1,badge,نشان
+454,B1,K5,badly,به بدی
+455,A1,K1,bag,کیف
+456,B2,K1,bail,وثیقه
+457,A2,K4,bake,پختن
+458,A2,K1,baker,نانوا
+459,A2,K1,balance,تعادل
+460,B1,K2,balanced,متعادل
+461,A1,K1,ball,توپ
+462,A2,K1,ballet,باله
+463,A2,K1,balloon,بادکنک
+464,B2,K1,ballot,رای‌گیری
+465,B1,K1,ban,ممنوعیت
+466,A1,K1,banana,موز
+467,A1,K1,band,گروه موسیقی
+468,A1,K1,bank,بانک
+469,B2,K1,banking,بانکداری
+470,B2,K1,bankruptcy,ورشکستگی
+471,B2,K1,banner,بنر
+472,A2,K1,bar,بار، میله
+473,A2,K1,barbecue,کباب
+474,B1,K2,bare,لخت
+475,B2,K5,barely,به ندرت
+476,A2,K1,bargain,معامله
+477,B2,K1,barrel,بشکه
+478,B2,K1,barrier,مانع
+479,A2,K1,base,پایه
+480,A2,K1,baseball,بیسبال
+481,A2,K2,based,مبتنی بر
+482,A2,K1,basement,زیرزمین
+483,A2,K2,basic,اساسی
+484,B1,K5,basically,اساساً
+485,B1,K1,basis,اساس
+486,A2,K1,basket,سبد
+487,A2,K1,basketball,بسکتبال
+488,B1,K1,bass,باس (صدا)
+489,A2,K1,bat,خفاش، چوب بیسبال
+490,A1,K1,bath,حمام
+491,A1,K1,bathroom,دستشویی
+492,A2,K1,battery,باتری
+493,A2,K1,battle,نبرد
+494,C1,K1,battlefield,میدان جنگ
+495,B1,K1,bay,خلیج
+496,A1,K4,be,بودن
+497,A1,K1,beach,ساحل
+498,B2,K1,beam,پرتو
+499,B1,K1,bean,لوبیا
+500,A2,K1,bear,خرس
+501,A2,K1,beard,ریش
+502,B1,K1,beast,هیولا
+503,A2,K4,beat,ضرب و شتم کردن
+504,A1,K2,beautiful,زیبا
+505,A2,K5,beautifully,به زیبایی
+506,A2,K1,beauty,زیبایی
+507,A1,K7,because,چون
+508,A1,K4,become,شدن
+509,A1,K1,bed,تختخواب
+510,A1,K1,bedroom,اتاق خواب
+511,A2,K1,bee,زنبور عسل
+512,A2,K1,beef,گوشت گاو
+513,A2,K1,beer,آبجو
+514,A1,K6,before,قبل از
+515,A2,K4,beg,التماس کردن
+516,A1,K4,begin,شروع کردن
+517,A1,K1,beginning,آغاز
+518,B1,K1,behalf,از طرف
+519,A2,K4,behave,رفتار کردن
+520,A2,K1,behavior,رفتار
+521,B2,K2,behavioral,رفتاری
+522,A2,K6,behind,پشت
+523,A2,K4,being,بودن
+524,A2,K1,belief,باور
+525,A1,K4,believe,باور داشتن
+526,A2,K1,bell,زنگ
+527,A1,K4,belong,تعلق داشتن
+528,B1,K2,beloved,محبوب
+529,A1,K6,below,زیر
+530,A2,K1,belt,کمربند
+531,B1,K1,bench,نیمکت
+532,A2,K4,bend,خم شدن
+533,B1,K6,beneath,در زیر
+534,B1,K2,beneficial,سودمند
+535,B2,K1,beneficiary,ذینفع
+536,A2,K1,benefit,منفعت
+537,B1,K2,bent,خمیده
+538,A2,K1,berry,توت
+539,B1,K6,beside,در کنار
+540,B1,K6,besides,بعلاوه
+541,A1,K2,best,بهترین
+542,B1,K4,bet,شرط بستن
+543,B2,K4,betray,خیانت کردن
+544,A1,K2,better,بهتر
+545,A1,K6,between,بین
+546,B1,K1,beverage,نوشیدنی
+547,B1,K6,beyond,فراتر از
+548,B1,K1,bias,تعصب
+549,A2,K1,bicycle,دوچرخه
+550,B2,K4,bid,پیشنهاد دادن
+551,A1,K2,big,بزرگ
+552,A2,K1,bike,دوچرخه
+553,A2,K2,bilingual,دو زبانه
+554,A1,K1,bill,صورتحساب
+555,B1,K1,billion,میلیارد
+556,A2,K1,bin,سطل
+557,B1,K4,bind,بستن
+558,B2,K2,binding,الزام آور
+559,C1,K2,biochemical,بیوشیمیایی
+560,B1,K1,biography,زندگینامه
+561,B1,K2,biological,بیولوژیکی
+562,A2,K1,biology,زیست شناسی
+563,A1,K1,bird,پرنده
+564,A1,K1,birth,تولد
+565,A1,K1,birthday,روز تولد
+566,A2,K1,biscuit,بیسکویت
+567,B1,K1,bishop,اسقف
+568,A2,K1,bit,تکه
+569,A2,K4,bite,گاز گرفتن
+570,B1,K2,bitter,تلخ
+571,B1,K2,bizarre,عجیب و غریب
+572,A1,K2,black,سیاه
+573,B2,K1,blade,تیغه
+574,A2,K4,blame,سرزنش کردن
+575,B1,K2,blank,خالی
+576,B1,K1,blanket,پتو
+577,B1,K1,blast,انفجار
+578,B1,K4,bleed,خونریزی کردن
+579,B1,K4,blend,مخلوط کردن
+580,B1,K4,bless,برکت دادن
+581,B1,K1,blessing,نعمت
+582,B1,K2,blind,کور
+583,A2,K1,block,بلوک
+584,C1,K2,blocking,مسدود کردن
+585,A2,K1,blog,وبلاگ
+586,A2,K2,blonde,بلوند
+587,A1,K1,blood,خون
+588,B2,K2,bloody,خونی
+589,B1,K4,bloom,شکوفه زدن
+590,A2,K1,blouse,بلوز
+591,A2,K4,blow,دمیدن
+592,A1,K2,blue,آبی
+593,A1,K1,board,تخته
+594,B1,K4,boast,پز دادن
+595,A1,K1,boat,قایق
+596,A1,K1,body,بدن
+597,A2,K4,boil,جوشیدن
+598,B1,K2,bold,جسور
+599,A2,K1,bomb,بمب
+600,C1,K4,bombard,بمباران کردن
+601,B1,K1,bombing,بمب گذاری
+602,B1,K1,bond,پیوند
+603,A2,K1,bone,استخوان
+604,B2,K1,bonus,پاداش
+605,A1,K1,book,کتاب
+606,B1,K1,booking,رزرو
+607,A2,K1,bookshelf,قفسه کتاب
+608,A2,K1,bookshop,کتابفروشی
+609,B2,K1,boom,رونق
+610,B2,K4,boost,تقویت کردن
+611,A2,K1,boot,چکمه
+612,B2,K1,booth,غرفه
+613,A2,K1,border,مرز
+614,A2,K2,bored,کسل
+615,A2,K2,boring,کسل کننده
+616,A2,K2,born,متولد شده
+617,A2,K4,borrow,قرض گرفتن
+618,A2,K1,boss,رئیس
+619,A1,K2,both,هر دو
+620,A2,K4,bother,مزاحم شدن
+621,A1,K1,bottle,بطری
+622,A2,K1,bottom,پایین
+623,B1,K4,bounce,بالا و پایین پریدن
+624,B2,K2,bound,مقید
+625,B2,K1,boundary,مرز
+626,B1,K1,bow,کمان
+627,A2,K1,bowl,کاسه
+628,A1,K1,box,جعبه
+629,A1,K1,boy,پسر
+630,A2,K1,boyfriend,دوست پسر
+631,B2,K4,brace,آماده شدن
+632,A2,K1,brain,مغز
+633,A2,K1,branch,شاخه
+634,B1,K1,brand,برند
+635,A2,K2,brave,شجاع
+636,B2,K1,breach,نقض
+637,A1,K1,bread,نان
+638,A1,K4,break,شکستن
+639,B2,K1,breakdown,خرابی
+640,A1,K1,breakfast,صبحانه
+641,B2,K1,breakthrough,دستاورد بزرگ
+642,B1,K1,breast,سینه
+643,A2,K1,breath,نفس
+644,A2,K4,breathe,نفس کشیدن
+645,B1,K1,breed,نژاد
+646,B1,K1,breeze,نسیم
+647,B2,K1,bribe,رشوه
+648,B1,K1,brick,آجر
+649,A2,K1,bride,عروس
+650,A2,K1,bridge,پل
+651,A2,K2,brief,مختصر
+652,B2,K1,briefing,جلسه توجیهی
+653,A2,K5,briefly,به طور خلاصه
+654,C1,K1,brigade,تیپ
+655,A1,K2,bright,روشن
+656,A2,K2,brilliant,درخشان
+657,A1,K4,bring,آوردن
+658,B1,K2,broad,گسترده
+659,B1,K1,broadcast,پخش
+660,C1,K1,broadcaster,گوینده
+661,C1,K2,broader,گسترده تر
+662,B2,K1,broccoli,کلم بروکلی
+663,A2,K2,broken,شکسته
+664,B2,K1,broker,کارگزار
+665,B2,K1,bronze,برنز
+666,A1,K1,brother,برادر
+667,A1,K2,brown,قهوه ای
+668,A2,K1,browser,مرورگر
+669,A2,K1,brush,برس
+670,B2,K2,brutal,وحشیانه
+671,A2,K1,brute,وحشی
+672,A2,K1,bubble,حباب
+673,B2,K1,buck,دلار
+674,B1,K1,buddy,رفیق
+675,B1,K1,budget,بودجه
+676,B2,K1,buffer,حائل
+677,A2,K1,bug,حشره
+678,A1,K4,build,ساختن
+679,A1,K1,building,ساختمان
+680,B1,K1,bulb,لامپ
+681,B1,K1,bulk,حجم
+682,A2,K1,bull,گاو نر
+683,B1,K1,bullet,گلوله
+684,A2,K1,bully,قلدر
+685,A2,K1,bunch,دسته
+686,B2,K1,burden,بار
+687,B2,K1,bureaucracy,بوروکراسی
+688,B2,K1,burial,دفن
+689,A2,K4,burn,سوزاندن
+690,B1,K4,burst,ترکیدن
+691,A2,K4,bury,دفن کردن
+692,A1,K1,bus,اتوبوس
+693,B1,K1,bush,بوته
+694,A1,K1,business,کسب و کار
+695,A2,K1,businessman,تاجر
+696,A1,K2,busy,شلوغ
+697,A1,K7,but,اما
+698,A1,K1,butter,کره
+699,A2,K1,butterfly,پروانه
+700,A1,K1,button,دکمه
+701,A1,K4,buy,خریدن
+702,B1,K1,buyer,خریدار
+703,A1,K6,by,توسط
+704,A1,K8,bye,خداحافظ
+705,A2,K1,cab,تاکسی
+706,B1,K1,cabin,کابین
+707,B1,K1,cabinet,کابینت
+708,A2,K1,cable,کابل
+709,A1,K1,cafe,کافه
+710,A2,K1,cafeteria,کافه تریا
+711,A2,K1,cage,قفس
+712,A1,K1,cake,کیک
+713,A2,K4,calculate,محاسبه کردن
+714,B1,K1,calculation,محاسبه
+715,A2,K1,calculator,ماشین حساب
+716,A2,K1,calendar,تقویم
+717,B2,K1,calf,گوساله
+718,A1,K4,call,صدا زدن
+719,C1,K1,call-up,احضاریه
+720,A2,K2,calm,آرام
+721,A1,K1,camera,دوربین
+722,A2,K1,camp,اردو
+723,A2,K1,campaign,کمپین
+724,A2,K1,camping,اردو زدن
+725,A2,K1,campus,پردیس دانشگاه
+726,A1,K4,can,توانستن
+727,B1,K1,canal,کانال
+728,A2,K4,cancel,لغو کردن
+729,A2,K1,cancer,سرطان
+730,A2,K1,candidate,نامزد
+731,A2,K1,candle,شمع
+732,A2,K1,candy,آب نبات
+733,B2,K1,canvas,بوم نقاشی
+734,A2,K1,cap,کلاه
+735,B1,K1,capability,قابلیت
+736,B1,K2,capable,قادر
+737,B1,K1,capacity,ظرفیت
+738,A1,K1,capital,پایتخت
+739,B2,K1,capitalism,سرمایه داری
+740,B2,K1,capitalist,سرمایه دار
+741,A2,K1,captain,کاپیتان
+742,B1,K4,capture,گرفتن
+743,A1,K1,car,ماشین
+744,A2,K1,carbohydrate,کربوهیدرات
+745,B1,K1,carbon,کربن
+746,A1,K1,card,کارت
+747,A2,K1,cardboard,مقوا
+748,A1,K1,care,مراقبت
+749,A2,K1,career,حرفه
+750,A1,K2,careful,مراقب
+751,A1,K5,carefully,با دقت
+752,A2,K2,careless,بی دقت
+753,A2,K1,caretaker,سرایدار
+754,B2,K1,cargo,محموله
+755,A2,K1,carpenter,نجار
+756,A2,K1,carpet,فرش
+757,B2,K1,carriage,کالسکه
+758,B2,K1,carrier,حامل
+759,A2,K1,carrot,هویج
+760,A1,K4,carry,حمل کردن
+761,A2,K1,cartoon,کارتون
+762,B2,K4,carve,تراشیدن
+763,A1,K1,case,مورد
+764,A2,K1,cash,پول نقد
+765,B1,K1,casino,کازینو
+766,B2,K4,cast,انداختن
+767,A2,K1,castle,قلعه
+768,B1,K2,casual,غیر رسمی
+769,B2,K1,casualty,تلفات
+770,A1,K1,cat,گربه
+771,B2,K1,catalog,کاتالوگ
+772,B1,K1,catalogue,کاتالوگ
+773,A1,K4,catch,گرفتن
+774,A2,K1,category,دسته بندی
+775,B2,K4,cater,تامین کردن
+776,B2,K1,cattle,گله گاو
+777,A2,K1,cause,علت
+778,B1,K1,caution,احتیاط
+779,B2,K2,cautious,محتاط
+780,B1,K1,cave,غار
+781,B2,K4,cease,متوقف کردن
+782,A2,K1,ceiling,سقف
+783,A1,K4,celebrate,جشن گرفتن
+784,A1,K1,celebration,جشن
+785,A2,K1,celebrity,مشهور
+786,A2,K1,cell,سلول
+787,B1,K1,cemetery,قبرستان
+788,B2,K1,census,سرشماری
+789,A2,K1,cent,سنت
+790,A1,K2,central,مرکزی
+791,A1,K1,centre,مرکز
+792,A1,K1,century,قرن
+793,A2,K1,ceremony,مراسم
+794,A2,K2,certain,مطمئن
+795,A2,K5,certainly,مطمئنا
+796,B2,K1,certainty,قطعیت
+797,B2,K1,certificate,گواهی
+798,A2,K1,chain,زنجیر
+799,A1,K1,chair,صندلی
+800,B1,K1,chairman,رئیس
+801,A2,K1,challenge,چالش
+802,B2,K1,chamber,اتاق
+803,B1,K1,champion,قهرمان
+804,B1,K1,championship,قهرمانی
+805,A2,K1,chance,شانس
+806,B2,K1,chancellor,صدراعظم
+807,A1,K4,change,تغییر دادن
+808,B2,K2,changing,در حال تغییر
+809,A2,K1,channel,کانال
+810,B2,K1,chaos,هرج و مرج
+811,A2,K1,chapter,فصل
+812,A1,K1,character,شخصیت
+813,B1,K1,characteristic,مشخصه
+814,B2,K4,characterize,مشخص کردن
+815,A2,K1,charge,هزینه
+816,A2,K1,charity,خیریه
+817,B1,K1,charm,جذابیت
+818,B1,K2,charming,جذاب
+819,A2,K1,chart,نمودار
+820,B2,K1,charter,منشور
+821,A2,K4,chase,تعقیب کردن
+822,A2,K1,chat,چت
+823,A1,K2,cheap,ارزان
+824,A2,K4,cheat,تقلب کردن
+825,A1,K4,check,چک کردن
+826,B1,K1,cheek,گونه
+827,A2,K4,cheer,تشویق کردن
+828,A2,K2,cheerful,شاد
+829,A1,K1,cheese,پنیر
+830,B1,K1,chef,سرآشپز
+831,A2,K1,chemical,شیمیایی
+832,B1,K1,chemistry,شیمی
+833,A2,K4,cherish,گرامی داشتن
+834,B1,K1,cherry,گیلاس
+835,A2,K1,chess,شطرنج
+836,B1,K1,chest,قفسه سینه
+837,B1,K4,chew,جویدن
+838,A1,K1,chicken,مرغ
+839,A2,K1,chief,رئیس
+840,A1,K1,child,کودک
+841,A2,K1,childhood,کودکی
+842,A2,K1,chip,تراشه
+843,A1,K1,chocolate,شکلات
+844,A2,K1,choice,انتخاب
+845,B1,K1,choir,گروه کر
+846,B2,K1,cholesterol,کلسترول
+847,A1,K4,choose,انتخاب کردن
+848,B1,K4,chop,خرد کردن
+849,A2,K1,chore,کار روزمره
+850,B2,K2,chronic,مزمن
+851,B1,K1,chunk,تکه بزرگ
+852,A2,K1,church,کلیسا
+853,A2,K1,cigarette,سیگار
+854,A2,K1,cinema,سینما
+855,B2,K5,circa,حدودا
+856,A1,K1,circle,دایره
+857,B1,K1,circuit,مدار
+858,B2,K4,circulate,به گردش درآوردن
+859,B2,K1,circulation,گردش
+860,B1,K1,circumstance,شرایط
+861,B2,K4,cite,نقل قول کردن
+862,A2,K1,citizen,شهروند
+863,B2,K1,citizenship,شهروندی
+864,A1,K1,city,شهر
+865,B2,K2,civic,مدنی
+866,B1,K2,civil,مدنی
+867,B2,K1,civilian,غیر نظامی
+868,B2,K1,civilization,تمدن
+869,B1,K4,claim,ادعا کردن
+870,C1,K1,clan,قبیله
+871,B2,K4,clap,دست زدن
+872,B2,K4,clarify,روشن کردن
+873,B2,K1,clarity,وضوح
+874,B2,K1,clash,درگیری
+875,A1,K1,class,کلاس
+876,A2,K2,classic,کلاسیک
+877,B1,K2,classical,کلاسیک
+878,C1,K1,classification,طبقه بندی
+879,B2,K4,classify,طبقه بندی کردن
+880,A1,K1,classroom,کلاس درس
+881,A2,K1,clause,بند
+882,B2,K1,clay,خاک رس
+883,A1,K4,clean,تمیز کردن
+884,B1,K1,cleaning,تمیز کردن
+885,A1,K2,clear,واضح
+886,A2,K5,clearly,به وضوح
+887,C1,K1,cleric,روحانی
+888,C1,K2,clerical,دفتری
+889,A2,K1,clerk,منشی
+890,A2,K2,clever,باهوش
+891,A2,K4,click,کلیک کردن
+892,B1,K1,client,مشتری
+893,C1,K1,clientele,مشتریان
+894,B2,K1,cliff,صخره
+895,A2,K1,climate,آب و هوا
+896,A2,K4,climb,بالا رفتن
+897,C1,K4,cling,چسبیدن
+898,B1,K1,clinic,کلینیک
+899,B1,K2,clinical,بالینی
+900,B1,K1,clip,کلیپ
+901,A1,K1,clock,ساعت
+902,A1,K4,close,بستن
+903,A2,K2,closed,بسته
+904,B1,K5,closely,از نزدیک
+905,B1,K5,closer,نزدیکتر
+906,A2,K1,closet,کمد
+907,B2,K1,closure,تعطیلی
+908,A2,K1,cloth,پارچه
+909,A1,K1,clothes,لباس
+910,A2,K1,clothing,پوشاک
+911,A2,K1,cloud,ابر
+912,B2,K1,clown,دلقک
+913,A1,K1,club,باشگاه
+914,A2,K1,clue,سرنخ
+915,B2,K1,cluster,خوشه
+916,B2,K4,clutch,چنگ زدن
+917,A2,K1,coach,مربی
+918,A2,K1,coal,زغال سنگ
+919,B2,K1,coalition,ائتلاف
+920,B1,K1,coast,ساحل
+921,A1,K1,coat,کت
+922,B1,K1,cocktail,کوکتل
+923,A2,K1,code,کد
+924,A1,K1,coffee,قهوه
+925,B2,K2,cognitive,شناختی
+926,A2,K1,coin,سکه
+927,B2,K4,coincide,مصادف شدن
+928,B2,K1,coincidence,تصادف
+929,A1,K2,cold,سرد
+930,B2,K4,collaborate,همکاری کردن
+931,B2,K1,collaboration,همکاری
+932,B2,K4,collapse,فروپاشی
+933,B1,K1,colleague,همکار
+934,A2,K4,collect,جمع آوری کردن
+935,A2,K1,collection,مجموعه
+936,B2,K2,collective,جمعی
+937,C1,K1,collector,کلکسیونر
+938,A2,K1,college,کالج
+939,B2,K1,collision,برخورد
+940,B2,K2,colonial,استعماری
+941,B2,K1,colony,مستعمره
+942,A1,K1,color,رنگ
+943,B1,K2,colorful,رنگارنگ
+944,B1,K1,column,ستون
+945,A2,K1,comb,شانه
+946,B1,K1,combat,مبارزه
+947,B1,K1,combination,ترکیب
+948,B1,K4,combine,ترکیب کردن
+949,A1,K4,come,آمدن
+950,B2,K1,comedian,کمدین
+951,A1,K1,comedy,کمدی
+952,B1,K1,comfort,آسایش
+953,A1,K2,comfortable,راحت
+954,B1,K2,comic,کمیک
+955,C1,K2,comical,خنده دار
+956,A2,K1,command,فرمان
+957,B2,K1,commander,فرمانده
+958,C1,K4,commemorate,گرامیداشت
+959,C1,K4,commend,ستودن
+960,A2,K1,comment,نظر
+961,B2,K1,commentary,تفسیر
+962,B2,K1,commentator,مفسر
+963,A2,K2,commercial,تجاری
+964,B1,K1,commission,کمیسیون
+965,B2,K1,commissioner,کمیسر
+966,B1,K4,commit,مرتکب شدن
+967,B1,K1,commitment,تعهد
+968,B1,K1,committee,کمیته
+969,B2,K1,commodity,کالا
+970,A1,K2,common,مشترک
+971,B1,K5,commonly,معمولا
+972,A2,K4,communicate,ارتباط برقرار کردن
+973,A2,K1,communication,ارتباط
+974,C1,K1,communism,کمونیسم
+975,C1,K1,communist,کمونیست
+976,A2,K1,community,جامعه
+977,A2,K2,compact,فشرده
+978,B1,K1,companion,همدم
+979,A1,K1,company,شرکت
+980,B1,K2,comparable,قابل مقایسه
+981,C1,K5,comparatively,نسبتا
+982,A2,K4,compare,مقایسه کردن
+983,B1,K1,comparison,مقایسه
+984,B2,K1,compassion,همدردی
+985,B2,K4,compel,مجبور کردن
+986,B2,K2,compelling,متقاعد کننده
+987,B2,K4,compensate,جبران کردن
+988,B2,K1,compensation,غرامت
+989,A2,K4,compete,رقابت کردن
+990,B2,K1,competence,شایستگی
+991,B2,K2,competent,شایسته
+992,A2,K1,competition,رقابت
+993,B1,K2,competitive,رقابتی
+994,B1,K1,competitor,رقیب
+995,C1,K1,compilation,تالیف
+996,B2,K4,compile,گردآوری کردن
+997,A2,K4,complain,شکایت کردن
+998,A2,K1,complaint,شکایت
+999,B2,K1,complement,مکمل
+1000,A2,K2,complete,کامل
+1001,A2,K5,completely,کاملا
+1002,A2,K2,complex,پیچیده
+1003,B2,K1,complexity,پیچیدگی
+1004,B2,K1,compliance,انطباق
+1005,B1,K2,complicated,پیچیده
+1006,B2,K1,complication,عارضه
+1007,B1,K1,compliment,تعریف
+1008,B2,K4,comply,رعایت کردن
+1009,B1,K1,component,جزء
+1010,B2,K4,compose,ساختن
+1011,B1,K1,composer,آهنگساز
+1012,B2,K2,composite,مرکب
+1013,B1,K1,composition,ترکیب
+1014,B1,K1,compound,ترکیب
+1015,A2,K4,comprehend,درک کردن
+1016,C1,K1,comprehension,درک مطلب
+1017,B1,K2,comprehensive,جامع
+1018,C1,K4,compress,فشرده کردن
+1019,B2,K4,comprise,شامل بودن
+1020,B1,K1,compromise,مصالحه
+1021,B2,K2,compulsory,اجباری
+1022,C1,K1,computation,محاسبه
+1023,B2,K4,compute,محاسبه کردن
+1024,A1,K1,computer,کامپیوتر
+1025,B1,K4,conceal,پنهان کردن
+1026,B2,K4,concede,واگذار کردن
+1027,B2,K4,conceive,تصور کردن
+1028,B1,K4,concentrate,تمرکز کردن
+1029,B1,K1,concentration,تمرکز
+1030,B1,K1,concept,مفهوم
+1031,C1,K1,conception,لقاح، مفهوم
+1032,C1,K2,conceptual,مفهومی
+1033,A2,K1,concern,نگرانی
+1034,B1,K2,concerned,نگران
+1035,A2,K1,concert,کنسرت
+1036,B2,K1,concession,امتیاز
+1037,A2,K4,conclude,نتیجه گیری کردن
+1038,A2,K1,conclusion,نتیجه
+1039,B2,K2,concrete,بتن، عینی
+1040,B2,K4,condemn,محکوم کردن
+1041,B1,K2,condensed,فشرده
+1042,A1,K1,condition,وضعیت
+1043,B1,K1,conduct,رفتار
+1044,C1,K2,confederate,متحد
+1045,C1,K4,confer,اعطا کردن
+1046,A2,K1,conference,کنفرانس
+1047,B2,K4,confess,اعتراف کردن
+1048,B2,K1,confession,اعتراف
+1049,B1,K1,confidence,اعتماد به نفس
+1050,A2,K2,confident,مطمئن
+1051,B2,K2,confidential,محرمانه
+1052,B2,K1,configuration,پیکربندی
+1053,B2,K4,confine,محدود کردن
+1054,A2,K4,confirm,تایید کردن
+1055,B2,K1,confirmation,تایید
+1056,B1,K1,conflict,درگیری
+1057,B2,K4,conform,مطابقت کردن
+1058,B2,K4,confront,مقابله کردن
+1059,B2,K1,confrontation,تقابل
+1060,B1,K4,confuse,گیج کردن
+1061,A2,K2,confused,گیج
+1062,A2,K2,confusing,گیج کننده
+1063,B1,K1,confusion,سردرگمی
+1064,C1,K4,congratulate,تبریک گفتن
+1065,A2,K1,congratulations,تبریک
+1066,C1,K1,congregation,جماعت
+1067,B2,K2,congressional,کنگره ای
+1068,A1,K4,connect,وصل کردن
+1069,A2,K1,connection,ارتباط
+1070,B2,K1,conscience,وجدان
+1071,B1,K2,conscious,آگاه
+1072,B2,K1,consciousness,آگاهی
+1073,B2,K2,consecutive,متوالی
+1074,B2,K1,consensus,اجماع
+1075,B2,K1,consent,رضایت
+1076,B1,K1,consequence,نتیجه
+1077,B2,K5,consequently,در نتیجه
+1078,B2,K1,conservation,حفاظت
+1079,B1,K2,conservative,محافظه کار
+1080,A2,K4,consider,در نظر گرفتن
+1081,B1,K2,considerable,قابل توجه
+1082,B2,K5,considerably,به طور قابل ملاحظه ای
+1083,B1,K1,consideration,ملاحظه
+1084,A2,K4,consist,شامل بودن
+1085,C1,K1,consistency,ثبات
+1086,B2,K2,consistent,ثابت قدم
+1087,B2,K5,consistently,به طور مداوم
+1088,C1,K4,consolidate,تحکیم کردن
+1089,A2,K1,consonant,حرف بیصدا
+1090,B2,K1,conspiracy,توطئه
+1091,B1,K2,constant,ثابت
+1092,C1,K4,constantiate,اثبات کردن
+1093,B1,K5,constantly,به طور مداوم
+1094,B2,K1,constituency,حوزه انتخابیه
+1095,B2,K1,constituent,جزء
+1096,B2,K4,constitute,تشکیل دادن
+1097,B2,K1,constitution,قانون اساسی
+1098,B2,K2,constitutional,مطابق قانون اساسی
+1099,B2,K1,constraint,محدودیت
+1100,B1,K4,construct,ساختن
+1101,B1,K1,construction,ساخت و ساز
+1102,C1,K1,consulate,کنسولگری
+1103,B1,K4,consult,مشورت کردن
+1104,B1,K1,consultant,مشاور
+1105,B1,K4,consume,مصرف کردن
+1106,B1,K1,consumer,مصرف کننده
+1107,B1,K1,consumption,مصرف
+1108,A2,K1,contact,تماس
+1109,A2,K4,contain,شامل بودن
+1110,A2,K1,container,ظرف
+1111,B2,K4,contemplate,تفکر کردن
+1112,B1,K2,contemporary,معاصر
+1113,C1,K1,contempt,تحقیر
+1114,B2,K4,contend,ادعا کردن
+1115,B2,K1,contender,رقیب
+1116,A2,K2,content,راضی
+1117,B2,K1,contention,ادعا
+1118,B1,K1,contest,مسابقه
+1119,B1,K1,context,زمینه
+1120,B1,K1,continent,قاره
+1121,B2,K2,continual,مداوم
+1122,B2,K5,continually,به طور مداوم
+1123,A1,K4,continue,ادامه دادن
+1124,C1,K1,continuity,تداوم
+1125,B1,K2,continuous,مداوم
+1126,B2,K5,continuously,به طور مداوم
+1127,A2,K1,contract,قرارداد
+1128,B2,K1,contractor,پیمانکار
+1129,B2,K4,contradict,تناقض داشتن
+1130,B2,K1,contradiction,تناقض
+1131,B1,K2,contrary,برعکس
+1132,A2,K1,contrast,تضاد
+1133,A2,K4,contribute,مشارکت کردن
+1134,B1,K1,contribution,مشارکت
+1135,B2,K1,contributor,مشارکت کننده
+1136,A2,K1,control,کنترل
+1137,B1,K2,controversial,بحث برانگیز
+1138,B1,K1,controversy,جدال
+1139,B2,K4,convalesce,بهبود یافتن
+1140,B1,K1,convenience,راحتی
+1141,A2,K2,convenient,راحت
+1142,B1,K1,convention,قرارداد
+1143,B1,K2,conventional,مرسوم
+1144,A1,K1,conversation,گفتگو
+1145,B2,K1,conversion,تبدیل
+1146,B1,K4,convert,تبدیل کردن
+1147,B2,K4,convey,منتقل کردن
+1148,B2,K1,convict,محکوم
+1149,B2,K1,conviction,اعتقاد راسخ
+1150,B1,K4,convince,متقاعد کردن
+1151,B2,K2,convinced,متقاعد شده
+1152,B2,K2,convincing,متقاعد کننده
+1153,A1,K4,cook,آشپزی کردن
+1154,A2,K1,cooker,اجاق گاز
+1155,A2,K1,cookie,کلوچه
+1156,A2,K1,cooking,آشپزی
+1157,A2,K2,cool,خنک
+1158,B1,K4,cooperate,همکاری کردن
+1159,B1,K1,cooperation,همکاری
+1160,B2,K2,cooperative,تعاونی
+1161,B1,K4,coordinate,هماهنگ کردن
+1162,B2,K1,coordination,هماهنگی
+1163,B2,K1,coordinator,هماهنگ کننده
+1164,B1,K1,cop,پلیس
+1165,B1,K4,cope,کنار آمدن
+1166,B1,K1,copper,مس
+1167,A1,K1,copy,کپی
+1168,B2,K1,copyright,حق چاپ
+1169,B1,K1,core,هسته
+1170,B1,K1,corn,ذرت
+1171,A1,K1,corner,گوشه
+1172,C1,K1,corporal,سرجوخه
+1173,B1,K2,corporate,شرکتی
+1174,B1,K1,corporation,شرکت
+1175,C1,K1,corps,سپاه
+1176,A1,K2,correct,درست
+1177,C1,K2,correctional,اصلاحی
+1178,A2,K5,correctly,به درستی
+1179,B2,K4,correlate,مرتبط بودن
+1180,B2,K1,correlation,همبستگی
+1181,B2,K4,correspond,مطابقت داشتن
+1182,B2,K1,correspondence,مکاتبات
+1183,B2,K1,correspondent,خبرنگار
+1184,B2,K2,corresponding,مربوطه
+1185,B2,K1,corridor,راهرو
+1186,B2,K2,corrupt,فاسد
+1187,B2,K1,corruption,فساد
+1188,A1,K1,cost,هزینه
+1189,B2,K2,costly,پرهزینه
+1190,A2,K1,costume,لباس محلی
+1191,A2,K1,cottage,کلبه
+1192,A2,K1,cotton,پنبه
+1193,B1,K1,couch,کاناپه
+1194,A2,K1,cough,سرفه
+1195,A1,K4,could,می توانست
+1196,B1,K1,council,شورا
+1197,B2,K1,counsel,مشاور
+1198,C1,K1,counseling,مشاوره
+1199,B1,K1,counselling,مشاوره
+1200,B1,K1,counsellor,مشاور
+1201,B1,K1,counselor,مشاور
+1202,A1,K4,count,شمردن
+1203,B1,K1,counter,پیشخوان
+1204,B1,K1,counterpart,همتا
+1205,B2,K2,countless,بی شمار
+1206,A1,K1,country,کشور
+1207,A2,K1,countryside,حومه شهر
+1208,B1,K1,county,شهرستان
+1209,B2,K1,coup,کودتا
+1210,A2,K1,couple,زوج
+1211,A2,K1,courage,شجاعت
+1212,A1,K1,course,دوره
+1213,B1,K1,court,دادگاه
+1214,B2,K1,courtesy,ادب
+1215,B2,K1,courtroom,دادگاه
+1216,A1,K1,cousin,پسرعمو، دخترعمو
+1217,A1,K4,cover,پوشاندن
+1218,B2,K1,coverage,پوشش خبری
+1219,A2,K1,cow,گاو
+1220,B1,K1,crab,خرچنگ
+1221,B1,K1,crack,ترک
+1222,B2,K1,cradle,گهواره
+1223,B1,K1,craft,صنایع دستی
+1224,B2,K4,cram,به زور جا دادن
+1225,A2,K1,crash,تصادف
+1226,B2,K4,crawl,خزیدن
+1227,A2,K2,crazy,دیوانه
+1228,A2,K1,cream,خامه
+1229,A2,K4,create,ایجاد کردن
+1230,B1,K1,creation,خلقت
+1231,A2,K2,creative,خلاق
+1232,B2,K1,creativity,خلاقیت
+1233,B2,K1,creator,خالق
+1234,A2,K1,creature,موجود
+1235,B2,K1,credibility,اعتبار
+1236,B2,K2,credible,معتبر
+1237,A2,K1,credit,اعتبار
+1238,B2,K1,creditor,طلبکار
+1239,C1,K1,creed,عقیده
+1240,B2,K1,creek,نهر
+1241,B2,K4,creep,خزیدن
+1242,A2,K1,crew,خدمه
+1243,A2,K1,cricket,کریکت
+1244,A2,K1,crime,جرم
+1245,A2,K1,criminal,مجرم
+1246,B2,K4,cripple,فلج کردن
+1247,A2,K1,crisis,بحران
+1248,B1,K2,crisp,ترد
+1249,B2,K1,criteria,معیارها
+1250,A2,K1,critic,منتقد
+1251,B1,K2,critical,بحرانی
+1252,B1,K1,criticism,انتقاد
+1253,B1,K4,criticize,انتقاد کردن
+1254,B2,K1,critique,نقد
+1255,A2,K1,crop,محصول
+1256,A2,K1,cross,صلیب
+1257,A2,K1,crowd,جمعیت
+1258,A2,K2,crowded,شلوغ
+1259,B1,K1,crown,تاج
+1260,B2,K2,crucial,حیاتی
+1261,B2,K2,crude,خام
+1262,A2,K2,cruel,ظالم
+1263,B1,K1,cruise,سفر دریایی
+1264,B1,K4,crush,له کردن
+1265,A2,K4,cry,گریه کردن
+1266,B1,K1,crystal,کریستال
+1267,B1,K1,cue,اشاره
+1268,B2,K1,cult,فرقه
+1269,B1,K4,cultivate,کشت کردن
+1270,A2,K2,cultural,فرهنگی
+1271,A2,K1,culture,فرهنگ
+1272,A1,K1,cup,فنجان
+1273,A2,K1,cupboard,کابینت
+1274,A2,K1,cure,درمان
+1275,B1,K1,curiosity,کنجکاوی
+1276,B1,K2,curious,کنجکاو
+1277,A2,K1,curl,فر
+1278,A2,K2,curly,فرفری
+1279,A2,K1,currency,ارز
+1280,A2,K2,current,جاری
+1281,B1,K5,currently,در حال حاضر
+1282,B1,K1,curriculum,برنامه تحصیلی
+1283,B2,K1,curse,نفرین
+1284,A2,K1,curtain,پرده
+1285,B1,K1,curve,منحنی
+1286,B1,K2,curved,منحنی
+1287,B2,K1,custody,حضانت
+1288,B1,K1,custom,سفارشی
+1289,A1,K1,customer,مشتری
+1290,A1,K4,cut,بریدن
+1291,A2,K2,cute,ناز
+1292,B2,K2,cutting,برنده
+1293,B1,K1,cycle,چرخه
+1294,A2,K1,cycling,دوچرخه سواری
+1295,B2,K2,cynical,بدبین
+1296,A2,K1,dad,بابا
+1297,A2,K2,daily,روزانه
+1298,B1,K1,dairy,لبنیات
+1299,B2,K1,dam,سد
+1300,B1,K2,damage,خسارت
+1301,B1,K2,damn,لعنتی
+1302,A1,K1,dance,رقص
+1303,A1,K1,dancer,رقصنده
+1304,A1,K1,dancing,رقص
+1305,A1,K1,danger,خطر
+1306,A1,K2,dangerous,خطرناک
+1307,B1,K4,dare,جرات کردن
+1308,A1,K2,dark,تاریک
+1309,B1,K1,darkness,تاریکی
+1310,A2,K1,darling,عزیزم
+1311,B2,K1,dart,دارت
+1312,B1,K1,dash,خط تیره
+1313,A2,K1,data,داده ها
+1314,B1,K1,database,پایگاه داده
+1315,A1,K1,date,تاریخ
+1316,C1,K1,dating,قرار گذاشتن
+1317,A1,K1,daughter,دختر
+1318,B1,K1,dawn,سپیده دم
+1319,A1,K1,day,روز
+1320,B2,K1,daytime,روز
+1321,B2,K2,dazzling,خیره کننده
+1322,A2,K2,dead,مرده
+1323,B1,K1,deadline,مهلت
+1324,B1,K2,deadly,مرگبار
+1325,A2,K2,deaf,ناشنوا
+1326,A2,K1,deal,معامله
+1327,B1,K1,dealer,فروشنده
+1328,A1,K2,dear,عزیز
+1329,A2,K1,death,مرگ
+1330,A2,K1,debate,بحث
+1331,B2,K1,debris,آوار
+1332,B1,K1,debt,بدهی
+1333,B2,K1,debtor,بدهکار
+1334,B2,K1,debut,اولین حضور
+1335,B1,K1,decade,دهه
+1336,A2,K1,decay,پوسیدگی
+1337,C1,K2,deceased,متوفی
+1338,A2,K4,deceive,فریب دادن
+1339,A2,K2,decent,مناسب
+1340,B2,K1,deception,فریب
+1341,A1,K4,decide,تصمیم گرفتن
+1342,B2,K1,decimal,اعشاری
+1343,A2,K1,decision,تصمیم
+1344,B2,K2,decisive,قاطع
+1345,B2,K1,deck,عرشه
+1346,B2,K1,declaration,اعلامیه
+1347,B2,K4,declare,اعلام کردن
+1348,B1,K1,decline,کاهش
+1349,A2,K4,decorate,تزئین کردن
+1350,A2,K1,decoration,تزئین
+1351,A2,K1,decrease,کاهش
+1352,B2,K4,dedicate,اختصاص دادن
+1353,B2,K2,dedicated,فداکار
+1354,B2,K1,dedication,فداکاری
+1355,B2,K1,deed,عمل
+1356,B2,K4,deem,پنداشتن
+1357,A2,K2,deep,عمیق
+1358,B1,K5,deeply,عمیقا
+1359,B2,K1,deer,گوزن
+1360,B2,K1,default,پیش فرض
+1361,A2,K1,defeat,شکست
+1362,B2,K1,defect,نقص
+1363,B1,K4,defend,دفاع کردن
+1364,B2,K1,defendant,متهم
+1365,B2,K1,defender,مدافع
+1366,B1,K1,defense,دفاع
+1367,B2,K2,defensive,دفاعی
+1368,C1,K1,defiance,نافرمانی
+1369,B2,K1,deficiency,کمبود
+1370,B2,K1,deficit,کسری
+1371,A2,K4,define,تعریف کردن
+1372,A2,K2,definite,معین
+1373,A2,K5,definitely,قطعا
+1374,A2,K1,definition,تعریف
+1375,B2,K4,defy,سرپیچی کردن
+1376,A2,K1,degree,درجه
+1377,A2,K1,delay,تاخیر
+1378,B2,K1,delegate,نماینده
+1379,B2,K1,delegation,هیئت نمایندگی
+1380,B1,K4,delete,حذف کردن
+1381,B2,K2,deliberate,عمدی
+1382,B2,K5,deliberately,عمدا
+1383,B1,K2,delicate,ظریف
+1384,A2,K2,delicious,خوشمزه
+1385,A2,K1,delight,لذت
+1386,B1,K2,delighted,خوشحال
+1387,A2,K4,deliver,تحویل دادن
+1388,B1,K1,delivery,تحویل
+1389,B2,K1,delta,دلتا
+1390,A2,K1,demand,تقاضا
+1391,B2,K1,demise,مرگ
+1392,B1,K1,democracy,دموکراسی
+1393,B2,K2,democratic,دموکراتیک
+1394,B2,K2,demographic,جمعیت شناختی
+1395,C1,K4,demolish,تخریب کردن
+1396,B2,K1,denial,انکار
+1397,B2,K4,denounce,محکوم کردن
+1398,B2,K2,dense,متراکم
+1399,B2,K1,density,تراکم
+1400,A2,K1,dentist,دندانپزشک
+1401,B2,K4,deny,انکار کردن
+1402,A2,K4,depart,عزیمت کردن
+1403,B2,K1,department,بخش
+1404,A2,K1,departure,عزیمت
+1405,A1,K4,depend,بستگی داشتن
+1406,B2,K1,dependence,وابستگی
+1407,B1,K2,dependent,وابسته
+1408,B2,K4,depict,به تصویر کشیدن
+1409,B2,K4,deploy,مستقر کردن
+1410,B2,K1,deployment,استقرار
+1411,A2,K1,deposit,سپرده
+1412,A2,K2,depressed,افسرده
+1413,A2,K2,depressing,افسرده کننده
+1414,B1,K1,depression,افسردگی
+1415,B2,K4,deprive,محروم کردن
+1416,A2,K1,depth,عمق
+1417,B2,K1,deputy,معاون
+1418,B2,K4,derive,مشتق شدن
+1419,B2,K4,descend,فرود آمدن
+1420,B2,K1,descent,تبار
+1421,A1,K4,describe,توصیف کردن
+1422,A1,K1,description,شرح
+1423,A2,K1,desert,بیابان
+1424,B1,K4,deserve,سزاوار بودن
+1425,A2,K1,design,طرح
+1426,A2,K1,designer,طراح
+1427,B2,K2,desirable,مطلوب
+1428,A2,K1,desire,میل
+1429,A1,K1,desk,میز
+1430,B2,K1,desktop,دسکتاپ
+1431,B1,K2,desperate,ناامید
+1432,B2,K5,desperately,از روی ناچاری
+1433,B1,K6,despite,علیرغم
+1434,A2,K1,dessert,دسر
+1435,B1,K1,destination,مقصد
+1436,B2,K2,destined,مقدر
+1437,A2,K4,destroy,نابود کردن
+1438,B1,K1,destruction,تخریب
+1439,B2,K4,detach,جدا کردن
+1440,A2,K1,detail,جزئیات
+1441,B1,K2,detailed,با جزئیات
+1442,B2,K4,detain,بازداشت کردن
+1443,B1,K4,detect,تشخیص دادن
+1444,B2,K1,detection,تشخیص
+1445,A2,K1,detective,کارآگاه
+1446,B2,K1,detector,ردیاب
+1447,B2,K1,detention,بازداشت
+1448,B2,K4,deter,بازداشتن
+1449,B2,K4,deteriorate,وخیم شدن
+1450,B2,K1,deterioration,وخامت
+1451,B1,K1,determination,عزم
+1452,A2,K4,determine,تعیین کردن
+1453,B1,K2,determined,مصمم
+1454,B2,K4,devastate,ویران کردن
+1455,B2,K1,develop,توسعه دادن
+1456,B1,K2,developing,در حال توسعه
+1457,A2,K1,development,توسعه
+1458,A2,K1,device,دستگاه
+1459,B2,K1,devil,شیطان
+1460,B2,K4,devise,ابداع کردن
+1461,C1,K2,devoid,خالی
+1462,B2,K4,devote,وقف کردن
+1463,B2,K4,diagnose,تشخیص دادن
+1464,B2,K1,diagnosis,تشخیص
+1465,B1,K1,diagram,نمودار
+1466,A2,K1,dial,شماره گیری
+1467,B1,K1,dialogue,گفتگو
+1468,B2,K1,diameter,قطر
+1469,B1,K1,diamond,الماس
+1470,A2,K1,diary,دفتر خاطرات
+1471,B2,K4,dictate,دیکته کردن
+1472,B2,K1,dictator,دیکتاتور
+1473,A1,K1,dictionary,فرهنگ لغت
+1474,A2,K4,die,مردن
+1475,A2,K1,diet,رژیم غذایی
+1476,B2,K4,differ,متفاوت بودن
+1477,A1,K1,difference,تفاوت
+1478,A1,K2,different,متفاوت
+1479,C1,K1,differential,دیفرانسیل
+1480,B2,K4,differentiate,تمایز قائل شدن
+1481,B1,K5,differently,متفاوت
+1482,A1,K2,difficult,دشوار
+1483,A2,K1,difficulty,دشواری
+1484,B2,K4,diffuse,پخش کردن
+1485,A2,K4,dig,حفر کردن
+1486,A2,K2,digital,دیجیتال
+1487,B2,K1,dignity,وقار
+1488,B2,K1,dilemma,دوراهی
+1489,B2,K1,dime,ده سنت
+1490,B1,K1,dimension,بعد
+1491,B2,K2,dimensional,بعدی
+1492,B2,K4,diminish,کاهش دادن
+1493,B1,K1,dining,ناهارخوری
+1494,A1,K1,dinner,شام
+1495,A2,K1,dip,فرو بردن
+1496,B2,K1,diplomat,دیپلمات
+1497,B2,K2,diplomatic,دیپلماتیک
+1498,A2,K2,direct,مستقیم
+1499,A2,K1,direction,جهت
+1500,A2,K5,directly,مستقیما
+1501,A2,K1,director,کارگردان
+1502,B2,K1,directory,فهرست راهنما
+1503,A2,K1,dirt,خاک
+1504,A2,K2,dirty,کثیف
+1505,B1,K1,disability,ناتوانی
+1506,B1,K4,disagree,مخالفت کردن
+1507,A2,K1,disagreement,مخالفت
+1508,A2,K4,disappear,ناپدید شدن
+1509,B1,K1,disappearance,ناپدید شدن
+1510,A2,K4,disappoint,ناامید کردن
+1511,A2,K2,disappointed,ناامید
+1512,A2,K2,disappointing,ناامید کننده
+1513,B1,K1,disappointment,ناامیدی
+1514,A2,K1,disaster,فاجعه
+1515,B1,K2,disastrous,فاجعه بار
+1516,B1,K1,disc,دیسک
+1517,B2,K4,discard,دور انداختن
+1518,B2,K4,discharge,مرخص کردن
+1519,B2,K1,disciple,شاگرد
+1520,B2,K2,disciplinary,انضباطی
+1521,A2,K1,discipline,انضباط
+1522,B1,K4,disclose,فاش کردن
+1523,B2,K1,disclosure,افشاگری
+1524,A2,K1,disco,دیسکو
+1525,A2,K1,discount,تخفیف
+1526,B1,K4,discourage,دلسرد کردن
+1527,B2,K1,discourse,گفتمان
+1528,A2,K4,discover,کشف کردن
+1529,A2,K1,discovery,کشف
+1530,B2,K2,discreet,محتاط
+1531,B2,K1,discretion,اختیار
+1532,B2,K4,discriminate,تبعیض قائل شدن
+1533,B2,K1,discrimination,تبعیض
+1534,A2,K4,discuss,بحث کردن
+1535,A2,K1,discussion,بحث
+1536,C1,K1,disdain,تحقیر
+1537,A2,K1,disease,بیماری
+1538,B1,K1,disgrace,رسوایی
+1539,B2,K1,disguise,تغییر قیافه
+1540,B1,K1,disgust,انزجار
+1541,A2,K2,disgusting,نفرت انگیز
+1542,A2,K1,dish,ظرف
+1543,B2,K2,dishonest,نادرست
+1544,A2,K1,disk,دیسک
+1545,B1,K1,dislike,دوست نداشتن
+1546,B2,K1,dismay,وحشت
+1547,B2,K4,dismiss,اخراج کردن
+1548,B2,K1,dismissal,اخراج
+1549,B1,K1,disorder,اختلال
+1550,B2,K1,disparity,تفاوت
+1551,B2,K4,dispatch,ارسال کردن
+1552,B2,K4,disperse,پراکنده کردن
+1553,B2,K4,displace,جابجا کردن
+1554,A2,K1,display,نمایش
+1555,B2,K1,disposal,دفع
+1556,B2,K4,dispose,دور انداختن
+1557,B1,K1,dispute,اختلاف
+1558,B2,K4,disrupt,مختل کردن
+1559,B2,K1,disruption,اختلال
+1560,B2,K1,dissatisfaction,نارضایتی
+1561,B2,K4,dissolve,حل شدن
+1562,A2,K1,distance,فاصله
+1563,B2,K2,distant,دور
+1564,B1,K2,distinct,متمایز
+1565,B2,K1,distinction,تمایز
+1566,B2,K2,distinctive,متمایز
+1567,B1,K4,distinguish,تشخیص دادن
+1568,B2,K4,distort,تحریف کردن
+1569,B1,K4,distract,حواس پرت کردن
+1570,B2,K1,distraction,حواس پرتی
+1571,B2,K1,distress,پریشانی
+1572,B1,K4,distribute,توزیع کردن
+1573,B1,K1,distribution,توزیع
+1574,B2,K1,distributor,توزیع کننده
+1575,B1,K1,district,منطقه
+1576,B2,K1,distrust,بی اعتمادی
+1577,B1,K4,disturb,مزاحم شدن
+1578,B1,K2,disturbing,نگران کننده
+1579,B1,K4,dive,شیرجه زدن
+1580,B1,K2,diverse,متنوع
+1581,B2,K1,diversity,تنوع
+1582,B2,K4,divert,منحرف کردن
+1583,A2,K4,divide,تقسیم کردن
+1584,B1,K2,divine,الهی
+1585,B2,K1,diving,غواصی
+1586,B1,K1,division,بخش
+1587,B1,K1,divorce,طلاق
+1588,A2,K2,divorced,مطلقه
+1589,A1,K4,do,انجام دادن
+1590,B2,K1,dock,اسکله
+1591,A1,K1,doctor,دکتر
+1592,B2,K1,doctrine,دکترین
+1593,A2,K1,document,سند
+1594,B1,K1,documentary,مستند
+1595,C1,K1,documentation,مستندات
+1596,A1,K1,dog,سگ
+1597,A2,K1,doll,عروسک
+1598,A1,K1,dollar,دلار
+1599,B2,K1,domain,دامنه
+1600,B1,K2,domestic,داخلی
+1601,B2,K1,dominance,سلطه
+1602,B1,K2,dominant,غالب
+1603,B2,K4,dominate,تسلط داشتن
+1604,B2,K4,donate,اهدا کردن
+1605,B1,K1,donation,اهدا
+1606,B2,K1,donor,اهدا کننده
+1607,B2,K1,doom,سرنوشت شوم
+1608,A1,K1,door,در
+1609,B2,K1,doorway,ورودی
+1610,B1,K1,dose,دوز
+1611,A2,K1,dot,نقطه
+1612,A2,K2,double,دو برابر
+1613,A2,K1,doubt,شک
+1614,B2,K2,doubtful,مشکوک
+1615,A1,K6,down,پایین
+1616,A2,K4,download,دانلود کردن
+1617,A2,K1,downstairs,طبقه پایین
+1618,B1,K1,downtown,مرکز شهر
+1619,B2,K2,downward,رو به پایین
+1620,A2,K1,dozen,دوجین
+1621,B1,K1,draft,پیش نویس
+1622,A2,K4,drag,کشیدن
+1623,B1,K1,dragon,اژدها
+1624,B1,K4,drain,تخلیه کردن
+1625,A2,K1,drama,درام
+1626,B1,K2,dramatic,نمایشی
+1627,B1,K5,dramatically,به طور چشمگیری
+1628,A1,K4,draw,کشیدن
+1629,B2,K1,drawback,نقطه ضعف
+1630,A2,K1,drawer,کشو
+1631,A2,K1,drawing,طراحی
+1632,B1,K2,dreadful,وحشتناک
+1633,A2,K1,dream,رویا
+1634,A1,K1,dress,لباس
+1635,A2,K2,dressed,لباس پوشیده
+1636,A2,K1,dressing,سس سالاد
+1637,B2,K4,drift,رانش
+1638,A1,K1,drink,نوشیدنی
+1639,A2,K1,drip,چکه
+1640,A1,K4,drive,رانندگی کردن
+1641,A1,K1,driver,راننده
+1642,A2,K1,driving,رانندگی
+1643,A2,K4,drop,انداختن
+1644,B1,K1,drought,خشکسالی
+1645,B1,K4,drown,غرق شدن
+1646,A2,K1,drug,دارو
+1647,A2,K1,drugstore,داروخانه
+1648,A2,K1,drum,طبل
+1649,A2,K2,drunk,مست
+1650,A2,K2,dry,خشک
+1651,B2,K2,dual,دوگانه
+1652,B2,K4,dub,دوبله کردن
+1653,A2,K2,due,ناشی از
+1654,B1,K2,dull,کسل کننده
+1655,B1,K2,dumb,لال
+1656,B1,K4,dump,دور ریختن
+1657,B2,K1,duo,دوئت
+1658,B2,K1,duplicate,تکثیر کردن
+1659,B2,K2,durable,بادوام
+1660,B2,K1,duration,مدت زمان
+1661,A1,K6,during,در طول
+1662,B2,K1,dusk,غروب
+1663,A2,K1,dust,گرد و غبار
+1664,A2,K1,duty,وظیفه
+1665,C1,K1,dwarf,کوتوله
+1666,B1,K2,dynamic,پویا
+1667,C1,K1,dynamite,دینامیت
+1668,B2,K1,e-mail,ایمیل
+1669,A1,K2,each,هر
+1670,B2,K2,eager,مشتاق
+1671,B2,K1,eagle,عقاب
+1672,A1,K1,ear,گوش
+1673,C1,K1,earl,ارل
+1674,A1,K2,early,زود
+1675,A2,K4,earn,کسب درآمد کردن
+1676,B2,K1,earnings,درآمد
+1677,A1,K1,earth,زمین
+1678,B1,K1,earthquake,زلزله
+1679,B1,K1,ease,آسانی
+1680,A1,K5,easily,به آسانی
+1681,A1,K1,east,شرق
+1682,A2,K2,eastern,شرقی
+1683,A1,K2,easy,آسان
+1684,A2,K2,easy-going,آسان گیر
+1685,A1,K4,eat,خوردن
+1686,B1,K1,echo,پژواک
+1687,A2,K1,eclipse,کسوف
+1688,B2,K2,ecological,زیست محیطی
+1689,B1,K2,economic,اقتصادی
+1690,C1,K5,economically,از نظر اقتصادی
+1691,B1,K1,economics,اقتصاد
+1692,B2,K1,economist,اقتصاددان
+1693,A2,K1,economy,اقتصاد
+1694,B2,K1,ecstasy,خلسه
+1695,A2,K1,edge,لبه
+1696,B1,K4,edit,ویرایش کردن
+1697,B1,K1,edition,نسخه
+1698,A2,K1,editor,ویرایشگر
+1699,B1,K1,editorial,سرمقاله
+1700,A2,K4,educate,آموزش دادن
+1701,A2,K1,education,تحصیلات
+1702,B1,K2,educational,آموزشی
+1703,B2,K1,educator,مربی
+1704,C1,K2,eerie,ترسناک
+1705,A2,K1,effect,اثر
+1706,A2,K2,effective,موثر
+1707,B1,K5,effectively,به طور موثر
+1708,B2,K1,effectiveness,اثربخشی
+1709,B2,K1,efficiency,بهره وری
+1710,A2,K2,efficient,کارآمد
+1711,B2,K5,efficiently,به طور کارآمد
+1712,A2,K1,effort,تلاش
+1713,A1,K1,egg,تخم مرغ
+1714,C1,K1,ego,نفس
+1715,A1,K1,eight,هشت
+1716,A1,K1,eighteen,هجده
+1717,A1,K1,eighty,هشتاد
+1718,A2,K2,either,هر کدام
+1719,B2,K2,elaborate,مفصل
+1720,A2,K1,elbow,آرنج
+1721,B1,K2,elderly,مسن
+1722,B1,K4,elect,انتخاب کردن
+1723,A2,K1,election,انتخابات
+1724,B2,K2,electoral,انتخاباتی
+1725,A2,K2,electric,برقی
+1726,B1,K2,electrical,الکتریکی
+1727,B1,K1,electricity,برق
+1728,A2,K2,electronic,الکترونیکی
+1729,B1,K1,electronics,الکترونیک
+1730,A2,K2,elegant,ظریف
+1731,A2,K1,element,عنصر
+1732,B1,K2,elementary,ابتدایی
+1733,A2,K1,elephant,فیل
+1734,B2,K4,elevate,بالا بردن
+1735,A2,K1,elevator,آسانسور
+1736,A1,K1,eleven,یازده
+1737,B2,K2,eligible,واجد شرایط
+1738,B1,K4,eliminate,حذف کردن
+1739,B2,K1,elimination,حذف
+1740,B2,K1,elite,نخبه
+1741,C1,K2,eloquent,فصیح
+1742,A1,K5,else,دیگر
+1743,B1,K5,elsewhere,جای دیگر
+1744,A2,K1,email,ایمیل
+1745,B2,K4,embark,سوار شدن
+1746,A2,K4,embarrass,خجالت زده کردن
+1747,A2,K2,embarrassed,خجالت زده
+1748,A2,K2,embarrassing,خجالت آور
+1749,B1,K1,embarrassment,خجالت
+1750,A2,K1,embassy,سفارت
+1751,B2,K4,embed,جاسازی کردن
+1752,B2,K4,embody,تجسم کردن
+1753,B2,K4,embrace,در آغوش گرفتن
+1754,A2,K4,emerge,ظاهر شدن
+1755,B2,K1,emergence,ظهور
+1756,A2,K1,emergency,اورژانس
+1757,B2,K2,emerging,در حال ظهور
+1758,B2,K1,emission,انتشار
+1759,A2,K1,emotion,احساس
+1760,B1,K2,emotional,احساسی
+1761,B2,K5,emotionally,از نظر احساسی
+1762,B2,K1,empathy,همدلی
+1763,B2,K1,emperor,امپراتور
+1764,B1,K1,emphasis,تاکید
+1765,B1,K4,emphasize,تاکید کردن
+1766,B2,K1,empire,امپراتوری
+1767,B2,K2,empirical,تجربی
+1768,A2,K4,employ,استخدام کردن
+1769,A2,K1,employee,کارمند
+1770,A2,K1,employer,کارفرما
+1771,A2,K1,employment,اشتغال
+1772,B2,K4,empower,توانمند ساختن
+1773,A2,K2,empty,خالی
+1774,B2,K4,enable,قادر ساختن
+1775,B2,K4,enact,تصویب کردن
+1776,A2,K4,enclose,محصور کردن
+1777,B2,K4,encompass,در بر گرفتن
+1778,B1,K1,encounter,رویارویی
+1779,A2,K4,encourage,تشویق کردن
+1780,B1,K1,encouragement,تشویق
+1781,B1,K2,encouraging,دلگرم کننده
+1782,A1,K1,end,پایان
+1783,B2,K1,endeavor,تلاش
+1784,A2,K1,ending,پایان
+1785,B2,K2,endless,بی پایان
+1786,B2,K4,endorse,تایید کردن
+1787,B2,K1,endorsement,تایید
+1788,B2,K4,endure,تحمل کردن
+1789,A2,K1,enemy,دشمن
+1790,A2,K2,energetic,پر انرژی
+1791,A2,K1,energy,انرژی
+1792,B2,K4,enforce,اجرا کردن
+1793,B2,K1,enforcement,اجرا
+1794,A2,K4,engage,درگیر شدن
+1795,B1,K1,engagement,نامزدی
+1796,B2,K2,engaging,جذاب
+1797,A2,K1,engine,موتور
+1798,A2,K1,engineer,مهندس
+1799,B1,K1,engineering,مهندسی
+1800,B1,K4,enhance,تقویت کردن
+1801,B2,K1,enhancement,افزایش
+1802,A2,K4,enjoy,لذت بردن
+1803,A2,K2,enjoyable,لذت بخش
+1804,B1,K1,enjoyment,لذت
+1805,A2,K2,enormous,عظیم
+1806,A1,K2,enough,کافی
+1807,B2,K4,enquire,پرس و جو کردن
+1808,A2,K1,enquiry,استعلام
+1809,B2,K4,enrich,غنی کردن
+1810,B1,K4,enroll,ثبت نام کردن
+1811,B2,K4,ensue,ناشی شدن
+1812,B1,K4,ensure,اطمینان حاصل کردن
+1813,B2,K4,entail,مستلزم بودن
+1814,A2,K4,enter,وارد شدن
+1815,B2,K1,enterprise,شرکت
+1816,A2,K4,entertain,سرگرم کردن
+1817,A2,K2,entertaining,سرگرم کننده
+1818,A2,K1,entertainment,سرگرمی
+1819,B1,K1,enthusiasm,اشتیاق
+1820,B2,K1,enthusiast,علاقه مند
+1821,B1,K2,enthusiastic,مشتاق
+1822,B1,K2,entire,کامل
+1823,B1,K5,entirely,کاملا
+1824,B2,K4,entitle,حق دادن
+1825,B2,K1,entity,موجودیت
+1826,A2,K1,entrance,ورود
+1827,B2,K1,entrepreneur,کارآفرین
+1828,A2,K1,entry,ورود
+1829,B1,K1,envelope,پاکت نامه
+1830,A2,K1,environment,محیط
+1831,A2,K2,environmental,محیطی
+1832,B2,K4,envision,تصور کردن
+1833,B2,K1,epidemic,همه گیری
+1834,B1,K1,episode,قسمت
+1835,A2,K2,equal,مساوی
+1836,B2,K1,equality,برابری
+1837,B1,K5,equally,به طور مساوی
+1838,B2,K4,equate,برابر دانستن
+1839,B2,K1,equation,معادله
+1840,B2,K1,equilibrium,تعادل
+1841,A2,K1,equipment,تجهیزات
+1842,B2,K1,equity,انصاف
+1843,B2,K2,equivalent,معادل
+1844,B2,K1,era,دوران
+1845,B2,K4,erase,پاک کردن
+1846,B2,K4,erect,برپا کردن
+1847,A2,K1,error,خطا
+1848,B2,K4,erupt,فوران کردن
+1849,B2,K4,escalate,تشدید کردن
+1850,A2,K4,escape,فرار کردن
+1851,B2,K1,escort,اسکورت
+1852,A2,K5,especially,مخصوصا
+1853,A2,K1,essay,انشا
+1854,B2,K1,essence,جوهر
+1855,A2,K2,essential,ضروری
+1856,B1,K5,essentially,اساسا
+1857,B1,K4,establish,تاسیس کردن
+1858,B1,K1,establishment,تاسیس
+1859,B1,K1,estate,ملک
+1860,B2,K1,esteem,احترام
+1861,B1,K1,estimate,تخمین
+1862,A2,K5,etc.,و غیره
+1863,B2,K2,eternal,ابدی
+1864,B2,K1,ethic,اخلاق
+1865,B2,K2,ethical,اخلاقی
+1866,B1,K2,ethnic,قومی
+1867,A2,K1,euro,یورو
+1868,C1,K4,evacuate,تخلیه کردن
+1869,C1,K4,evade,طفره رفتن
+1870,B1,K4,evaluate,ارزیابی کردن
+1871,B1,K1,evaluation,ارزیابی
+1872,B2,K4,evaporate,تبخیر شدن
+1873,B2,K1,eve,شب قبل
+1874,A1,K2,even,حتی
+1875,A1,K1,evening,عصر
+1876,A2,K1,event,رویداد
+1877,B1,K5,eventually,در نهایت
+1878,A1,K5,ever,هرگز
+1879,A1,K2,every,هر
+1880,A1,K3,everybody,همه
+1881,A2,K2,everyday,روزمره
+1882,A1,K3,everyone,همه
+1883,A1,K3,everything,همه چیز
+1884,A2,K5,everywhere,همه جا
+1885,B1,K1,evidence,مدرک
+1886,B1,K2,evident,بدیهی
+1887,A2,K2,evil,شرور
+1888,B2,K4,evoke,برانگیختن
+1889,B1,K1,evolution,تکامل
+1890,B2,K2,evolutionary,تکاملی
+1891,B2,K4,evolve,تکامل یافتن
+1892,B2,K4,exacerbate,تشدید کردن
+1893,B1,K2,exact,دقیق
+1894,A2,K5,exactly,دقیقا
+1895,B2,K4,exaggerate,اغراق کردن
+1896,A1,K1,exam,امتحان
+1897,A2,K1,examination,آزمون
+1898,A2,K4,examine,بررسی کردن
+1899,A1,K1,example,مثال
+1900,B2,K4,exasperate,عصبانی کردن
+1901,B1,K4,exceed,فراتر رفتن
+1902,B2,K1,excellence,برتری
+1903,A2,K2,excellent,عالی
+1904,A2,K6,except,به جز
+1905,B1,K1,exception,استثنا
+1906,B2,K2,exceptional,استثنایی
+1907,B2,K1,excess,اضافی
+1908,B2,K2,excessive,بیش از حد
+1909,A2,K1,exchange,مبادله
+1910,A2,K2,excited,هیجان زده
+1911,B1,K1,excitement,هیجان
+1912,A2,K2,exciting,هیجان انگیز
+1913,B2,K4,exclaim,فریاد زدن
+1914,B1,K4,exclude,مستثنی کردن
+1915,B2,K1,exclusion,حذف
+1916,B1,K2,exclusive,انحصاری
+1917,B2,K5,exclusively,منحصرا
+1918,A2,K1,excuse,بهانه
+1919,B2,K4,execute,اعدام کردن
+1920,B2,K1,execution,اعدام
+1921,A2,K1,executive,اجرایی
+1922,B2,K2,exempt,معاف
+1923,B2,K1,exemption,معافیت
+1924,A2,K1,exercise,ورزش
+1925,B2,K4,exert,اعمال کردن
+1926,B1,K4,exhaust,خسته کردن
+1927,B1,K2,exhausted,خسته
+1928,B2,K1,exhaustion,خستگی
+1929,B2,K2,exhaustive,جامع
+1930,B1,K4,exhibit,به نمایش گذاشتن
+1931,A2,K1,exhibition,نمایشگاه
+1932,B2,K1,exile,تبعید
+1933,A2,K4,exist,وجود داشتن
+1934,B1,K1,existence,وجود
+1935,B1,K2,existing,موجود
+1936,A2,K1,exit,خروج
+1937,B1,K2,exotic,عجیب و غریب
+1938,B1,K4,expand,گسترش دادن
+1939,B1,K1,expansion,گسترش
+1940,A2,K4,expect,انتظار داشتن
+1941,B1,K1,expectation,انتظار
+1942,A2,K2,expected,مورد انتظار
+1943,A2,K1,expedition,سفر
+1944,B2,K4,expel,اخراج کردن
+1945,B2,K1,expenditure,هزینه
+1946,A2,K1,expense,هزینه
+1947,A1,K2,expensive,گران
+1948,A1,K1,experience,تجربه
+1949,B1,K2,experienced,با تجربه
+1950,A2,K1,experiment,آزمایش
+1951,B1,K2,experimental,آزمایشی
+1952,A2,K1,expert,کارشناس
+1953,B2,K1,expertise,تخصص
+1954,B2,K4,expire,منقضی شدن
+1955,A2,K4,explain,توضیح دادن
+1956,A2,K1,explanation,توضیح
+1957,B2,K2,explicit,صریح
+1958,B2,K5,explicitly,صراحتا
+1959,A2,K4,explode,منفجر شدن
+1960,B2,K4,exploit,بهره برداری کردن
+1961,B2,K1,exploitation,استثمار
+1962,B2,K1,exploration,اکتشاف
+1963,A2,K4,explore,کاوش کردن
+1964,A2,K1,explosion,انفجار
+1965,B2,K2,explosive,منفجره
+1966,A2,K1,export,صادرات
+1967,B1,K4,expose,در معرض گذاشتن
+1968,B1,K1,exposure,قرار گرفتن در معرض
+1969,A2,K4,express,بیان کردن
+1970,A2,K1,expression,اصطلاح
+1971,B2,K2,exquisite,نفیس
+1972,B1,K4,extend,تمدید کردن
+1973,B1,K1,extension,تمدید
+1974,B2,K2,extensive,گسترده
+1975,B1,K1,extent,حد
+1976,B2,K1,exterior,نمای خارجی
+1977,B1,K2,external,خارجی
+1978,B2,K2,extinct,منقرض شده
+1979,B2,K1,extinction,انقراض
+1980,A2,K2,extra,اضافی
+1981,B2,K1,extract,عصاره
+1982,A2,K2,extraordinary,فوق العاده
+1983,A2,K2,extreme,شدید
+1984,B1,K5,extremely,بسیار
+1985,B2,K1,extremist,افراطی
+1986,B2,K4,exult,شادی کردن
+1987,A1,K1,eye,چشم
+1988,A2,K1,eyebrow,ابرو
+1989,C1,K1,fable,افسانه
+1990,B1,K1,fabric,پارچه
+1991,C1,K4,fabricate,جعل کردن
+1992,B1,K2,fabulous,افسانه ای
+1993,A1,K1,face,صورت
+1994,B2,K4,facilitate,تسهیل کردن
+1995,B1,K1,facility,امکانات
+1996,A1,K1,fact,حقیقت
+1997,B2,K1,faction,جناح
+1998,B1,K1,factor,عامل
+1999,A2,K1,factory,کارخانه
+2000,B2,K1,faculty,دانشکده
+2001,B1,K1,fabric,پارچه
+2002,C1,K4,fabricate,ساختن
+2003,B1,K2,fabulous,شگفت انگیز
+2004,A1,K1,face,صورت
+2005,B2,K4,facilitate,تسهیل کردن
+2006,B1,K1,facility,امکانات
+2007,A1,K1,fact,حقیقت
+2008,B2,K1,faction,جناح
+2009,B1,K1,factor,عامل
+2010,A2,K1,factory,کارخانه
+2011,B2,K1,faculty,دانشکده
+2012,B2,K4,fade,محو شدن
+2013,A2,K4,fail,شکست خوردن
+2014,A2,K1,failure,شکست
+2015,B1,K2,faint,ضعیف
+2016,A1,K2,fair,منصفانه
+2017,A2,K5,fairly,نسبتاً
+2018,A2,K1,fairy,پری
+2019,B1,K1,faith,ایمان
+2020,A2,K2,fake,تقلبی
+2021,A1,K4,fall,افتادن
+2022,B2,K2,falling,در حال سقوط
+2023,A2,K2,false,غلط
+2024,C1,K5,falsely,به دروغ
+2025,C1,K4,falter,تردید کردن
+2026,B1,K1,fame,شهرت
+2027,A2,K2,familiar,آشنا
+2028,A1,K1,family,خانواده
+2029,A1,K2,famous,معروف
+2030,A2,K1,fan,طرفدار
+2031,A2,K2,fancy,فانتزی
+2032,A2,K2,fantastic,فوق العاده
+2033,B1,K1,fantasy,خیال پردازی
+2034,A1,K2,far,دور
+2035,B1,K1,fare,کرایه
+2036,A1,K1,farm,مزرعه
+2037,A1,K1,farmer,کشاورز
+2038,A2,K1,farming,کشاورزی
+2039,B1,K4,fascinate,مجذوب کردن
+2040,B1,K2,fascinating,شگفت انگیز
+2041,A2,K1,fashion,مد
+2042,A2,K2,fashionable,مد روز
+2043,A1,K2,fast,سریع
+2044,B1,K4,fasten,بستن
+2045,A2,K2,fat,چاق
+2046,B1,K2,fatal,کشنده
+2047,B2,K1,fatality,مرگ و میر
+2048,B1,K1,fate,سرنوشت
+2049,A1,K1,father,پدر
+2050,B2,K1,fatigue,خستگی
+2051,A2,K1,fault,تقصیر
+2052,B2,K2,faulty,معیوب
+2053,A2,K1,favor,لطف
+2054,B2,K2,favorable,مطلوب
+2055,A1,K2,favorite,مورد علاقه
+2056,B1,K2,favourable,مطلوب
+2057,B1,K1,fax,فکس
+2058,A2,K1,fear,ترس
+2059,B2,K2,fearful,ترسناک
+2060,B2,K2,feasible,امکان پذیر
+2061,B2,K1,feast,جشن
+2062,B2,K1,feat,شاهکار
+2063,A2,K1,feather,پر
+2064,A2,K1,feature,ویژگی
+2065,B1,K2,federal,فدرال
+2066,A2,K1,fee,هزینه
+2067,B2,K2,feeble,ضعیف
+2068,A1,K4,feed,غذا دادن
+2069,B1,K1,feedback,بازخورد
+2070,A2,K1,feeling,احساس
+2071,A2,K1,fellow,همکار
+2072,B2,K1,fellowship,همراهی
+2073,A2,K2,female,مونث
+2074,B2,K2,feminine,زنانه
+2075,B1,K1,feminist,فمینیست
+2076,A2,K1,fence,حصار
+2077,A2,K1,ferry,کشتی
+2078,B2,K2,fertile,حاصلخیز
+2079,B2,K1,fertility,باروری
+2080,B2,K1,fertilizer,کود
+2081,C1,K2,fervent,سرسخت
+2082,A1,K1,festival,جشنواره
+2083,B2,K4,fetch,آوردن
+2084,A2,K1,fever,تب
+2085,A1,K2,few,کم
+2086,B1,K2,fewer,کمتر
+2087,B2,K1,fiancé,نامزد
+2088,B1,K1,fiber,فیبر
+2089,B1,K1,fibre,فیبر
+2090,A2,K1,fiction,داستان
+2091,B2,K2,fictional,تخیلی
+2092,B2,K1,fiddle,ویولن
+2093,C1,K1,fidelity,وفاداری
+2094,A2,K1,field,میدان
+2095,B2,K2,fierce,خشمگین
+2096,A1,K1,fifteen,پانزده
+2097,A1,K1,fifth,پنجم
+2098,A1,K1,fifty,پنجاه
+2099,A1,K4,fight,جنگیدن
+2100,A2,K1,fighter,جنگنده
+2101,A2,K1,fighting,مبارزه
+2102,A1,K1,figure,شکل
+2103,A2,K1,file,فایل
+2104,A1,K4,fill,پر کردن
+2105,A1,K1,film,فیلم
+2106,B2,K1,filmmaker,فیلمساز
+2107,B1,K1,filter,فیلتر
+2108,B2,K1,filth,کثافت
+2109,B2,K2,filthy,کثیف
+2110,A1,K2,final,نهایی
+2111,B2,K1,finale,فینال
+2112,A1,K5,finally,سرانجام
+2113,B1,K1,finance,امور مالی
+2114,A2,K2,financial,مالی
+2115,A1,K4,find,پیدا کردن
+2116,B1,K1,finding,یافته
+2117,A1,K2,fine,خوب
+2118,C1,K4,fine-tune,تنظیم دقیق
+2119,A1,K1,finger,انگشت
+2120,A1,K4,finish,تمام کردن
+2121,B2,K2,finite,محدود
+2122,A1,K1,fire,آتش
+2123,B2,K1,firearm,سلاح گرم
+2124,B2,K1,firefighter,آتش نشان
+2125,A2,K1,fireplace,شومینه
+2126,B1,K1,firm,شرکت
+2127,B2,K5,firmly,قاطعانه
+2128,A1,K2,first,اولین
+2129,A2,K5,firstly,اولا
+2130,B2,K2,fiscal,مالی
+2131,A1,K1,fish,ماهی
+2132,A2,K1,fisherman,ماهیگیر
+2133,A2,K1,fishing,ماهیگیری
+2134,A2,K2,fit,متناسب
+2135,B1,K1,fitness,تناسب اندام
+2136,B2,K2,fitting,مناسب
+2137,A1,K1,five,پنج
+2138,A2,K4,fix,تعمیر کردن
+2139,A2,K2,fixed,ثابت
+2140,B2,K1,fixture,ثابت
+2141,A2,K1,flag,پرچم
+2142,B2,K1,flair,استعداد
+2143,B2,K1,flake,پوسته
+2144,A2,K1,flame,شعله
+2145,B2,K1,flank,پهلو
+2146,B2,K4,flap,بال زدن
+2147,B2,K1,flare,شراره
+2148,A2,K1,flash,فلاش
+2149,A2,K2,flat,صاف
+2150,A2,K1,flavor,طعم
+2151,B2,K1,flaw,نقص
+2152,B2,K2,flawed,معیوب
+2153,B2,K4,flee,فرار کردن
+2154,B2,K1,fleet,ناوگان
+2155,B2,K1,flesh,گوشت
+2156,B2,K1,flexibility,انعطاف پذیری
+2157,B2,K2,flexible,انعطاف پذیر
+2158,A1,K1,flight,پرواز
+2159,B2,K4,flirt,لاس زدن
+2160,A2,K4,float,شناور شدن
+2161,B2,K1,flock,گله
+2162,A2,K1,flood,سیل
+2163,A1,K1,floor,کف
+2164,A2,K1,flour,آرد
+2165,B2,K4,flourish,شکوفا شدن
+2166,A2,K1,flow,جریان
+2167,A1,K1,flower,گل
+2168,A2,K1,flu,آنفولانزا
+2169,B2,K4,fluctuate,نوسان داشتن
+2170,B2,K2,fluffy,کرکی
+2171,B2,K1,fluid,مایع
+2172,B2,K4,flush,سرخ شدن
+2173,B2,K1,flute,فلوت
+2174,A1,K4,fly,پرواز کردن
+2175,B2,K1,flyer,آگهی
+2176,A2,K1,flying,پرواز
+2177,B2,K1,foam,کف
+2178,B2,K2,focal,کانونی
+2179,A2,K1,focus,تمرکز
+2180,B2,K1,foe,دشمن
+2181,B2,K1,fog,مه
+2182,C1,K1,foil,فویل
+2183,A2,K4,fold,تا کردن
+2184,A2,K1,folder,پوشه
+2185,B2,K1,foliage,شاخ و برگ
+2186,B1,K1,folk,مردم
+2187,B2,K1,folklore,فولکلور
+2188,A1,K4,follow,دنبال کردن
+2189,B2,K1,follower,دنبال کننده
+2190,A2,K2,following,زیر
+2191,B2,K2,fond,علاقه مند
+2192,A1,K1,food,غذا
+2193,A2,K1,fool,احمق
+2194,B1,K2,foolish,احمقانه
+2195,A1,K1,foot,پا
+2196,B2,K1,footage,فیلم
+2197,A1,K1,football,فوتبال
+2198,A1,K6,for,برای
+2199,B2,K4,forbid,منع کردن
+2200,C1,K2,forbidden,ممنوع
+2201,A2,K1,force,نیرو
+2202,C1,K1,fore,جلو
+2203,B1,K1,forecast,پیش بینی
+2204,B2,K1,forefront,خط مقدم
+2205,B2,K1,forehead,پیشانی
+2206,A1,K2,foreign,خارجی
+2207,B1,K1,foreigner,خارجی
+2208,B2,K4,foresee,پیش بینی کردن
+2209,A2,K1,forest,جنگل
+2210,A2,K5,forever,برای همیشه
+2211,B2,K4,forge,جعل کردن
+2212,A1,K4,forget,فراموش کردن
+2213,B1,K4,forgive,بخشیدن
+2214,A2,K1,fork,چنگال
+2215,A1,K1,form,فرم
+2216,A2,K2,formal,رسمی
+2217,B2,K5,formally,رسما
+2218,B1,K1,format,قالب
+2219,B2,K1,formation,تشکیل
+2220,A2,K2,former,سابق
+2221,A2,K5,formerly,سابقا
+2222,B2,K2,formidable,ترسناک
+2223,A2,K1,formula,فرمول
+2224,B2,K4,formulate,فرموله کردن
+2225,B2,K5,forth,به پیش
+2226,B2,K2,forthcoming,آینده
+2227,B1,K2,fortunate,خوش شانس
+2228,B1,K5,fortunately,خوشبختانه
+2229,A2,K1,fortune,شانس
+2230,A1,K1,forty,چهل
+2231,B2,K1,forum,انجمن
+2232,A2,K5,forward,به جلو
+2233,B2,K1,fossil,فسیل
+2234,B2,K4,foster,پرورش دادن
+2235,B2,K2,foul,ناپاک
+2236,A1,K4,found,پیدا کردن
+2237,B1,K1,foundation,بنیاد
+2238,B2,K1,founder,موسس
+2239,B2,K1,fountain,فواره
+2240,A1,K1,four,چهار
+2241,A1,K1,fourteen,چهارده
+2242,A1,K1,fourth,چهارم
+2243,B2,K1,fraction,کسر
+2244,B2,K1,fracture,شکستگی
+2245,B2,K2,fragile,شکننده
+2246,B2,K1,fragment,قطعه
+2247,B2,K1,fragrance,عطر
+2248,B2,K2,frail,ضعیف
+2249,A2,K1,frame,قاب
+2250,B2,K1,framework,چارچوب
+2251,B2,K1,franchise,حق رای
+2252,B2,K5,frankly,صادقانه
+2253,B2,K2,frantic,دیوانه وار
+2254,B2,K1,fraud,کلاهبرداری
+2255,B2,K2,fraudulent,متقلبانه
+2256,B2,K1,freak,عجیب و غریب
+2257,A1,K2,free,آزاد
+2258,A2,K1,freedom,آزادی
+2259,B2,K1,freelance,فریلنسر
+2260,B2,K5,freely,آزادانه
+2261,A2,K4,freeze,یخ زدن
+2262,A2,K1,freezer,فریزر
+2263,B2,K1,freight,بار
+2264,C1,K1,freighter,کشتی باری
+2265,B2,K1,frenzy,دیوانگی
+2266,B1,K1,frequency,فرکانس
+2267,A2,K2,frequent,مکرر
+2268,A2,K5,frequently,اغلب
+2269,A2,K2,fresh,تازه
+2270,B2,K1,freshman,دانشجوی سال اول
+2271,B2,K1,friction,اصطکاک
+2272,A2,K1,fridge,یخچال
+2273,A1,K1,friend,دوست
+2274,A1,K2,friendly,دوستانه
+2275,A2,K1,friendship,دوستی
+2276,A2,K1,fright,ترس
+2277,A2,K4,frighten,ترساندن
+2278,A2,K2,frightened,ترسیده
+2279,A2,K2,frightening,ترسناک
+2280,B2,K1,fringe,حاشیه
+2281,B2,K1,frog,قورباغه
+2282,A1,K6,from,از
+2283,A1,K1,front,جلو
+2284,B2,K1,frontier,مرز
+2285,B2,K1,frost,یخبندان
+2286,B2,K4,frown,اخم کردن
+2287,A2,K2,frozen,یخ زده
+2288,A1,K1,fruit,میوه
+2289,B2,K2,fruitful,مثمر ثمر
+2290,B1,K4,frustrate,ناامید کردن
+2291,B1,K2,frustrated,ناامید
+2292,B1,K2,frustrating,ناامید کننده
+2293,B1,K1,frustration,ناکامی
+2294,A2,K4,fry,سرخ کردن
+2295,C1,K4,fuck,لعنتی
+2296,C1,K2,fucking,لعنتی
+2297,A2,K1,fuel,سوخت
+2298,B2,K4,fulfill,برآورده کردن
+2299,A1,K2,full,پر
+2300,A2,K2,full-time,تمام وقت
+2301,B1,K5,fully,کاملا
+2302,A2,K1,fun,سرگرمی
+2303,A2,K1,function,تابع
+2304,B2,K2,functional,کاربردی
+2305,B1,K1,fund,صندوق
+2306,A2,K2,fundamental,اساسی
+2307,B2,K5,fundamentally,اساسا
+2308,B1,K1,funding,تامین مالی
+2309,B1,K1,fundraising,جمع آوری کمک مالی
+2310,B1,K1,funeral,مراسم تشییع جنازه
+2311,A1,K2,funny,خنده دار
+2312,A2,K1,fur,خز
+2313,B1,K2,furious,خشمگین
+2314,B2,K1,furnace,کوره
+2315,A2,K1,furniture,مبلمان
+2316,A2,K5,further,بیشتر
+2317,B2,K5,furthermore,علاوه بر این
+2318,B2,K1,fury,خشم
+2319,B2,K1,fuse,فیوز
+2320,B2,K1,fusion,همجوشی
+2321,B2,K1,fuss,سر و صدا
+2322,B2,K2,futile,بیهوده
+2323,A1,K1,future,آینده
+2324,B2,K2,fuzzy,کرکی
+2325,B2,K1,gadget,ابزار
+2326,A2,K1,gain,سود
+2327,B2,K1,galaxy,کهکشان
+2328,A2,K1,gallery,گالری
+2329,B1,K1,gallon,گالن
+2330,B2,K1,gallup,نظرسنجی
+2331,B1,K4,gamble,قمار کردن
+2332,B1,K1,gambling,قمار
+2333,A1,K1,game,بازی
+2334,B2,K1,gaming,بازی
+2335,B2,K1,gamma,گاما
+2336,A2,K1,gang,باند
+2337,B1,K1,gap,شکاف
+2338,A2,K1,garage,گاراژ
+2339,A2,K1,garbage,زباله
+2340,A2,K1,garden,باغ
+2341,B1,K1,garlic,سیر
+2342,B2,K1,garment,لباس
+2343,A2,K1,gas,گاز
+2344,A2,K1,gasoline,بنزین
+2345,B1,K4,gasp,نفس نفس زدن
+2346,A2,K1,gate,دروازه
+2347,A2,K4,gather,جمع آوری کردن
+2348,B1,K1,gathering,گردهمایی
+2349,B2,K1,gauge,پیمانه
+2350,B1,K2,gay,همجنسگرا
+2351,C1,K1,gaza,غزه
+2352,B1,K4,gaze,خیره شدن
+2353,B1,K1,gear,دنده
+2354,B2,K1,gem,گوهر
+2355,B1,K1,gender,جنسیت
+2356,B1,K1,gene,ژن
+2357,A2,K2,general,عمومی
+2358,A2,K5,generally,به طور کلی
+2359,B1,K4,generate,تولید کردن
+2360,A2,K1,generation,نسل
+2361,B2,K2,generic,عمومی
+2362,B1,K2,generous,سخاوتمند
+2363,B1,K2,genetic,ژنتیکی
+2364,B1,K1,genius,نابغه
+2365,B2,K1,genocide,نسل کشی
+2366,B2,K1,genre,ژانر
+2367,A2,K2,gentle,ملایم
+2368,A2,K1,gentleman,جنتلمن
+2369,B1,K5,gently,به آرامی
+2370,B1,K2,genuine,اصل
+2371,B2,K5,genuinely,واقعا
+2372,B2,K2,geographic,جغرافیایی
+2373,B2,K2,geographical,جغرافیایی
+2374,A2,K1,geography,جغرافیا
+2375,B2,K1,geology,زمین شناسی
+2376,B2,K1,geometry,هندسه
+2377,B2,K2,geopolitical,ژئوپلیتیک
+2378,B2,K1,germ,میکروب
+2379,B1,K1,gesture,ژست
+2380,A1,K4,get,گرفتن
+2381,B2,K1,getaway,فرار
+2382,A2,K1,ghost,روح
+2383,A2,K1,giant,غول پیکر
+2384,A2,K1,gift,هدیه
+2385,B2,K2,gifted,با استعداد
+2386,B2,K1,gig,کنسرت
+2387,B2,K4,giggle,خنده ریز
+2388,A1,K1,girl,دختر
+2389,A2,K1,girlfriend,دوست دختر
+2390,A1,K4,give,دادن
+2391,B1,K2,given,داده شده
+2392,B2,K1,glacier,یخچال طبیعی
+2393,A2,K2,glad,خوشحال
+2394,B2,K1,glamour,جذابیت
+2395,B1,K4,glance,نگاه کردن
+2396,B2,K4,glare,خیره شدن
+2397,A1,K1,glass,شیشه
+2398,A1,K1,glasses,عینک
+2399,B2,K4,gleam,درخشیدن
+2400,B2,K1,glimpse,نگاه گذرا
+2401,B2,K4,glitter,درخشیدن
+2402,A2,K2,global,جهانی
+2403,B2,K1,globalization,جهانی شدن
+2404,B2,K1,globe,کره زمین
+2405,B2,K1,gloom,تاریکی
+2406,B2,K2,gloomy,تاریک
+2407,B2,K2,glorious,باشکوه
+2408,B2,K1,glory,شکوه
+2409,B1,K1,glove,دستکش
+2410,B2,K1,glow,درخشش
+2411,B2,K1,glucose,گلوکز
+2412,B2,K1,glue,چسب
+2413,C1,K1,gnp,تولید ناخالص ملی
+2414,A1,K4,go,رفتن
+2415,A2,K1,goal,هدف
+2416,C1,K1,goalie,دروازه بان
+2417,B2,K1,goat,بز
+2418,B2,K1,goddess,الهه
+2419,B2,K2,going,رفتن
+2420,A2,K1,gold,طلا
+2421,B1,K2,golden,طلایی
+2422,A2,K1,golf,گلف
+2423,A1,K2,good,خوب
+2424,A2,K8,good-bye,خداحافظ
+2425,B1,K1,goodness,خوبی
+2426,B1,K1,goods,کالا
+2427,B2,K1,goodwill,حسن نیت
+2428,B1,K2,gorgeous,زرق و برق دار
+2429,B2,K1,gospel,انجیل
+2430,B1,K1,gossip,شایعات
+2431,B2,K4,govern,حکومت کردن
+2432,B2,K1,governance,حکمرانی
+2433,A2,K1,government,دولت
+2434,B1,K1,governor,فرماندار
+2435,B2,K1,gown,لباس شب
+2436,A2,K4,grab,گرفتن
+2437,A2,K1,grace,ظرافت
+2438,B2,K2,graceful,برازنده
+2439,B2,K2,gracious,مهربان
+2440,A2,K1,grade,نمره
+2441,B2,K2,gradual,تدریجی
+2442,B1,K5,gradually,به تدریج
+2443,A2,K4,graduate,فارغ التحصیل شدن
+2444,A2,K1,grain,دانه
+2445,A2,K1,grammar,گرامر
+2446,A2,K2,grand,بزرگ
+2447,B1,K1,grandchild,نوه
+2448,A2,K1,granddad,پدربزرگ
+2449,B1,K1,granddaughter,نوه دختری
+2450,A1,K1,grandfather,پدربزرگ
+2451,A2,K1,grandma,مادربزرگ
+2452,A1,K1,grandmother,مادربزرگ
+2453,A2,K1,grandpa,پدربزرگ
+2454,A2,K1,grandparent,پدربزرگ و مادربزرگ
+2455,B1,K1,grandson,نوه پسری
+2456,B1,K1,grant,کمک هزینه
+2457,A2,K1,grape,انگور
+2458,B1,K2,graphic,گرافیکی
+2459,B1,K1,graphics,گرافیک
+2460,B2,K4,grasp,گرفتن
+2461,A2,K1,grass,چمن
+2462,B2,K2,grassroots,مردمی
+2463,B2,K4,grate,رنده کردن
+2464,A2,K2,grateful,سپاسگزار
+2465,B1,K1,gratitude,قدردانی
+2466,B1,K1,grave,قبر
+2467,B2,K1,gravity,جاذبه
+2468,A1,K2,gray,خاکستری
+2469,B2,K4,graze,چریدن
+2470,B2,K1,grease,گریس
+2471,A1,K2,great,عالی
+2472,B1,K5,greatly,تا حد زیادی
+2473,B2,K1,greatness,بزرگی
+2474,B2,K1,greed,طمع
+2475,B2,K2,greedy,حریص
+2476,A1,K2,green,سبز
+2477,B1,K1,greenhouse,گلخانه
+2478,B1,K4,greet,سلام کردن
+2479,B1,K1,greeting,سلام
+2480,A1,K2,grey,خاکستری
+2481,B2,K1,grid,شبکه
+2482,B1,K1,grief,غم
+2483,B2,K1,grievance,شکایت
+2484,B2,K4,grieve,سوگواری کردن
+2485,A2,K1,grill,کباب کردن
+2486,B2,K2,grim,سخت
+2487,B2,K4,grin,پوزخند زدن
+2488,B2,K4,grind,آسیاب کردن
+2489,A2,K1,grip,گرفتن
+2490,B1,K4,groan,ناله کردن
+2491,B1,K1,grocery,خواربار
+2492,B2,K1,groom,داماد
+2493,B2,K1,grope,لمس کردن
+2494,B2,K2,gross,ناخالص
+2495,A2,K1,ground,زمین
+2496,B2,K2,grounded,زمین گیر
+2497,A1,K1,group,گروه
+2498,B2,K1,grove,بیشه
+2499,A1,K4,grow,رشد کردن
+2500,B2,K2,grown,رشد کرده
+2501,A2,K1,growth,رشد
+2502,B1,K1,guarantee,ضمانت
+2503,A2,K1,guard,نگهبان
+2504,B2,K1,guerrilla,چریک
+2505,A1,K4,guess,حدس زدن
+2506,A1,K1,guest,مهمان
+2507,B2,K1,guidance,راهنمایی
+2508,A2,K1,guide,راهنما
+2509,B1,K1,guideline,دستورالعمل
+2510,B1,K1,guilt,گناه
+2511,A2,K2,guilty,گناهکار
+2512,A1,K1,guitar,گیتار
+2513,A2,K1,gulf,خلیج
+2514,A2,K1,gun,تفنگ
+2515,B2,K1,gunman,مرد مسلح
+2516,B2,K1,gut,روده
+2517,A2,K1,guy,مرد
+2518,A2,K1,gym,باشگاه
+2519,A2,K1,gymnastics,ژیمناستیک
+2520,A2,K1,habit,عادت
+2521,B1,K1,habitat,زیستگاه
+2522,B2,K1,hail,تگرگ
+2523,A1,K1,hair,مو
+2524,A2,K1,haircut,اصلاح مو
+2525,A1,K1,half,نیم
+2526,B2,K1,half-time,بین دو نیمه
+2527,B2,K5,halfway,نیمه راه
+2528,A2,K1,hall,سالن
+2529,B2,K1,hallmark,شاخصه
+2530,B1,K1,halt,توقف
+2531,A2,K1,ham,ژامبون
+2532,A2,K1,hamburger,همبرگر
+2533,B1,K1,hammer,چکش
+2534,A1,K1,hand,دست
+2535,B1,K1,handful,یک مشت
+2536,B2,K1,handicap,معلولیت
+2537,A2,K1,handkerchief,دستمال
+2538,A2,K4,handle,رسیدگی کردن
+2539,B2,K1,handling,جابجایی
+2540,B2,K1,handout,جزوه
+2541,A2,K2,handsome,خوش تیپ
+2542,B2,K1,handwriting,دست خط
+2543,A2,K2,handy,مفید
+2544,A2,K4,hang,آویزان کردن
+2545,B2,K1,hangar,آشیانه هواپیما
+2546,A1,K4,happen,اتفاق افتادن
+2547,A2,K5,happily,با خوشحالی
+2548,A2,K1,happiness,خوشبختی
+2549,A1,K2,happy,خوشحال
+2550,B1,K4,harass,آزار دادن
+2551,B2,K1,harassment,آزار و اذیت
+2552,B1,K1,harbor,بندر
+2553,A1,K2,hard,سخت
+2554,B2,K2,hard-line,تندرو
+2555,B2,K2,hardcore,سرسخت
+2556,B2,K4,harden,سخت شدن
+2557,A2,K5,hardly,به ندرت
+2558,B1,K1,hardware,سخت افزار
+2559,B2,K2,hardy,مقاوم
+2560,A2,K1,harm,آسیب
+2561,B1,K2,harmful,مضر
+2562,C1,K4,harmonize,هماهنگ کردن
+2563,B2,K1,harmony,هماهنگی
+2564,B2,K4,harness,مهار کردن
+2565,B1,K2,harsh,خشن
+2566,B1,K1,harvest,برداشت محصول
+2567,B2,K1,hassle,دردسر
+2568,B2,K1,haste,عجله
+2569,B2,K2,hasty,عجولانه
+2570,A1,K1,hat,کلاه
+2571,B2,K4,hatch,جوجه درآوردن
+2572,A1,K4,hate,متنفر بودن
+2573,B1,K1,hatred,نفرت
+2574,B2,K4,haul,کشیدن
+2575,B2,K4,haunt,رفت و آمد کردن
+2576,A1,K4,have,داشتن
+2577,B2,K1,haven,پناهگاه
+2578,B2,K1,havoc,خرابی
+2579,B2,K1,hawk,شاهین
+2580,B2,K1,hay,علف خشک
+2581,B1,K1,hazard,خطر
+2582,B2,K2,hazardous,خطرناک
+2583,B2,K1,haze,مه
+2584,B2,K2,hazy,مه آلود
+2585,A1,K3,he,او (مذکر)
+2586,A1,K1,head,سر
+2587,A2,K1,headache,سردرد
+2588,B2,K1,heading,عنوان
+2589,B1,K1,headline,سرخط خبر
+2590,B2,K1,headmaster,مدیر مدرسه
+2591,A2,K1,headphones,هدفون
+2592,B1,K1,headquarters,دفتر مرکزی
+2593,B1,K4,heal,شفا دادن
+2594,B2,K1,healing,شفا
+2595,A1,K1,health,سلامتی
+2596,A1,K2,healthy,سالم
+2597,B2,K1,heap,توده
+2598,A1,K4,hear,شنیدن
+2599,B1,K1,hearing,شنوایی
+2600,A2,K1,heart,قلب
+2601,B2,K2,heartfelt,صمیمانه
+2602,A2,K1,heat,گرما
+2603,A2,K1,heater,بخاری
+2604,B2,K1,heating,گرمایش
+2605,B1,K1,heaven,بهشت
+2606,B1,K5,heavily,به شدت
+2607,A1,K2,heavy,سنگین
+2608,B2,K1,hedge,پرچین
+2609,B2,K4,heed,توجه کردن
+2610,B1,K1,heel,پاشنه
+2611,B2,K2,hefty,سنگین
+2612,A2,K1,height,قد
+2613,B2,K4,heighten,افزایش دادن
+2614,B2,K1,heir,وارث
+2615,B1,K1,helicopter,هلیکوپتر
+2616,B1,K1,hell,جهنم
+2617,A1,K8,hello,سلام
+2618,A1,K1,help,کمک
+2619,A2,K2,helpful,مفید
+2620,B2,K2,helpless,درمانده
+2621,B2,K1,hemisphere,نیمکره
+2622,A1,K3,hen,مرغ
+2623,B2,K5,hence,بنابراین
+2624,A1,K3,her,او (مونث)
+2625,B2,K1,herald,منادی
+2626,B1,K1,herb,گیاه
+2627,B2,K1,herd,گله
+2628,A1,K5,here,اینجا
+2629,B1,K1,heritage,میراث
+2630,A2,K1,hero,قهرمان
+2631,B2,K2,heroic,قهرمانانه
+2632,B2,K1,heroin,هروئین
+2633,B2,K1,heroine,قهرمان زن
+2634,A1,K3,hers,مال او (مونث)
+2635,A1,K3,herself,خودش (مونث)
+2636,B1,K4,hesitate,تردید کردن
+2637,B2,K1,hesitation,تردید
+2638,B2,K2,heterosexual,دگرجنسگرا
+2639,A1,K8,hey,هی
+2640,B2,K1,heyday,اوج
+2641,A1,K8,hi,سلام
+2642,C1,K1,hi-fi,سیستم صوتی
+2643,A1,K4,hide,پنهان کردن
+2644,B2,K1,hierarchy,سلسله مراتب
+2645,A1,K2,high,بلند
+2646,B2,K2,high-profile,برجسته
+2647,A2,K1,high-school,دبیرستان
+2648,A2,K1,highlands,ارتفاعات
+2649,B1,K4,highlight,برجسته کردن
+2650,B1,K5,highly,بسیار
+2651,A2,K1,highway,بزرگراه
+2652,B2,K4,hijack,هواپیماربایی
+2653,B1,K1,hike,پیاده روی
+2654,B1,K2,hilarious,خنده دار
+2655,A2,K1,hill,تپه
+2656,A1,K3,him,او (مذکر)
+2657,A1,K3,himself,خودش (مذکر)
+2658,B2,K4,hinder,مانع شدن
+2659,A2,K1,hint,اشاره
+2660,B1,K1,hip,مفصل ران
+2661,A2,K4,hire,استخدام کردن
+2662,B2,K2,historic,تاریخی
+2663,B1,K2,historical,تاریخی
+2664,B1,K5,historically,از نظر تاریخی
+2665,A1,K1,history,تاریخ
+2666,A1,K4,hit,زدن
+2667,A1,K1,hobby,سرگرمی
+2668,A2,K1,hockey,هاکی
+2669,B2,K4,hog,خوک
+2670,B2,K4,hoist,بالا بردن
+2671,A1,K4,hold,نگه داشتن
+2672,B2,K1,holder,دارنده
+2673,B2,K1,holding,نگهداری
+2674,A2,K1,hole,سوراخ
+2675,A1,K1,holiday,تعطیلات
+2676,A2,K2,hollow,توخالی
+2677,B2,K1,holocaust,هولوکاست
+2678,B1,K2,holy,مقدس
+2679,A1,K1,home,خانه
+2680,B2,K1,homeland,وطن
+2681,B1,K2,homeless,بی خانمان
+2682,B2,K1,homelessness,بی خانمانی
+2683,B1,K1,hometown,زادگاه
+2684,A1,K1,homework,تکلیف
+2685,B2,K1,homicide,قتل
+2686,B2,K2,homosexual,همجنسگرا
+2687,A2,K2,honest,صادق
+2688,B1,K5,honestly,صادقانه
+2689,B1,K1,honesty,صداقت
+2690,A2,K1,honey,عسل
+2691,A2,K1,honor,افتخار
+2692,B1,K4,hook,قلاب
+2693,B2,K1,hooligan,اراذل و اوباش
+2694,B2,K1,hoop,حلقه
+2695,A2,K4,hop,پریدن
+2696,A1,K1,hope,امید
+2697,B1,K5,hopefully,خوشبختانه
+2698,B1,K1,horizon,افق
+2699,B2,K1,hormone,هورمون
+2700,B1,K1,horn,شاخ
+2701,A2,K2,horrible,وحشتناک
+2702,B2,K2,horrific,وحشتناک
+2703,B2,K4,horrify,وحشت زده کردن
+2704,A2,K1,horror,وحشت
+2705,A1,K1,horse,اسب
+2706,B1,K1,hose,شیلنگ
+2707,B2,K2,hospitable,مهمان نواز
+2708,A1,K1,hospital,بیمارستان
+2709,A2,K1,host,میزبان
+2710,B1,K1,hostage,گروگان
+2711,B1,K1,hostel,مسافرخانه
+2712,B1,K2,hostile,خصمانه
+2713,B2,K1,hostility,خصومت
+2714,A1,K2,hot,داغ
+2715,B2,K1,hot-line,خط تلفن ویژه
+2716,A1,K1,hotel,هتل
+2717,B2,K1,hotline,خط تلفن ویژه
+2718,A1,K1,hour,ساعت
+2719,A1,K1,house,خانه
+2720,B1,K1,household,خانوار
+2721,B2,K1,housewife,خانه دار
+2722,B1,K1,housing,مسکن
+2723,B2,K4,hover,معلق بودن
+2724,A1,K5,how,چگونه
+2725,A1,K5,however,با این حال
+2726,B2,K4,howl,زوزه کشیدن
+2727,B2,K1,hub,مرکز
+2728,B2,K4,huddle,جمع شدن
+2729,B2,K1,hue,رنگ
+2730,B1,K4,hug,در آغوش گرفتن
+2731,A2,K2,huge,عظیم
+2732,B2,K1,hull,بدنه کشتی
+2733,B2,K1,hum,زمزمه کردن
+2734,A1,K2,human,انسان
+2735,B2,K2,humanitarian,بشردوستانه
+2736,B2,K1,humanity,بشریت
+2737,B2,K2,humble,فروتن
+2738,B1,K2,humid,مرطوب
+2739,B2,K4,humiliate,تحقیر کردن
+2740,B2,K2,humiliating,تحقیرآمیز
+2741,A2,K1,humor,طنز
+2742,B1,K2,humorous,شوخ
+2743,A1,K1,hundred,صد
+2744,B1,K1,hunger,گرسنگی
+2745,A1,K2,hungry,گرسنه
+2746,A2,K4,hunt,شکار کردن
+2747,A2,K1,hunter,شکارچی
+2748,A2,K1,hunting,شکار
+2749,B2,K1,hurdle,مانع
+2750,B2,K4,hurl,پرتاب کردن
+2751,B1,K1,hurricane,طوفان
+2752,A2,K4,hurry,عجله کردن
+2753,A1,K4,hurt,آسیب رساندن
+2754,A1,K1,husband,شوهر
+2755,A2,K1,hut,کلبه
+2756,B2,K1,hydrogen,هیدروژن
+2757,B2,K1,hymn,سرود
+2758,B2,K1,hype,تبلیغات اغراق آمیز
+2759,B2,K1,hypothesis,فرضیه
+2760,B2,K1,hysteria,هیستری
+2761,A2,K1,ice,یخ
+2762,B2,K1,icon,نماد
+2763,B2,K2,icy,یخی
+2764,A2,K1,idea,ایده
+2765,A2,K2,ideal,ایده آل
+2766,B2,K2,idealistic,آرمان گرا
+2767,B2,K5,ideally,در حالت ایده آل
+2768,B2,K2,identical,یکسان
+2769,B1,K1,identification,شناسایی
+2770,A2,K4,identify,شناسایی کردن
+2771,B1,K1,identity,هویت
+2772,B2,K2,ideological,ایدئولوژیک
+2773,B2,K1,ideology,ایدئولوژی
+2774,B2,K1,idiot,احمق
+2775,B2,K2,idle,بیکار
+2776,A1,K7,if,اگر
+2777,B2,K1,ignorance,جهل
+2778,B1,K4,ignore,نادیده گرفتن
+2779,A2,K2,ill,بیمار
+2780,B1,K2,illegal,غیرقانونی
+2781,B2,K5,illegally,غیرقانونی
+2782,A2,K1,illness,بیماری
+2783,B2,K4,illuminate,روشن کردن
+2784,B2,K1,illusion,توهم
+2785,B1,K4,illustrate,نشان دادن
+2786,B1,K1,illustration,تصویر
+2787,B1,K1,image,تصویر
+2788,B2,K1,imagery,تصویرسازی
+2789,B2,K2,imaginary,خیالی
+2790,A2,K1,imagination,تخیل
+2791,B2,K2,imaginative,خیال پرداز
+2792,A2,K4,imagine,تصور کردن
+2793,B2,K4,imitate,تقلید کردن
+2794,B2,K1,imitation,تقلید
+2795,A2,K2,immediate,فوری
+2796,A2,K5,immediately,فورا
+2797,B2,K2,immense,عظیم
+2798,B2,K5,immensely,بسیار
+2799,B2,K4,immerse,فرو بردن
+2800,A2,K1,immigrant,مهاجر
+2801,B1,K1,immigration,مهاجرت
+2802,B2,K2,imminent,قریب الوقوع
+2803,C1,K4,immobilize,بی حرکت کردن
+2804,B2,K2,immune,ایمن
+2805,B1,K1,impact,تاثیر
+2806,B2,K4,impair,آسیب رساندن
+2807,B2,K4,impart,ابلاغ کردن
+2808,B2,K2,impatient,بی تاب
+2809,C1,K4,impeach,استیضاح کردن
+2810,A2,K1,impending,قریب الوقوع
+2811,B2,K4,implement,پیاده سازی کردن
+2812,B2,K1,implementation,پیاده سازی
+2813,B2,K1,implication,پیامد
+2814,B2,K2,implicit,ضمنی
+2815,A2,K4,imply,دلالت کردن
+2816,B1,K4,import,وارد کردن
+2817,A1,K1,importance,اهمیت
+2818,A1,K2,important,مهم
+2819,B1,K5,importantly,مهمتر از همه
+2820,B1,K4,impose,تحمیل کردن
+2821,B2,K2,imposing,تحمیل کننده
+2822,B2,K1,imposition,تحمیل
+2823,A2,K2,impossible,غیر ممکن
+2824,C1,K2,impractical,غیر عملی
+2825,A2,K4,impress,تحت تاثیر قرار دادن
+2826,A2,K2,impressed,تحت تاثیر قرار گرفته
+2827,B1,K1,impression,برداشت
+2828,B1,K2,impressive,چشمگیر
+2829,B2,K4,imprison,زندانی کردن
+2830,B2,K1,imprisonment,حبس
+2831,B2,K4,improve,بهبود بخشیدن
+2832,B1,K1,improvement,بهبود
+2833,B2,K1,impulse,انگیزه
+2834,A1,K6,in,در
+2835,B2,K1,inability,ناتوانی
+2836,B2,K2,inaccurate,نادرست
+2837,B1,K2,inadequate,ناکافی
+2838,B1,K2,inappropriate,نامناسب
+2839,C1,K1,inbox,صندوق ورودی
+2840,B2,K2,incapable,ناتوان
+2841,B2,K1,incentive,انگیزه
+2842,C1,K2,incessant,بی وقفه
+2843,B1,K1,inch,اینچ
+2844,B1,K1,incidence,وقوع
+2845,A2,K1,incident,حادثه
+2846,B2,K5,incidentally,اتفاقا
+2847,B2,K1,inclination,تمایل
+2848,B2,K4,incline,متمایل شدن
+2849,B2,K2,inclined,متمایل
+2850,A2,K4,include,شامل شدن
+2851,A2,K6,including,شامل
+2852,B2,K1,inclusion,گنجاندن
+2853,B2,K2,inclusive,فراگیر
+2854,B1,K1,income,درآمد
+2855,B2,K4,incorporate,گنجاندن
+2856,A2,K2,incorrect,نادرست
+2857,A2,K1,increase,افزایش
+2858,B1,K2,increased,افزایش یافته
+2859,B1,K5,increasingly,به طور فزاینده
+2860,A2,K2,incredible,باور نکردنی
+2861,B2,K5,incredibly,به طور باورنکردنی
+2862,B2,K4,incur,متحمل شدن
+2863,B1,K5,indeed,در واقع
+2864,B2,K2,indefinite,نامعلوم
+2865,B2,K5,indefinitely,برای مدت نامعلوم
+2866,B1,K1,independence,استقلال
+2867,A2,K2,independent,مستقل
+2868,B2,K5,independently,مستقلا
+2869,A2,K1,index,فهرست
+2870,B2,K4,indicate,نشان دادن
+2871,B1,K1,indication,نشانه
+2872,B2,K1,indicator,شاخص
+2873,B2,K4,indict,متهم کردن
+2874,B2,K1,indictment,کیفرخواست
+2875,B2,K2,indigenous,بومی
+2876,B2,K1,indifference,بی تفاوتی
+2877,B2,K2,indignant,خشمگین
+2878,B1,K2,indirect,غیر مستقیم
+2879,B2,K5,indirectly,غیر مستقیم
+2880,B2,K2,indispensable,ضروری
+2881,A2,K1,individual,فرد
+2882,B2,K5,individually,به صورت جداگانه
+2883,B1,K2,indoor,داخلی
+2884,A2,K5,indoors,داخل خانه
+2885,B2,K4,induce,وادار کردن
+2886,B2,K4,indulge,زیاده روی کردن
+2887,B1,K2,industrial,صنعتی
+2888,B1,K2,industrialized,صنعتی شده
+2889,A2,K1,industry,صنعت
+2890,B2,K2,ineffective,بی اثر
+2891,B2,K2,inevitable,اجتناب ناپذیر
+2892,B2,K5,inevitably,ناگزیر
+2893,B2,K2,infamous,بدنام
+2894,B2,K1,infant,نوزاد
+2895,B2,K1,infantry,پیاده نظام
+2896,B2,K4,infect,آلوده کردن
+2897,A2,K1,infection,عفونت
+2898,B2,K1,inference,استنتاج
+2899,A2,K2,inferior,پست تر
+2900,B2,K2,infinite,بی نهایت
+2901,C1,K1,infinity,بی نهایت
+2902,B1,K1,inflation,تورم
+2903,B2,K4,inflict,تحمیل کردن
+2904,B1,K1,influence,نفوذ
+2905,B1,K2,influential,با نفوذ
+2906,B2,K1,info,اطلاعات
+2907,A2,K2,informal,غیر رسمی
+2908,A1,K1,information,اطلاعات
+2909,B2,K1,infrastructure,زیرساخت
+2910,B2,K2,infrequent,نادر
+2911,B2,K4,infringe,نقض کردن
+2912,B2,K4,infuriate,خشمگین کردن
+2913,B2,K2,ingenious,مبتکرانه
+2914,C1,K1,ingenuity,نبوغ
+2915,A2,K1,ingredient,جزء
+2916,B2,K4,inhabit,ساکن بودن
+2917,B2,K1,inhabitant,ساکن
+2918,B2,K2,inherent,ذاتی
+2919,B2,K5,inherently,ذاتا
+2920,B2,K4,inherit,به ارث بردن
+2921,B2,K1,inheritance,ارث
+2922,B2,K4,inhibit,مهار کردن
+2923,A2,K2,initial,اولیه
+2924,B1,K5,initially,در ابتدا
+2925,B2,K4,initiate,آغاز کردن
+2926,B1,K1,initiative,ابتکار
+2927,B2,K4,inject,تزریق کردن
+2928,B2,K1,injection,تزریق
+2929,B2,K1,injunction,دستور
+2930,A2,K4,injure,آسیب رساندن
+2931,A2,K2,injured,آسیب دیده
+2932,A2,K1,injury,آسیب
+2933,B2,K1,injustice,بی عدالتی
+2934,B1,K1,ink,جوهر
+2935,B2,K2,inland,داخلی
+2936,B2,K1,inmate,زندانی
+2937,A2,K2,inner,درونی
+2938,B1,K2,innocent,بی گناه
+2939,B1,K1,innovation,نوآوری
+2940,B2,K2,innovative,نوآورانه
+2941,B2,K2,innumerable,بی شمار
+2942,B1,K1,input,ورودی
+2943,A2,K1,inquiry,پرس و جو
+2944,B2,K2,insane,دیوانه
+2945,A2,K1,insect,حشره
+2946,B1,K4,insert,درج کردن
+2947,B2,K1,insertion,درج
+2948,B1,K1,inside,داخل
+2949,B2,K1,insider,خودی
+2950,B1,K1,insight,بینش
+2951,B2,K2,insightful,آگاهانه
+2952,A2,K4,insist,اصرار کردن
+2953,B2,K1,insistence,اصرار
+2954,B2,K2,insistent,مصر
+2955,B2,K4,inspect,بازرسی کردن
+2956,B1,K1,inspection,بازرسی
+2957,B1,K1,inspector,بازرس
+2958,B1,K1,inspiration,الهام
+2959,B1,K4,inspire,الهام بخشیدن
+2960,B2,K1,instability,بی ثباتی
+2961,A2,K4,install,نصب کردن
+2962,B1,K1,installation,نصب
+2963,B2,K1,installment,قسط
+2964,A2,K1,instance,نمونه
+2965,B1,K1,instant,فوری
+2966,B2,K2,instantaneous,آنی
+2967,A2,K5,instantly,فورا
+2968,A2,K6,instead,به جای
+2969,B2,K1,instinct,غریزه
+2970,B2,K5,instinctively,غریزی
+2971,A2,K1,institute,موسسه
+2972,B1,K1,institution,نهاد
+2973,B1,K2,institutional,نهادی
+2974,A2,K4,instruct,آموزش دادن
+2975,A1,K1,instruction,دستورالعمل
+2976,B2,K2,instructional,آموزشی
+2977,A2,K1,instructor,مربی
+2978,A2,K1,instrument,ابزار
+2979,B2,K2,instrumental,مفید
+2980,B2,K2,insufficient,ناکافی
+2981,B2,K4,insulate,عایق کردن
+2982,B2,K1,insulation,عایق
+2983,B2,K1,insult,توهین
+2984,B2,K2,insulting,توهین آمیز
+2985,A2,K1,insurance,بیمه
+2986,B2,K2,intact,دست نخورده
+2987,B2,K1,intake,مصرف
+2988,B2,K2,integral,انتگرال
+2989,B2,K4,integrate,ادغام کردن
+2990,B2,K2,integrated,یکپارچه
+2991,B2,K1,integration,ادغام
+2992,B2,K1,integrity,صداقت
+2993,B1,K2,intellectual,روشنفکر
+2994,B1,K1,intelligence,هوش
+2995,A2,K2,intelligent,باهوش
+2996,A2,K4,intend,قصد داشتن
+2997,A2,K2,intended,مورد نظر
+2998,B2,K2,intense,شدید
+2999,B2,K4,intensify,تشدید کردن
+3000,B2,K1,intensity,شدت
+3001,B1,K1,integrity,صداقت
+3002,B1,K2,intellectual,روشنفکر
+3003,B1,K1,intelligence,هوش
+3004,A2,K2,intelligent,باهوش
+3005,A2,K4,intend,قصد داشتن
+3006,A2,K2,intended,مورد نظر
+3007,B2,K2,intense,شدید
+3008,B2,K4,intensify,تشدید کردن
+3009,B2,K1,intensity,شدت
+3010,B2,K2,intensive,متمرکز
+3011,B1,K1,intent,قصد
+3012,B1,K1,intention,قصد
+3013,B1,K4,interact,تعامل داشتن
+3014,B1,K1,interaction,تعامل
+3015,B2,K2,interactive,تعاملی
+3016,B2,K4,intercept,رهگیری کردن
+3017,B2,K1,interchange,مبادله
+3018,B2,K1,intercourse,آمیزش
+3019,A1,K1,interest,علاقه
+3020,A1,K2,interested,علاقه مند
+3021,A1,K2,interesting,جالب
+3022,B2,K1,interface,رابط
+3023,B1,K4,interfere,دخالت کردن
+3024,B2,K1,interference,دخالت
+3025,B2,K1,interim,موقت
+3026,B2,K1,interior,داخلی
+3027,B1,K2,intermediate,متوسط
+3028,B2,K2,intermittent,متناوب
+3029,B1,K2,internal,داخلی
+3030,A2,K2,international,بین المللی
+3031,B1,K4,interpret,تفسیر کردن
+3032,B1,K1,interpretation,تفسیر
+3033,B2,K1,interpreter,مترجم
+3034,B1,K4,interrupt,قطع کردن
+3035,B2,K1,interruption,وقفه
+3036,B2,K1,interval,فاصله
+3037,B1,K4,intervene,مداخله کردن
+3038,B1,K1,intervention,مداخله
+3039,A2,K1,interview,مصاحبه
+3040,A2,K1,interviewer,مصاحبه کننده
+3041,B2,K2,intimate,صمیمی
+3042,B2,K4,intimidate,ترساندن
+3043,A1,K6,into,به داخل
+3044,B2,K4,intrigue,مجذوب کردن
+3045,B2,K2,intriguing,جذاب
+3046,B2,K2,intrinsic,ذاتی
+3047,A1,K4,introduce,معرفی کردن
+3048,A2,K1,introduction,معرفی
+3049,B2,K2,introductory,مقدماتی
+3050,B2,K1,intrusion,نفوذ
+3051,B2,K1,intuition,شهود
+3052,B1,K4,invade,حمله کردن
+3053,B2,K1,invader,مهاجم
+3054,B2,K2,invalid,نامعتبر
+3055,B2,K2,invaluable,گرانبها
+3056,B2,K5,invariably,همواره
+3057,B1,K1,invasion,تهاجم
+3058,A2,K4,invent,اختراع کردن
+3059,A2,K1,invention,اختراع
+3060,B2,K1,inventory,موجودی
+3061,B1,K4,invest,سرمایه گذاری کردن
+3062,A2,K4,investigate,تحقیق کردن
+3063,A2,K1,investigation,تحقیق
+3064,B1,K1,investigator,بازرس
+3065,B1,K1,investment,سرمایه گذاری
+3066,B1,K1,investor,سرمایه گذار
+3067,B2,K2,invisible,نامرئی
+3068,A2,K1,invitation,دعوت
+3069,A2,K4,invite,دعوت کردن
+3070,B2,K4,invoke,استناد کردن
+3071,B2,K2,involuntary,غیرارادی
+3072,A2,K4,involve,درگیر کردن
+3073,B1,K2,involved,درگیر
+3074,B1,K1,involvement,مشارکت
+3075,B1,K2,ironic,کنایه آمیز
+3076,B2,K5,ironically,از قضا
+3077,B2,K1,irony,کنایه
+3078,B1,K2,irrelevant,نامربوط
+3079,B2,K5,irrespective,صرف نظر از
+3080,B2,K1,irrigation,آبیاری
+3081,B2,K2,irritable,تحریک پذیر
+3082,B2,K4,irritate,آزار دادن
+3083,B2,K1,irritation,تحریک
+3084,A2,K1,island,جزیره
+3085,B2,K4,isolate,منزوی کردن
+3086,B1,K2,isolated,منزوی
+3087,B2,K1,isolation,انزوا
+3088,A2,K1,issue,موضوع
+3089,A1,K3,it,آن
+3090,A1,K1,item,مورد
+3091,A1,K3,its,مال آن
+3092,A1,K3,itself,خودش
+3093,B1,K1,ivory,عاج
+3094,B2,K1,ivy,پیچک
+3095,A2,K1,jacket,ژاکت
+3096,B2,K1,jackpot,جایزه بزرگ
+3097,B1,K1,jail,زندان
+3098,A2,K1,jam,مربا
+3099,B1,K1,jar,شیشه
+3100,B2,K1,jaw,فک
+3101,A2,K1,jazz,جاز
+3102,B2,K2,jealous,حسود
+3103,B2,K1,jealousy,حسادت
+3104,A2,K1,jeans,شلوار جین
+3105,B2,K1,jeep,جیپ
+3106,A2,K1,jelly,ژله
+3107,B2,K4,jeopardize,به خطر انداختن
+3108,B2,K1,jerk,تکان ناگهانی
+3109,B1,K1,jet,جت
+3110,A2,K1,jewel,جواهر
+3111,A2,K1,jewelry,جواهرات
+3112,A2,K1,job,شغل
+3113,C1,K1,jockey,سوارکار
+3114,B2,K4,jog,دویدن آرام
+3115,A1,K4,join,پیوستن
+3116,B1,K2,joint,مشترک
+3117,B2,K5,jointly,مشترکا
+3118,A2,K1,joke,شوخی
+3119,B2,K2,jolly,شاد
+3120,B2,K1,jolt,تکان
+3121,A2,K1,journal,مجله
+3122,B2,K1,journalism,روزنامه نگاری
+3123,A2,K1,journalist,روزنامه نگار
+3124,A2,K1,journey,سفر
+3125,B1,K1,joy,شادی
+3126,B1,K2,joyful,شاد
+3127,B2,K2,joyous,شاد
+3128,B2,K2,jubilant,شادمان
+3129,A2,K1,judge,قاضی
+3130,B1,K1,judgment,قضاوت
+3131,B2,K2,judicial,قضایی
+3132,B2,K1,judiciary,قوه قضائیه
+3133,B2,K1,jug,کوزه
+3134,A2,K1,juice,آبمیوه
+3135,B1,K2,juicy,آبدار
+3136,B2,K1,jumble,درهم و برهم
+3137,A1,K4,jump,پریدن
+3138,B2,K1,junction,اتصال
+3139,B2,K1,juncture,مقطع حساس
+3140,A2,K1,jungle,جنگل
+3141,B1,K1,junior,جوانتر
+3142,A2,K1,junk,آشغال
+3143,B2,K1,jurisdiction,حوزه قضایی
+3144,B2,K1,juror,عضو هیئت منصفه
+3145,B1,K1,jury,هیئت منصفه
+3146,A1,K5,just,فقط
+3147,B1,K1,justice,عدالت
+3148,B2,K1,justification,توجیه
+3149,B1,K4,justify,توجیه کردن
+3150,B2,K1,juvenile,نوجوان
+3151,B2,K2,keen,مشتاق
+3152,A1,K4,keep,نگه داشتن
+3153,B2,K1,keeper,نگهبان
+3154,B2,K1,ketchup,سس کچاپ
+3155,B1,K1,kettle,کتری
+3156,A1,K1,key,کلید
+3157,A2,K1,keyboard,صفحه کلید
+3158,A2,K4,kick,لگد زدن
+3159,A2,K1,kid,بچه
+3160,B2,K4,kidnap,ربودن
+3161,B2,K1,kidnapping,آدم ربایی
+3162,B2,K1,kidney,کلیه
+3163,A1,K4,kill,کشتن
+3164,B1,K1,killer,قاتل
+3165,B1,K1,killing,کشتار
+3166,A2,K1,kilo,کیلو
+3167,A2,K1,kilogram,کیلوگرم
+3168,A2,K1,kilometer,کیلومتر
+3169,B2,K1,kin,خویشاوند
+3170,A1,K2,kind,مهربان
+3171,B2,K1,kindergarten,کودکستان
+3172,A2,K5,kindly,با مهربانی
+3173,A2,K1,kindness,مهربانی
+3174,A2,K1,king,پادشاه
+3175,B1,K1,kingdom,پادشاهی
+3176,A2,K4,kiss,بوسیدن
+3177,A2,K1,kit,کیت
+3178,A1,K1,kitchen,آشپزخانه
+3179,A2,K1,kite,بادبادک
+3180,B2,K1,kitten,بچه گربه
+3181,B2,K1,kitty,پیشی
+3182,B2,K1,knack,مهارت
+3183,A2,K1,knee,زانو
+3184,B2,K4,kneel,زانو زدن
+3185,A2,K1,knife,چاقو
+3186,B2,K1,knight,شوالیه
+3187,B2,K4,knit,بافتن
+3188,B2,K1,knob,دستگیره
+3189,A2,K4,knock,زدن
+3190,B1,K1,knot,گره
+3191,A1,K4,know,دانستن
+3192,B2,K1,know-how,دانش فنی
+3193,B2,K5,knowingly,آگاهانه
+3194,A2,K1,knowledge,دانش
+3195,B2,K2,knowledgeable,آگاه
+3196,A2,K1,lab,آزمایشگاه
+3197,B1,K1,label,برچسب
+3198,B1,K1,labor,کار
+3199,A2,K1,laboratory,آزمایشگاه
+3200,B2,K1,lace,توری
+3201,A2,K1,lack,کمبود
+3202,B1,K1,ladder,نردبان
+3203,C1,K2,laden,مملو
+3204,C1,K1,ladle,ملاقه
+3205,A2,K1,lady,خانم
+3206,B2,K4,lag,عقب ماندن
+3207,C1,K1,lager,آبجو لاگر
+3208,C1,K1,lair,لانه
+3209,A2,K1,lake,دریاچه
+3210,C1,K1,lakeside,کنار دریاچه
+3211,B2,K1,lamb,بره
+3212,B2,K2,lame,لنگ
+3213,B2,K4,lament,سوگواری کردن
+3214,A2,K1,lamp,لامپ
+3215,A1,K1,land,زمین
+3216,B2,K1,landing,فرود
+3217,B2,K1,landlord,صاحبخانه
+3218,B1,K1,landmark,نقطه عطف
+3219,A2,K1,landscape,منظره
+3220,B2,K1,landslide,رانش زمین
+3221,B1,K1,lane,مسیر
+3222,A1,K1,language,زبان
+3223,B2,K4,languish,ضعیف شدن
+3224,B1,K1,lap,دامان
+3225,B2,K1,lapse,لغزش
+3226,A2,K1,laptop,لپ تاپ
+3227,A1,K2,large,بزرگ
+3228,B2,K2,large-scale,مقیاس بزرگ
+3229,B1,K5,largely,تا حد زیادی
+3230,B2,K1,laser,لیزر
+3231,B2,K4,lash,تازیانه زدن
+3232,A1,K2,last,آخرین
+3233,B2,K2,lasting,ماندگار
+3234,A1,K2,late,دیر
+3235,A2,K5,lately,اخیرا
+3236,B2,K2,latent,نهفته
+3237,A1,K5,later,بعدا
+3238,A2,K2,latest,آخرین
+3239,B2,K1,latitude,عرض جغرافیایی
+3240,B1,K2,latter,دومی
+3241,C1,K4,laud,ستودن
+3242,A1,K4,laugh,خندیدن
+3243,A2,K1,laughter,خنده
+3244,B1,K4,launch,راه اندازی کردن
+3245,A2,K1,laundry,خشکشویی
+3246,B2,K1,lava,گدازه
+3247,B2,K2,lavish,سخاوتمندانه
+3248,A2,K1,law,قانون
+3249,B1,K1,lawn,چمن
+3250,C1,K1,lawnmower,ماشین چمن زنی
+3251,B1,K1,lawsuit,دادخواست
+3252,A2,K1,lawyer,وکیل
+3253,A2,K4,lay,گذاشتن
+3254,B1,K1,layer,لایه
+3255,B2,K1,layout,چیدمان
+3256,A2,K2,lazy,تنبل
+3257,A2,K4,lead,رهبری کردن
+3258,A2,K1,leader,رهبر
+3259,B1,K1,leadership,رهبری
+3260,B1,K2,leading,پیشرو
+3261,A2,K1,leaf,برگ
+3262,B2,K1,leaflet,بروشور
+3263,A2,K1,league,لیگ
+3264,B1,K1,leak,نشت
+3265,B2,K1,leakage,نشت
+3266,B1,K4,lean,تکیه کردن
+3267,B1,K4,leap,پریدن
+3268,A1,K4,learn,یاد گرفتن
+3269,B2,K2,learned,آموخته
+3270,A2,K1,learning,یادگیری
+3271,B1,K1,lease,اجاره
+3272,B2,K1,leash,بند
+3273,A2,K5,least,حداقل
+3274,A2,K1,leather,چرم
+3275,A1,K4,leave,ترک کردن
+3276,A2,K1,lecture,سخنرانی
+3277,B2,K1,lecturer,سخنران
+3278,B2,K2,led,رهبری شده
+3279,B2,K1,ledge,طاقچه
+3280,B2,K1,leeway,آزادی عمل
+3281,A2,K1,left,چپ
+3282,B1,K2,left-hand,دست چپ
+3283,B2,K2,left-wing,چپگرا
+3284,B2,K1,leftist,چپگرا
+3285,A1,K1,leg,پا
+3286,B1,K1,legacy,میراث
+3287,A2,K2,legal,قانونی
+3288,B2,K5,legally,قانونا
+3289,A2,K1,legend,افسانه
+3290,B1,K2,legendary,افسانه ای
+3291,B1,K1,legislation,قانون گذاری
+3292,B2,K2,legislative,قانونگذاری
+3293,B2,K1,legislator,قانونگذار
+3294,B2,K1,legislature,مجلس قانونگذاری
+3295,B2,K1,legitimacy,مشروعیت
+3296,B1,K2,legitimate,مشروع
+3297,A2,K1,leisure,اوقات فراغت
+3298,A2,K1,lemon,لیمو
+3299,B2,K1,lemonade,لیموناد
+3300,B1,K4,lend,قرض دادن
+3301,B2,K1,lender,قرض دهنده
+3302,B2,K1,lending,وام دهی
+3303,B2,K2,lengthy,طولانی
+3304,A2,K1,length,طول
+3305,B2,K1,lens,لنز
+3306,B2,K1,leopard,پلنگ
+3307,B2,K1,lesbian,لزبین
+3308,A2,K2,less,کمتر
+3309,B2,K2,lesser,کمتر
+3310,A1,K1,lesson,درس
+3311,A1,K4,let,اجازه دادن
+3312,B2,K2,lethal,کشنده
+3313,B2,K1,lethargy,بی حالی
+3314,A1,K1,letter,نامه
+3315,B2,K1,letting,اجازه دادن
+3316,B2,K1,leukemia,سرطان خون
+3317,A2,K1,level,سطح
+3318,B2,K1,leverage,اهرم
+3319,B2,K1,levy,مالیات
+3320,B2,K1,liability,مسئولیت
+3321,B2,K2,liable,مسئول
+3322,B2,K1,liaison,رابط
+3323,B2,K1,liar,دروغگو
+3324,B2,K1,libel,افترا
+3325,B1,K2,liberal,لیبرال
+3326,B2,K1,liberalism,لیبرالیسم
+3327,B2,K4,liberate,آزاد کردن
+3328,B2,K1,liberation,آزادی
+3329,B1,K1,liberty,آزادی
+3330,A2,K1,librarian,کتابدار
+3331,A1,K1,library,کتابخانه
+3332,B1,K1,license,مجوز
+3333,B2,K4,lick,لیسیدن
+3334,B1,K1,lid,درب
+3335,A2,K4,lie,دروغ گفتن
+3336,B2,K1,lieutenant,ستوان
+3337,B2,K2,life-long,مادام العمر
+3338,B2,K1,lifeboat,قایق نجات
+3339,B2,K1,lifeguard,نجات غریق
+3340,B1,K2,lifelong,مادام العمر
+3341,B1,K1,lifestyle,سبک زندگی
+3342,B1,K1,lifetime,طول عمر
+3343,A2,K4,lift,بلند کردن
+3344,A1,K1,light,روشنایی
+3345,B2,K4,lighten,روشن کردن
+3346,B2,K1,lighthouse,فانوس دریایی
+3347,A2,K1,lighting,روشنایی
+3348,A2,K1,lightning,رعد و برق
+3349,B2,K2,lightweight,سبک وزن
+3350,A1,K4,like,دوست داشتن
+3351,B1,K1,likelihood,احتمال
+3352,A2,K2,likely,احتمالا
+3353,B2,K5,likewise,همچنین
+3354,B2,K1,liking,علاقه
+3355,B2,K1,lily,سوسن
+3356,B1,K1,limb,عضو بدن
+3357,B2,K1,limelight,مرکز توجه
+3358,B2,K1,limestone,سنگ آهک
+3359,A2,K1,limit,محدودیت
+3360,B1,K1,limitation,محدودیت
+3361,B1,K2,limited,محدود
+3362,B2,K2,limitless,نامحدود
+3363,B2,K1,limo,لیموزین
+3364,B2,K4,limp,لنگیدن
+3365,A1,K1,line,خط
+3366,B2,K1,line-up,ترکیب
+3367,B2,K1,lineage,اصل و نسب
+3368,B2,K2,linear,خطی
+3369,B2,K1,lineup,ترکیب
+3370,B1,K4,linger,معطل کردن
+3371,B2,K1,linguist,زبان شناس
+3372,B2,K2,linguistic,زبانی
+3373,B2,K1,lining,آستر
+3374,B2,K4,link,ارتباط دادن
+3375,B2,K1,linkage,ارتباط
+3376,B1,K1,lion,شیر
+3377,A2,K1,lip,لب
+3378,B1,K1,liquid,مایع
+3379,B2,K1,liquor,مشروبات الکلی
+3380,A2,K1,list,لیست
+3381,A1,K4,listen,گوش دادن
+3382,B1,K1,liter,لیتر
+3383,B2,K1,literacy,سواد
+3384,B1,K5,literally,به معنای واقعی کلمه
+3385,B1,K2,literary,ادبی
+3386,B2,K2,literate,باسواد
+3387,A2,K1,literature,ادبیات
+3388,B2,K1,litter,آشغال
+3389,A1,K2,little,کوچک
+3390,A2,K4,live,زندگی کردن
+3391,B2,K1,livelihood,معیشت
+3392,A2,K2,lively,سرزنده
+3393,B2,K1,liver,کبد
+3394,B2,K1,livestock,دام
+3395,A2,K1,living,زندگی
+3396,B2,K1,lizard,مارمولک
+3397,B1,K1,load,بار
+3398,B2,K2,loaded,بارگیری شده
+3399,A2,K1,loaf,قرص نان
+3400,A2,K1,loan,وام
+3401,B1,K1,lobby,لابی
+3402,B2,K1,lobbyist,لابی گر
+3403,B1,K1,lobster,خرچنگ
+3404,A2,K2,local,محلی
+3405,B2,K5,locally,محلی
+3406,A2,K4,locate,مکان یابی کردن
+3407,A2,K1,location,مکان
+3408,A2,K4,lock,قفل کردن
+3409,B1,K1,locker,کمد
+3410,B2,K1,locomotive,لوکوموتیو
+3411,A2,K1,lodge,اقامتگاه
+3412,B2,K2,lofty,بلند
+3413,B1,K1,log,کنده
+3414,A2,K1,logic,منطق
+3415,A2,K2,logical,منطقی
+3416,B2,K1,logistics,لجستیک
+3417,B1,K1,logo,لوگو
+3418,C1,K1,lon,تنها
+3419,A2,K2,lone,تنها
+3420,B1,K1,loneliness,تنهایی
+3421,A2,K2,lonely,تنها
+3422,A1,K2,long,طولانی
+3423,B2,K2,long-standing,دیرینه
+3424,B1,K2,long-term,بلند مدت
+3425,B2,K1,longevity,طول عمر
+3426,B2,K1,longing,اشتیاق
+3427,B2,K1,longitude,طول جغرافیایی
+3428,A1,K4,look,نگاه کردن
+3429,B2,K4,loom,نمایان شدن
+3430,B1,K1,loop,حلقه
+3431,B2,K1,loophole,راه گریز
+3432,A2,K2,loose,شل
+3433,B2,K4,loosen,شل کردن
+3434,B2,K1,loot,غارت
+3435,B2,K1,lord,ارباب
+3436,A2,K1,lorry,کامیون
+3437,A2,K4,lose,از دست دادن
+3438,A2,K1,loss,ضرر
+3439,A2,K2,lost,گم شده
+3440,A1,K1,lot,مقدار زیاد
+3441,B2,K1,lottery,قرعه کشی
+3442,A2,K2,loud,بلند
+3443,A2,K5,loudly,با صدای بلند
+3444,B2,K1,lounge,سالن استراحت
+3445,C1,K2,lovable,دوست داشتنی
+3446,A1,K1,love,عشق
+3447,A2,K2,lovely,دوست داشتنی
+3448,B1,K1,lover,عاشق
+3449,B2,K2,loving,مهربان
+3450,A2,K2,low,کم
+3451,B1,K4,lower,پایین آوردن
+3452,B1,K2,loyal,وفادار
+3453,B2,K1,loyalty,وفاداری
+3454,B2,K2,lucid,روشن
+3455,A2,K1,luck,شانس
+3456,A2,K2,lucky,خوش شانس
+3457,B2,K2,lucrative,سودآور
+3458,B2,K2,ludicrous,مضحک
+3459,A2,K1,luggage,چمدان
+3460,B2,K2,lukewarm,ولرم
+3461,B2,K1,lull,آرامش
+3462,B2,K1,lumber,الوار
+3463,B1,K1,lump,توده
+3464,B2,K2,lunar,قمری
+3465,B2,K1,lunatic,دیوانه
+3466,A2,K1,lunch,ناهار
+3467,B2,K1,luncheon,ناهار رسمی
+3468,B1,K1,lung,ریه
+3469,B2,K1,lunge,حمله ناگهانی
+3470,B2,K1,lure,فریب
+3471,B2,K4,lurk,در کمین بودن
+3472,B2,K2,lush,سرسبز
+3473,B2,K1,lust,شهوت
+3474,B2,K2,luxurious,مجلل
+3475,B1,K1,luxury,لوکس
+3476,A2,K2,lying,دروغ گفتن
+3477,B2,K1,lyric,متن ترانه
+3478,B2,K2,lyrical,غنایی
+3479,B1,K1,machine,ماشین
+3480,B2,K1,machinery,ماشین آلات
+3481,B2,K1,machinist,ماشینکار
+3482,B2,K2,macro,کلان
+3483,A2,K2,mad,دیوانه
+3484,A2,K1,madam,خانم
+3485,B2,K1,made,ساخته شده
+3486,B2,K1,madness,دیوانگی
+3487,B2,K1,maestro,استاد
+3488,B2,K1,mafia,مافیا
+3489,A2,K1,magazine,مجله
+3490,A2,K1,magic,جادو
+3491,B1,K2,magical,جادویی
+3492,B1,K1,magician,شعبده باز
+3493,B2,K1,magistrate,دادرس
+3494,B1,K1,magnet,آهنربا
+3495,B2,K2,magnetic,مغناطیسی
+3496,B2,K2,magnificent,باشکوه
+3497,B2,K4,magnify,بزرگ کردن
+3498,B2,K1,magnitude,بزرگی
+3499,B2,K1,maid,خدمتکار
+3500,B2,K1,maiden,دوشیزه
+3501,C1,K1,magnitude,بزرگی
+3502,B2,K1,maid,خدمتکار
+3503,B2,K1,maiden,دوشیزه
+3504,A2,K1,mail,پست
+3505,B2,K1,mailing,ارسال پستی
+3506,A1,K2,main,اصلی
+3507,B2,K1,mainland,سرزمین اصلی
+3508,B2,K1,mainline,خط اصلی
+3509,A2,K5,mainly,عمدتا
+3510,A2,K2,mainstream,جریان اصلی
+3511,A2,K4,maintain,نگه داشتن
+3512,B1,K1,maintenance,نگهداری
+3513,B2,K2,majestic,باشکوه
+3514,B2,K1,majesty,عظمت
+3515,A2,K2,major,عمده
+3516,A2,K1,majority,اکثریت
+3517,A1,K4,make,ساختن
+3518,B2,K1,make-up,آرایش
+3519,B1,K1,maker,سازنده
+3520,A2,K1,makeup,آرایش
+3521,B2,K1,making,ساخت
+3522,B2,K1,malaria,مالاریا
+3523,A2,K2,male,مذکر
+3524,B2,K1,malfunction,نقص فنی
+3525,B2,K1,malice,بدخواهی
+3526,B2,K2,malicious,بدخواه
+3527,A2,K1,mall,مرکز خرید
+3528,B1,K1,mammal,پستاندار
+3529,A1,K1,man,مرد
+3530,A2,K4,manage,مدیریت کردن
+3531,B2,K2,manageable,قابل کنترل
+3532,A2,K1,management,مدیریت
+3533,A2,K1,manager,مدیر
+3534,B2,K1,managing,مدیریت
+3535,B1,K1,mandate,حکم
+3536,B2,K2,mandatory,اجباری
+3537,B2,K1,maneuver,مانور
+3538,B2,K1,mania,شیدایی
+3539,B2,K4,manifest,آشکار کردن
+3540,B2,K1,manifestation,تجلی
+3541,B2,K4,manipulate,دستکاری کردن
+3542,B2,K1,manipulation,دستکاری
+3543,B2,K1,mankind,بشریت
+3544,A2,K1,manner,شیوه
+3545,B2,K1,mansion,عمارت
+3546,B1,K1,manual,دفترچه راهنما
+3547,B1,K1,manufacturer,تولید کننده
+3548,B1,K1,manufacturing,تولید
+3549,B2,K1,manuscript,نسخه خطی
+3550,A1,K2,many,زیاد
+3551,A1,K1,map,نقشه
+3552,B2,K1,marathon,ماراتن
+3553,B2,K1,marble,سنگ مرمر
+3554,B1,K4,march,راهپیمایی کردن
+3555,B2,K1,mare,مادیان
+3556,B1,K1,margin,حاشیه
+3557,B2,K2,marginal,حاشیه ای
+3558,B2,K1,marijuana,ماری جوانا
+3559,B1,K2,marine,دریایی
+3560,B2,K2,marital,زناشویی
+3561,B2,K2,maritime,دریایی
+3562,A2,K1,mark,علامت
+3563,B2,K1,marker,ماژیک
+3564,A2,K1,market,بازار
+3565,A2,K1,marketing,بازاریابی
+3566,B1,K1,marketplace,بازار
+3567,B2,K1,marking,علامت گذاری
+3568,A2,K1,marriage,ازدواج
+3569,A2,K2,married,متاهل
+3570,A2,K4,marry,ازدواج کردن
+3571,B2,K4,marshal,سامان دادن
+3572,B1,K2,martial,رزمی
+3573,B2,K1,martyr,شهید
+3574,B2,K1,marvel,شگفتی
+3575,B1,K2,marvelous,شگفت انگیز
+3576,B2,K2,masculine,مردانه
+3577,B2,K4,mash,له کردن
+3578,B1,K1,mask,ماسک
+3579,B2,K1,mason,بنا
+3580,A2,K1,mass,جرم
+3581,B2,K1,massacre,کشتار
+3582,B1,K1,massage,ماساژ
+3583,A2,K2,massive,عظیم
+3584,A2,K1,master,استاد
+3585,B2,K1,masterpiece,شاهکار
+3586,B2,K1,mastery,تسلط
+3587,B2,K1,mat,حصیر
+3588,A2,K1,match,مسابقه
+3589,A2,K1,mate,جفت
+3590,A2,K1,material,ماده
+3591,B2,K2,maternal,مادرانه
+3592,B2,K1,maternity,مادری
+3593,A2,K1,math,ریاضی
+3594,B2,K2,mathematical,ریاضی
+3595,B2,K1,mathematician,ریاضیدان
+3596,A2,K1,mathematics,ریاضیات
+3597,B2,K1,mating,جفت گیری
+3598,B2,K1,matrix,ماتریس
+3599,A2,K1,matter,موضوع
+3600,B1,K1,mattress,تشک
+3601,B1,K2,mature,بالغ
+3602,B2,K1,maturity,بلوغ
+3603,B2,K4,maximize,به حداکثر رساندن
+3604,A2,K1,maximum,حداکثر
+3605,A2,K5,maybe,شاید
+3606,B1,K1,mayor,شهردار
+3607,B2,K1,maze,ماز
+3608,A1,K3,me,مرا
+3609,B2,K1,meadow,چمنزار
+3610,B2,K2,meager,ناچیز
+3611,A2,K1,meal,وعده غذایی
+3612,A2,K4,mean,معنی دادن
+3613,A2,K1,meaning,معنی
+3614,B1,K2,meaningful,معنی دار
+3615,B2,K2,meaningless,بی معنی
+3616,A2,K1,means,وسیله
+3617,B2,K1,meantime,در این میان
+3618,A2,K5,meanwhile,در عین حال
+3619,B2,K1,measles,سرخک
+3620,B2,K2,measurable,قابل اندازه گیری
+3621,A2,K1,measure,اندازه گیری
+3622,B1,K1,measurement,اندازه گیری
+3623,A2,K1,meat,گوشت
+3624,A2,K1,mechanic,مکانیک
+3625,B1,K2,mechanical,مکانیکی
+3626,B1,K1,mechanism,مکانیسم
+3627,B1,K1,medal,مدال
+3628,B2,K4,meddle,دخالت کردن
+3629,B1,K1,media,رسانه ها
+3630,B2,K1,median,میانه
+3631,B2,K4,mediate,میانجیگری کردن
+3632,B2,K1,mediation,میانجیگری
+3633,B2,K1,mediator,میانجی
+3634,A2,K2,medical,پزشکی
+3635,B1,K1,medication,دارو
+3636,A2,K1,medicine,دارو
+3637,B2,K2,medieval,قرون وسطایی
+3638,B2,K2,mediocre,متوسط
+3639,B2,K4,meditate,مراقبه کردن
+3640,B2,K1,meditation,مراقبه
+3641,A2,K1,medium,متوسط
+3642,B2,K1,medley,مجموعه
+3643,A1,K4,meet,ملاقات کردن
+3644,A1,K1,meeting,جلسه
+3645,B2,K1,melancholy,مالیخولیا
+3646,B2,K2,mellow,ملایم
+3647,B2,K2,melodramatic,ملودراماتیک
+3648,B1,K1,melody,ملودی
+3649,A2,K4,melt,ذوب شدن
+3650,A2,K1,member,عضو
+3651,B1,K1,membership,عضویت
+3652,B2,K1,memo,یادداشت
+3653,B2,K1,memoir,خاطرات
+3654,B1,K2,memorable,خاطره انگیز
+3655,B2,K1,memorandum,یادداشت
+3656,B1,K1,memorial,یادبود
+3657,A2,K1,memory,حافظه
+3658,B2,K1,menace,تهدید
+3659,B2,K4,mend,تعمیر کردن
+3660,A2,K2,mental,روانی
+3661,B2,K1,mentality,ذهنیت
+3662,B1,K5,mentally,روانی
+3663,A2,K4,mention,ذکر کردن
+3664,B1,K1,mentor,مربی
+3665,A2,K1,menu,منو
+3666,B2,K1,merchandise,کالا
+3667,B2,K1,merchant,تاجر
+3668,B2,K2,merciful,رحیم
+3669,B2,K2,merciless,بی رحم
+3670,B1,K1,mercy,رحمت
+3671,B2,K2,mere,صرف
+3672,B2,K5,merely,صرفا
+3673,B2,K4,merge,ادغام شدن
+3674,B2,K1,merger,ادغام
+3675,B2,K1,merit,شایستگی
+3676,B2,K1,mermaid,پری دریایی
+3677,B2,K2,merry,شاد
+3678,B2,K4,mesh,جور شدن
+3679,A2,K1,mess,درهم و برهمی
+3680,A1,K1,message,پیام
+3681,B1,K2,messy,نامرتب
+3682,B2,K2,metabolic,متابولیک
+3683,B2,K1,metabolism,متابولیسم
+3684,A2,K1,metal,فلز
+3685,B2,K1,metaphor,استعاره
+3686,A2,K1,meteor,شهاب سنگ
+3687,A2,K1,meter,متر
+3688,A2,K1,method,روش
+3689,B2,K2,methodical,منظم
+3690,B2,K1,methodology,روش شناسی
+3691,B2,K2,metric,متریک
+3692,B2,K1,metro,مترو
+3693,B2,K2,metropolitan,کلانشهری
+3694,B2,K2,micro,میکرو
+3695,B2,K1,microbe,میکروب
+3696,A2,K1,microphone,میکروفون
+3697,B1,K1,microscope,میکروسکوپ
+3698,A2,K1,microwave,مایکروویو
+3699,B2,K2,mid,میانی
+3700,B2,K1,mid-air,وسط هوا
+3701,B2,K1,mid-life,میانسالی
+3702,B2,K1,mid-term,میان ترم
+3703,B2,K1,midday,ظهر
+3704,B1,K1,middle,وسط
+3705,B2,K1,middle-class,طبقه متوسط
+3706,B2,K1,midget,کوتوله
+3707,B1,K1,midnight,نیمه شب
+3708,B2,K1,midst,میان
+3709,B2,K1,midterm,میان ترم
+3710,B2,K5,midway,نیمه راه
+3711,B2,K1,midwife,ماما
+3712,A2,K4,might,ممکن است
+3713,B2,K2,mighty,نیرومند
+3714,B2,K1,migrant,مهاجر
+3715,B2,K4,migrate,مهاجرت کردن
+3716,B1,K1,migration,مهاجرت
+3717,A2,K2,mild,ملایم
+3718,A2,K1,mile,مایل
+3719,B2,K1,mileage,مسافت پیموده شده
+3720,B1,K1,milestone,نقطه عطف
+3721,B2,K1,militancy,ستیزه جویی
+3722,B1,K2,militant,ستیزه جو
+3723,A2,K2,military,نظامی
+3724,B2,K1,militia,شبه نظامی
+3725,A1,K1,milk,شیر
+3726,A2,K1,mill,آسیاب
+3727,B2,K1,millennium,هزاره
+3728,B2,K1,miller,آسیابان
+3729,A2,K1,milligram,میلی گرم
+3730,A2,K1,millimeter,میلی متر
+3731,A2,K1,million,میلیون
+3732,A2,K1,millionaire,میلیونر
+3733,B2,K1,mime,پانتومیم
+3734,B2,K4,mimic,تقلید کردن
+3735,A2,K1,mind,ذهن
+3736,B2,K2,mind-boggling,گیج کننده
+3737,B2,K2,mindful,آگاه
+3738,A2,K3,mine,مال من
+3739,B2,K1,miner,معدنچی
+3740,A2,K1,mineral,معدنی
+3741,B2,K4,mingle,مخلوط شدن
+3742,B2,K2,mini,کوچک
+3743,B1,K2,miniature,مینیاتوری
+3744,B2,K2,minimal,حداقل
+3745,B2,K2,minimalist,مینیمالیست
+3746,B2,K4,minimize,به حداقل رساندن
+3747,A2,K1,minimum,حداقل
+3748,B2,K1,mining,معدن
+3749,B1,K1,minister,وزیر
+3750,B2,K2,ministerial,وزارتی
+3751,B1,K1,ministry,وزارت
+3752,B2,K1,mink,مینک
+3753,B1,K2,minor,جزئی
+3754,B1,K1,minority,اقلیت
+3755,B2,K1,mint,نعناع
+3756,A2,K1,minus,منها
+3757,B2,K2,minuscule,بسیار کوچک
+3758,A1,K1,minute,دقیقه
+3759,B1,K1,miracle,معجزه
+3760,B2,K5,miraculously,به طور معجزه آسایی
+3761,A2,K1,mirror,آینه
+3762,B2,K2,miscellaneous,متفرقه
+3763,B2,K1,mischief,شیطنت
+3764,B1,K2,miserable,بدبخت
+3765,B2,K1,misery,بدبختی
+3766,B2,K1,misfortune,بدشانسی
+3767,B2,K2,misguided,گمراه
+3768,B1,K2,misleading,گمراه کننده
+3769,A1,K4,miss,از دست دادن
+3770,B1,K1,missile,موشک
+3771,A2,K2,missing,گمشده
+3772,B1,K1,mission,ماموریت
+3773,B2,K1,missionary,مبلغ مذهبی
+3774,B2,K1,mist,مه
+3775,A1,K1,mistake,اشتباه
+3776,B1,K2,mistaken,اشتباه
+3777,B2,K1,mistress,معشوقه
+3778,B2,K1,mistrust,بی اعتمادی
+3779,B2,K4,misunderstand,سوء تفاهم کردن
+3780,B1,K1,misunderstanding,سوء تفاهم
+3781,B2,K1,mite,کنه
+3782,A2,K4,mix,مخلوط کردن
+3783,B1,K2,mixed,مخلوط
+3784,A2,K1,mixture,مخلوط
+3785,B1,K1,mob,اراذل و اوباش
+3786,A2,K2,mobile,موبایل
+3787,B2,K1,mobility,تحرک
+3788,B2,K4,mobilize,بسیج کردن
+3789,B2,K4,mock,مسخره کردن
+3790,B1,K1,mode,حالت
+3791,A1,K1,model,مدل
+3792,B1,K2,moderate,متوسط
+3793,B2,K1,moderation,اعتدال
+3794,B2,K1,moderator,مدیر
+3795,A2,K2,modern,مدرن
+3796,B2,K2,modest,فروتن
+3797,B2,K1,modesty,فروتنی
+3798,B2,K1,modification,اصلاح
+3799,B1,K4,modify,اصلاح کردن
+3800,B2,K2,moist,مرطوب
+3801,B2,K1,moisture,رطوبت
+3802,B2,K1,mold,قالب
+3803,B2,K2,molecular,مولکولی
+3804,B2,K1,molecule,مولکول
+3805,A2,K1,mom,مادر
+3806,A2,K1,moment,لحظه
+3807,B2,K2,momentary,لحظه ای
+3808,B2,K1,momentum,شتاب
+3809,B2,K1,monarchy,سلطنت
+3810,B2,K1,monastery,صومعه
+3811,B2,K2,monetary,پولی
+3812,A1,K1,money,پول
+3813,B1,K4,monitor,نظارت کردن
+3814,B2,K1,monk,راهب
+3815,A2,K1,monkey,میمون
+3816,B2,K1,monologue,مونولوگ
+3817,B2,K1,monopoly,انحصار
+3818,B2,K1,monsoon,موسمی
+3819,A2,K1,monster,هیولا
+3820,B2,K2,monstrous,هیولایی
+3821,A1,K1,month,ماه
+3822,B1,K2,monthly,ماهانه
+3823,B1,K1,monument,بنای یادبود
+3824,B2,K2,monumental,عظیم
+3825,A2,K1,mood,حالت
+3826,B2,K2,moody,دمدمی مزاج
+3827,A2,K1,moon,ماه
+3828,B2,K1,moonlight,مهتاب
+3829,B2,K4,moor,لنگر انداختن
+3830,B2,K4,mop,پاک کردن
+3831,B1,K2,moral,اخلاقی
+3832,B2,K1,morale,روحیه
+3833,B2,K1,morality,اخلاق
+3834,B2,K5,morally,از نظر اخلاقی
+3835,B2,K1,moratorium,تعلیق
+3836,B2,K2,morbid,بیمارگونه
+3837,A1,K2,more,بیشتر
+3838,B2,K5,moreover,علاوه بر این
+3839,B2,K1,morgue,سردخانه
+3840,A1,K1,morning,صبح
+3841,B2,K1,moron,احمق
+3842,B2,K2,mortal,فانی
+3843,B2,K1,mortality,مرگ و میر
+3844,B2,K1,mortar,خمپاره
+3845,B1,K1,mortgage,وام مسکن
+3846,B2,K1,mosque,مسجد
+3847,A2,K1,mosquito,پشه
+3848,A1,K2,most,بیشترین
+3849,A2,K5,mostly,بیشتر
+3850,A2,K1,motel,متل
+3851,B2,K1,moth,بید
+3852,A1,K1,mother,مادر
+3853,B2,K1,mother-in-law,مادرشوهر
+3854,B2,K1,motherhood,مادری
+3855,B2,K1,motif,موتیف
+3856,B1,K1,motion,حرکت
+3857,B2,K2,motionless,بی حرکت
+3858,B1,K4,motivate,انگیزه دادن
+3859,B1,K1,motivation,انگیزه
+3860,B2,K2,motivational,انگیزشی
+3861,B1,K1,motive,انگیزه
+3862,A2,K1,motor,موتور
+3863,A2,K1,motorbike,موتورسیکلت
+3864,A2,K1,motorcycle,موتورسیکلت
+3865,B2,K1,motorist,موتورسوار
+3866,B2,K1,motto,شعار
+3867,B2,K1,mound,تپه
+3868,B1,K1,mount,کوه
+3869,A2,K1,mountain,کوه
+3870,B2,K4,mourn,سوگواری کردن
+3871,B2,K1,mourning,سوگواری
+3872,A2,K1,mouse,موش
+3873,A1,K1,mouth,دهان
+3874,B2,K1,mouthful,یک لقمه
+3875,A1,K4,move,حرکت کردن
+3876,A2,K1,movement,جنبش
+3877,A1,K1,movie,فیلم
+3878,A2,K2,moving,متحرک
+3879,B2,K4,mow,چمن زدن
+3880,A1,K2,much,زیاد
+3881,A2,K1,mud,گل
+3882,A2,K1,muffin,کیک فنجانی
+3883,A2,K1,mug,لیوان
+3884,C1,K2,multi-,چند
+3885,B2,K1,multimedia,چند رسانه ای
+3886,B1,K2,multiple,چندگانه
+3887,A2,K4,multiply,ضرب کردن
+3888,B2,K1,multitude,انبوه
+3889,B2,K4,mumble,زیر لب گفتن
+3890,B2,K2,municipal,شهری
+3891,B2,K1,mural,نقاشی دیواری
+3892,B1,K1,murder,قتل
+3893,B1,K1,murderer,قاتل
+3894,B2,K2,murky,تیره
+3895,B2,K1,murmur,زمزمه
+3896,A2,K1,muscle,عضله
+3897,B2,K2,muscular,عضلانی
+3898,B2,K4,muse,تفکر کردن
+3899,A2,K1,museum,موزه
+3900,B1,K1,mushroom,قارچ
+3901,A1,K1,music,موسیقی
+3902,A2,K2,musical,موزیکال
+3903,A2,K1,musician,نوازنده
+3904,A1,K4,must,باید
+3905,B2,K1,mustache,سبیل
+3906,B2,K2,mute,لال
+3907,B2,K4,mutter,زیر لب گفتن
+3908,B2,K1,mutton,گوشت گوسفند
+3909,B1,K2,mutual,متقابل
+3910,A1,K3,my,مال من
+3911,B2,K1,myriad,بی شمار
+3912,A1,K3,myself,خودم
+3913,A2,K2,mysterious,اسرارآمیز
+3914,A2,K1,mystery,راز
+3915,B2,K1,mysticism,عرفان
+3916,B2,K1,mystique,راز و رمز
+3917,B1,K1,myth,افسانه
+3918,B2,K2,mythical,افسانه ای
+3919,B2,K1,mythology,اسطوره شناسی
+3920,A2,K1,nail,ناخن
+3921,B2,K2,naive,ساده لوح
+3922,B2,K2,naked,برهنه
+3923,A1,K1,name,نام
+3924,B2,K5,namely,یعنی
+3925,B2,K1,nanny,پرستار بچه
+3926,B2,K1,nap,چرت
+3927,B1,K1,napkin,دستمال سفره
+3928,A2,K1,narrative,روایت
+3929,B2,K1,narrator,راوی
+3930,A2,K2,narrow,باریک
+3931,B1,K2,nasty,ناخوشایند
+3932,A2,K1,nation,ملت
+3933,B2,K1,nation-state,دولت-ملت
+3934,A2,K2,national,ملی
+3935,B2,K5,nationwide,در سراسر کشور
+3936,A2,K2,native,بومی
+3937,A1,K2,natural,طبیعی
+3938,B2,K1,naturalist,طبیعت شناس
+3939,A2,K5,naturally,به طور طبیعی
+3940,A2,K1,nature,طبیعت
+3941,B2,K2,naughty,شیطان
+3942,B2,K2,naval,دریایی
+3943,B2,K4,navigate,جهت یابی کردن
+3944,B2,K1,navigation,ناوبری
+3945,A2,K1,navy,نیروی دریایی
+3946,A1,K6,near,نزدیک
+3947,A2,K2,nearby,نزدیک
+3948,A2,K5,nearly,تقریبا
+3949,B1,K2,neat,مرتب
+3950,B1,K5,necessarily,لزوما
+3951,A2,K2,necessary,ضروری
+3952,B2,K4,necessitate,ایجاب کردن
+3953,A2,K1,neck,گردن
+3954,A1,K1,need,نیاز
+3955,A2,K1,needle,سوزن
+3956,B2,K2,needy,نیازمند
+3957,B1,K2,negative,منفی
+3958,B1,K4,neglect,غفلت کردن
+3959,B2,K1,negligence,سهل انگاری
+3960,B2,K2,negligible,ناچیز
+3961,A1,K1,neighbor,همسایه
+3962,B1,K2,neighboring,همجوار
+3963,A2,K1,neighborhood,محله
+3964,A2,K7,neither,هیچ کدام
+3965,B2,K1,neon,نئون
+3966,A2,K1,nephew,برادرزاده
+3967,B1,K1,nerd,خوره
+3968,B1,K1,nervous,عصبی
+3969,B2,K1,nest,لانه
+3970,A2,K1,net,شبکه
+3971,A2,K1,network,شبکه
+3972,B2,K2,neural,عصبی
+3973,B2,K1,neuron,نرون
+3974,B2,K2,neutral,خنثی
+3975,B2,K1,neutrality,بی طرفی
+3976,B2,K1,neutron,نوترون
+3977,A1,K5,never,هرگز
+3978,B1,K5,nevertheless,با این وجود
+3979,A1,K2,new,جدید
+3980,B2,K1,newcomer,تازه وارد
+3981,A1,K1,news,اخبار
+3982,B1,K1,newsletter,خبرنامه
+3983,A1,K1,newspaper,روزنامه
+3984,A1,K2,next,بعدی
+3985,A1,K2,nice,خوب
+3986,B2,K1,niche,طاقچه
+3987,B2,K1,nick,بریدگی
+3988,B2,K1,nickel,نیکل
+3989,B1,K1,nickname,نام مستعار
+3990,A2,K1,niece,خواهرزاده
+3991,A2,K1,night,شب
+3992,B1,K1,nightmare,کابوس
+3993,A1,K1,nine,نه
+3994,A1,K2,no,نه
+3995,B2,K2,noble,نجیب
+3996,A1,K3,nobody,هیچ کس
+3997,B1,K4,nod,سر تکان دادن
+3998,A2,K1,noise,سر و صدا
+3999,A2,K2,noisy,پر سر و صدا
+4000,A2,K3,none,هیچ کدام
+4001,B2,K1,nomad,عشایر
+4002,B1,K2,nominal,اسمی
+4003,B2,K4,nominate,نامزد کردن
+4004,B2,K1,nominee,نامزد
+4005,B2,K2,non-profit,غیرانتفاعی
+4006,B2,K2,non-violent,بدون خشونت
+4007,B2,K2,nonchalant,بی تفاوت
+4008,A2,K3,none,هیچ یک
+4009,B2,K5,nonetheless,با این وجود
+4010,B1,K1,nonsense,بی معنی
+4011,A2,K1,noodle,رشته فرنگی
+4012,A2,K7,nor,نه
+4013,B1,K1,norm,هنجار
+4014,A2,K2,normal,طبیعی
+4015,A2,K5,normally,به طور معمول
+4016,A1,K1,north,شمال
+4017,A2,K2,northern,شمالی
+4018,A1,K1,nose,بینی
+4019,A1,K5,not,نه
+4020,A2,K1,notable,قابل توجه
+4021,B1,K5,notably,به ویژه
+4022,B2,K1,notation,نت نویسی
+4023,B2,K1,notch,درجه
+4024,A1,K1,note,یادداشت
+4025,A1,K1,notebook,دفترچه یادداشت
+4026,B1,K2,noted,مشهور
+4027,B2,K2,noteworthy,قابل توجه
+4028,A1,K3,nothing,هیچ چیز
+4029,A2,K1,notice,توجه
+4030,B1,K2,noticeable,قابل توجه
+4031,B1,K1,notion,مفهوم
+4032,B2,K2,notorious,بدنام
+4033,A2,K1,novel,رمان
+4034,B1,K1,novelty,تازگی
+4035,A2,K1,novice,تازه کار
+4036,A1,K5,now,اکنون
+4037,A2,K5,nowadays,امروزه
+4038,B1,K5,nowhere,هیچ جا
+4039,B2,K1,nozzle,نازل
+4040,B1,K2,nuclear,هسته ای
+4041,B2,K1,nucleus,هسته
+4042,B2,K2,nude,برهنه
+4043,B2,K1,nuisance,مزاحمت
+4044,C1,K4,null,باطل کردن
+4045,B2,K2,numb,بی حس
+4046,A1,K1,number,عدد
+4047,B2,K2,numerical,عددی
+4048,B1,K2,numerous,متعدد
+4049,B1,K1,nun,راهبه
+4050,A2,K1,nurse,پرستار
+4051,B1,K1,nursery,مهد کودک
+4052,B1,K1,nurture,پرورش
+4053,A2,K1,nut,آجیل
+4054,B2,K1,nutrient,ماده مغذی
+4055,B1,K1,nutrition,تغذیه
+4056,B2,K2,nutritional,تغذیه ای
+4057,B2,K1,nylon,نایلون
+4058,A2,K5,o'clock,ساعت
+4059,B2,K1,oath,سوگند
+4060,B2,K1,obedience,اطاعت
+4061,B2,K2,obedient,فرمانبردار
+4062,B2,K2,obese,چاق
+4063,B2,K1,obesity,چاقی
+4064,A2,K4,obey,اطاعت کردن
+4065,A2,K1,obituary,آگهی ترحیم
+4066,A2,K1,object,شیء
+4067,B2,K1,objection,اعتراض
+4068,B1,K2,objective,هدف
+4069,B2,K1,obligation,تعهد
+4070,B2,K4,oblige,مجبور کردن
+4071,B2,K2,obscene,مستهجن
+4072,B2,K2,obscure,مبهم
+4073,B2,K1,observance,رعایت
+4074,A2,K4,observe,مشاهده کردن
+4075,B2,K1,obsession,وسواس
+4076,B2,K2,obsessive,وسواسی
+4077,B2,K2,obsolete,منسوخ
+4078,B1,K1,obstacle,مانع
+4079,B2,K1,obstruction,انسداد
+4080,B1,K4,obtain,به دست آوردن
+4081,A2,K2,obvious,واضح
+4082,A2,K5,obviously,بدیهی است
+4083,A2,K1,occasion,مناسبت
+4084,B1,K2,occasional,گاه به گاه
+4085,B1,K5,occasionally,گاهی
+4086,B2,K1,occupant,ساکن
+4087,B1,K1,occupational,شغلی
+4088,B1,K4,occupy,اشغال کردن
+4089,A2,K4,occur,رخ دادن
+4090,B1,K1,occurrence,وقوع
+4091,A2,K1,ocean,اقیانوس
+4092,A2,K2,odd,عجیب
+4093,B1,K1,odds,شانس
+4094,B2,K1,odor,بو
+4095,B2,K1,odyssey,سفر طولانی
+4096,A1,K6,of,از
+4097,A1,K6,off,خاموش
+4098,B2,K1,off-site,خارج از سایت
+4099,B1,K4,offend,توهین کردن
+4100,B1,K1,offender,متخلف
+4101,A2,K1,offense,تخلف
+4102,A2,K4,offer,پیشنهاد دادن
+4103,B1,K1,offering,پیشکش
+4104,A1,K1,office,دفتر
+4105,A2,K1,officer,افسر
+4106,A2,K2,official,رسمی
+4107,B2,K5,officially,رسما
+4108,B2,K1,offset,جبران
+4109,B2,K1,offspring,فرزندان
+4110,B2,K2,offstage,پشت صحنه
+4111,A1,K5,often,اغلب
+4112,A1,K8,oh,اوه
+4113,A2,K1,oil,روغن
+4114,A1,K2,old,پیر
+4115,A2,K2,old-fashioned,قدیمی
+4116,A1,K6,on,روشن
+4117,B2,K2,on-line,آنلاین
+4118,B2,K2,on-screen,روی صفحه
+4119,A1,K5,once,یک بار
+4120,B2,K2,oncoming,آینده
+4121,A1,K1,one,یک
+4122,B1,K2,ongoing,در حال انجام
+4123,A2,K1,onion,پیاز
+4124,A2,K2,online,آنلاین
+4125,A1,K5,only,فقط
+4126,B2,K1,onset,شروع
+4127,B2,K2,onshore,ساحلی
+4128,B2,K2,onstage,روی صحنه
+4129,A1,K6,onto,بر روی
+4130,B2,K5,onward,به پیش
+4131,B2,K1,opacity,کدورت
+4132,B2,K2,opaque,مات
+4133,A1,K4,open,باز کردن
+4134,B2,K2,open-ended,پایان باز
+4135,B2,K2,open-minded,روشنفکر
+4136,A2,K1,opening,افتتاحیه
+4137,B2,K5,openly,علنا
+4138,A2,K1,opera,اپرا
+4139,A2,K4,operate,عمل کردن
+4140,A2,K1,operation,عمل
+4141,B2,K2,operational,عملیاتی
+4142,B2,K2,operative,کارگر
+4143,B1,K1,opinion,نظر
+4144,A2,K1,opponent,حریف
+4145,A2,K1,opportunity,فرصت
+4146,B1,K4,oppose,مخالفت کردن
+4147,A2,K2,opposite,مخالف
+4148,B2,K2,optimal,بهینه
+4149,B2,K1,optimism,خوش بینی
+4150,B1,K2,optimistic,خوش بین
+4151,B2,K1,optimum,بهینه
+4152,A2,K1,option,گزینه
+4153,A1,K7,or,یا
+4154,B2,K2,oral,شفاهی
+4155,A1,K1,orange,نارنجی
+4156,B2,K1,orbit,مدار
+4157,B1,K1,orchestra,ارکستر
+4158,B2,K4,orchestrate,سازماندهی کردن
+4159,B2,K4,ordain,دستور دادن
+4160,B2,K1,ordeal,آزمون سخت
+4161,A1,K1,order,سفارش
+4162,B2,K2,orderly,منظم
+4163,A2,K2,ordinary,عادی
+4164,B2,K1,ore,سنگ معدن
+4165,B1,K1,organ,ارگان
+4166,B2,K5,organically,ارگانیک
+4167,B2,K1,organism,موجود زنده
+4168,A2,K1,organization,سازمان
+4169,B2,K2,organizational,سازمانی
+4170,A2,K4,organize,سازماندهی کردن
+4171,A2,K2,organized,منظم
+4172,A2,K1,organizer,برگزار کننده
+4173,B2,K1,organizing,سازماندهی
+4174,B2,K2,orient,جهت یابی کردن
+4175,B2,K2,oriental,شرقی
+4176,B1,K1,orientation,جهت گیری
+4177,B2,K4,originate,سرچشمه گرفتن
+4178,A2,K1,origin,منشاء
+4179,A2,K2,original,اصلی
+4180,B1,K5,originally,در اصل
+4181,B2,K1,ornament,تزئین
+4182,B2,K1,orphan,یتیم
+4183,B2,K2,orthodox,ارتدوکس
+4184,A1,K2,other,دیگر
+4185,A2,K5,otherwise,در غیر این صورت
+4186,B1,K4,ought,باید
+4187,B2,K1,ounce,اونس
+4188,A1,K3,our,مال ما
+4189,A2,K3,ours,مال ما
+4190,A2,K3,ourselves,خودمان
+4191,B2,K4,oust,برکنار کردن
+4192,A1,K6,out,بیرون
+4193,B2,K1,outbreak,شیوع
+4194,B2,K1,outburst,طغیان
+4195,B2,K1,outcast,مطرود
+4196,B1,K1,outcome,نتیجه
+4197,B2,K1,outcry,فریاد
+4198,B2,K2,outdated,منسوخ
+4199,A2,K2,outdoor,بیرونی
+4200,A2,K5,outdoors,بیرون
+4201,B2,K2,outer,بیرونی
+4202,B1,K1,outfit,لباس
+4203,B1,K2,outgoing,برونگرا
+4204,B1,K1,outing,گردش
+4205,B2,K1,outlaw,یاغی
+4206,B1,K1,outlet,خروجی
+4207,B1,K1,outline,طرح کلی
+4208,B1,K1,outlook,چشم انداز
+4209,B2,K2,outlying,دور افتاده
+4210,B2,K1,outrage,خشم
+4211,B1,K2,outrageous,ظالمانه
+4212,B2,K2,outright,کامل
+4213,B2,K1,outset,آغاز
+4214,A2,K6,outside,بیرون
+4215,B1,K1,outsider,خارجی
+4216,B2,K1,outskirts,حومه
+4217,B1,K2,outstanding,برجسته
+4218,B2,K2,outward,بیرونی
+4219,B2,K4,outweigh,سنگین تر بودن
+4220,B2,K2,oval,بیضی
+4221,A2,K1,oven,فر
+4222,A1,K6,over,روی
+4223,B1,K2,overall,کلی
+4224,B2,K2,overcast,ابری
+4225,B2,K2,overcrowded,بسیار شلوغ
+4226,B2,K4,overdo,زیاده روی کردن
+4227,B2,K1,overdose,مصرف بیش از حد
+4228,B1,K2,overdue,سررسید گذشته
+4229,B2,K1,overflow,سرریز
+4230,B2,K1,overhaul,تعمیرات اساسی
+4231,B2,K1,overhead,سربار
+4232,B2,K4,overhear,استراق سمع کردن
+4233,B2,K1,overlap,همپوشانی
+4234,B2,K1,overload,اضافه بار
+4235,B1,K4,overlook,نادیده گرفتن
+4236,B2,K5,overly,بیش از حد
+4237,B1,K2,overnight,یک شبه
+4238,B2,K4,overpower,غلبه کردن
+4239,A2,K5,overseas,خارج از کشور
+4240,B2,K4,oversee,نظارت کردن
+4241,B2,K1,oversight,نظارت
+4242,B2,K2,overt,آشکار
+4243,B2,K4,overtake,سبقت گرفتن
+4244,B1,K4,overthrow,سرنگون کردن
+4245,B2,K4,overturn,واژگون کردن
+4246,B1,K4,overwhelm,غرق کردن
+4247,B1,K2,overwhelming,طاقت فرسا
+4248,B2,K5,overwhelmingly,قاطعانه
+4249,B1,K4,owe,بدهکار بودن
+4250,B2,K1,owl,جغد
+4251,A2,K4,own,داشتن
+4252,A2,K1,owner,صاحب
+4253,B2,K1,ownership,مالکیت
+4254,B2,K1,oxide,اکسید
+4255,B2,K1,ozone,ازن
+4256,A2,K5,p.m.,بعد از ظهر
+4257,B1,K1,pace,سرعت
+4258,A2,K4,pack,بسته بندی کردن
+4259,A2,K1,package,بسته
+4260,B2,K1,packaging,بسته بندی
+4261,B2,K1,pact,پیمان
+4262,B1,K1,pad,پد
+4263,B2,K1,paddle,پارو
+4264,B2,K1,pagan,کافر
+4265,A1,K1,page,صفحه
+4266,B2,K1,pageant,جشن
+4267,A2,K1,pain,درد
+4268,B1,K2,painful,دردناک
+4269,B2,K5,painfully,به طرز دردناکی
+4270,B2,K2,painstaking,طاقت فرسا
+4271,A1,K4,paint,رنگ کردن
+4272,A2,K1,painter,نقاش
+4273,A1,K1,painting,نقاشی
+4274,A1,K1,pair,جفت
+4275,B1,K1,palace,قصر
+4276,B1,K2,pale,رنگ پریده
+4277,B1,K1,palm,کف دست
+4278,B2,K1,pamphlet,جزوه
+4279,A2,K1,pan,ماهیتابه
+4280,B2,K1,pancake,پنکیک
+4281,B2,K1,panda,پاندا
+4282,B2,K1,pandemic,همه گیری
+4283,B1,K1,panel,پنل
+4284,B1,K1,panic,وحشت
+4285,B2,K1,panther,پلنگ
+4286,B2,K1,pantry,انباری
+4287,A2,K1,pants,شلوار
+4288,B2,K2,papal,پاپی
+4289,A1,K1,paper,کاغذ
+4290,B2,K1,paperback,کتاب شومیز
+4291,B1,K1,parable,تمثیل
+4292,B2,K1,parachute,چتر نجات
+4293,A2,K1,parade,رژه
+4294,B2,K1,paradigm,پارادایم
+4295,B1,K1,paradise,بهشت
+4296,B2,K1,paradox,پارادوکس
+4297,B2,K2,paradoxical,متناقض
+4298,A2,K1,paragraph,پاراگراف
+4299,B2,K2,parallel,موازی
+4300,B2,K4,paralyze,فلج کردن
+4301,B2,K1,parameter,پارامتر
+4302,B2,K2,paramilitary,شبه نظامی
+4303,B2,K2,paramount,برجسته
+4304,B2,K1,paranoia,پارانویا
+4305,B2,K2,paranoid,پارانوئید
+4306,B2,K1,parasite,انگل
+4307,B2,K1,parcel,بسته
+4308,A2,K1,pardon,ببخشید
+4309,A1,K1,parent,والدین
+4310,B2,K2,parental,والدینی
+4311,B2,K1,parenting,فرزندپروری
+4312,B2,K1,parish,محله
+4313,A1,K1,park,پارک
+4314,A2,K1,parking,پارکینگ
+4315,B2,K1,parkinson,پارکینسون
+4316,A2,K1,parliament,مجلس
+4317,B2,K2,parliamentary,پارلمانی
+4318,B2,K1,parlor,سالن پذیرایی
+4319,B2,K1,parody,تقلید مسخره آمیز
+4320,B2,K1,parole,آزادی مشروط
+4321,A1,K1,part,قسمت
+4322,B2,K2,part-time,پاره وقت
+4323,B2,K2,partial,جزئی
+4324,B2,K5,partially,تا حدی
+4325,A2,K1,participant,شرکت کننده
+4326,B1,K4,participate,شرکت کردن
+4327,B1,K1,participation,مشارکت
+4328,B2,K1,particle,ذره
+4329,A2,K2,particular,خاص
+4330,A2,K5,particularly,به خصوص
+4331,B2,K2,partisan,حزبی
+4332,B2,K1,partition,پارتیشن
+4333,B1,K5,partly,تا حدی
+4334,A1,K1,partner,شریک
+4335,B1,K1,partnership,مشارکت
+4336,A1,K1,party,مهمانی
+4337,A1,K4,pass,عبور کردن
+4338,A2,K1,passage,گذرگاه
+4339,A2,K1,passenger,مسافر
+4340,B2,K1,passer-by,رهگذر
+4341,B2,K2,passing,گذرا
+4342,A2,K1,passion,شور
+4343,B1,K2,passionate,پرشور
+4344,B2,K2,passive,منفعل
+4345,A2,K1,passport,گذرنامه
+4346,A2,K1,password,رمز عبور
+4347,A2,K1,past,گذشته
+4348,A2,K1,pasta,پاستا
+4349,B1,K1,paste,خمیر
+4350,B2,K1,pastor,کشیش
+4351,B2,K2,pastoral,روستایی
+4352,B2,K1,pastry,شیرینی
+4353,B2,K4,pat,نوازش کردن
+4354,B1,K1,patch,وصله
+4355,B2,K1,patent,حق ثبت اختراع
+4356,A2,K1,paternal,پدری
+4357,A2,K1,path,مسیر
+4358,B2,K2,pathetic,رقت انگیز
+4359,B2,K1,pathology,آسیب شناسی
+4360,B2,K1,pathos,رقت
+4361,B2,K1,pathway,مسیر
+4362,B1,K1,patience,صبر
+4363,A2,K1,patient,بیمار
+4364,B1,K1,patio,پاسیو
+4365,B2,K1,patriarch,پدرسالار
+4366,B1,K1,patrol,گشت
+4367,B2,K1,patron,حامی
+4368,B2,K1,patronage,حمایت
+4369,A2,K1,pattern,الگو
+4370,B2,K1,pauper,فقیر
+4371,A2,K1,pause,مکث
+4372,B2,K1,pavement,پیاده رو
+4373,B2,K4,pave,سنگفرش کردن
+4374,B2,K1,pavilion,غرفه
+4375,B2,K1,pawn,گروگان
+4376,A1,K4,pay,پرداخت کردن
+4377,B2,K1,pay-off,نتیجه
+4378,B2,K1,payroll,حقوق و دستمزد
+4379,A2,K1,peace,صلح
+4380,B1,K2,peaceful,صلح آمیز
+4381,B2,K1,peacekeeping,حافظ صلح
+4382,B2,K1,peacetime,زمان صلح
+4383,A2,K1,peanut,بادام زمینی
+4384,B1,K1,pear,گلابی
+4385,B2,K1,pearl,مروارید
+4386,B2,K1,peasant,دهقان
+4387,B2,K1,pebble,سنگریزه
+4388,B2,K2,peculiar,عجیب
+4389,B2,K1,pedal,پدال
+4390,B1,K1,pedestrian,عابر پیاده
+4391,B2,K1,pedigree,شجره نامه
+4392,B2,K4,peek,نگاه دزدکی
+4393,B2,K4,peel,پوست کندن
+4394,B1,K1,peer,همتا
+4395,B2,K1,peg,میخ
+4396,B1,K1,pen,قلم
+4397,B2,K2,penal,کیفری
+4398,A1,K1,pencil,مداد
+4399,B2,K2,pending,در انتظار
+4400,B2,K1,pendulum,پاندول
+4401,B2,K4,penetrate,نفوذ کردن
+4402,B2,K1,penetration,نفوذ
+4403,B2,K1,penguin,پنگوئن
+4404,B2,K1,peninsula,شبه جزیره
+4405,B2,K1,penis,آلت تناسلی
+4406,A2,K1,penny,پنی
+4407,B1,K1,pension,حقوق بازنشستگی
+4408,B2,K1,pentagon,پنتاگون
+4409,A1,K1,people,مردم
+4410,A2,K1,pepper,فلفل
+4411,A2,K6,per,در هر
+4412,B1,K4,perceive,درک کردن
+4413,B2,K2,perceived,درک شده
+4414,A2,K1,percent,درصد
+4415,A2,K1,percentage,درصد
+4416,B1,K1,perception,ادراک
+4417,B2,K1,perch,نشستن
+4418,B2,K2,perennial,چندساله
+4419,A1,K2,perfect,عالی
+4420,A2,K5,perfectly,کاملا
+4421,A2,K4,perform,اجرا کردن
+4422,A2,K1,performance,کارایی
+4423,B1,K1,performer,اجرا کننده
+4424,B1,K1,perfume,عطر
+4425,A2,K5,perhaps,شاید
+4426,B2,K1,peril,خطر
+4427,B2,K1,perimeter,محیط
+4428,A2,K1,period,دوره
+4429,B2,K2,periodic,دوره ای
+4430,B2,K5,periodically,به صورت دوره ای
+4431,B2,K2,peripheral,محیطی
+4432,B2,K4,perish,هلاک شدن
+4433,B2,K1,perk,مزیت
+4434,B1,K2,permanent,دائمی
+4435,B2,K5,permanently,برای همیشه
+4436,B2,K4,permeate,نفوذ کردن
+4437,B2,K2,permissible,مجاز
+4438,B1,K1,permission,اجازه
+4439,A2,K1,permit,مجوز
+4440,B2,K1,perpetrator,مرتکب
+4441,B2,K2,perpetual,همیشگی
+4442,B2,K2,perplexed,گیج
+4443,B2,K4,persecute,آزار و اذیت کردن
+4444,B2,K1,persecution,آزار و اذیت
+4445,B2,K4,persevere,پشتکار داشتن
+4446,A2,K4,persist,پافشاری کردن
+4447,B2,K2,persistent,مداوم
+4448,A1,K1,person,شخص
+4449,A2,K2,personal,شخصی
+4450,A2,K1,personality,شخصیت
+4451,B1,K5,personally,شخصا
+4452,B2,K1,personnel,کارکنان
+4453,A2,K4,persuade,متقاعد کردن
+4454,B2,K1,persuasion,ترغیب
+4455,B2,K2,persuasive,متقاعد کننده
+4456,B2,K4,pertain,مربوط بودن
+4457,B2,K1,pesticide,آفت کش
+4458,A2,K1,pet,حیوان خانگی
+4459,B2,K1,petition,دادخواست
+4460,B2,K1,petitioner,دادخواست دهنده
+4461,A2,K1,petrol,بنزین
+4462,B2,K1,petroleum,نفت
+4463,B2,K2,petty,کوچک
+4464,B1,K2,pharmaceutical,دارویی
+4465,B2,K1,pharmacist,داروساز
+4466,A2,K1,pharmacy,داروخانه
+4467,B2,K2,phenomenal,پدیده
+4468,B1,K1,phenomenon,پدیده
+4469,B2,K1,philosopher,فیلسوف
+4470,B2,K2,philosophical,فلسفی
+4471,B1,K1,philosophy,فلسفه
+4472,A1,K1,phone,تلفن
+4473,B2,K2,phony,قلابی
+4474,A1,K1,photo,عکس
+4475,A2,K1,photocopy,فتوکپی
+4476,A1,K1,photograph,عکس
+4477,A2,K1,photographer,عکاس
+4478,B2,K2,photographic,عکاسی
+4479,A2,K1,photography,عکاسی
+4480,A2,K1,phrase,عبارت
+4481,A2,K2,physical,فیزیکی
+4482,B1,K5,physically,از نظر جسمی
+4483,B1,K1,physician,پزشک
+4484,B2,K1,physicist,فیزیکدان
+4485,A2,K1,physics,فیزیک
+4486,B2,K2,physiological,فیزیولوژیکی
+4487,B2,K1,physiology,فیزیولوژی
+4488,B2,K1,physique,هیکل
+4489,A2,K1,piano,پیانو
+4490,A1,K4,pick,انتخاب کردن
+4491,B2,K1,pick-up,وانت
+4492,B2,K1,picket,اعتصاب
+4493,B2,K1,pickle,ترشی
+4494,B2,K2,pictorial,تصویری
+4495,A1,K1,picture,تصویر
+4496,B1,K2,picturesque,خوش منظره
+4497,A2,K1,pie,پای
+4498,A1,K1,piece,تکه
+4499,B2,K1,pier,اسکله
+4500,B2,K4,pierce,سوراخ کردن
+4501,B2,K4,cast,انداختن
+4502,A1,K1,cat,گربه
+4503,A1,K4,catch,گرفتن
+4504,A2,K1,category,دسته بندی
+4505,B2,K1,Catholic,کاتولیک
+4506,A2,K1,cause,علت
+4507,A2,K1,ceiling,سقف
+4508,A1,K4,celebrate,جشن گرفتن
+4509,A1,K1,celebration,جشن
+4510,A2,K1,celebrity,مشهور
+4511,A2,K1,cell,سلول
+4512,A1,K1,center,مرکز
+4513,A1,K2,central,مرکزی
+4514,A1,K1,century,قرن
+4515,B2,K1,CEO,مدیر عامل
+4516,A2,K1,ceremony,مراسم
+4517,A2,K2,certain,مطمئن
+4518,A2,K5,certainly,مطمئنا
+4519,A2,K1,chain,زنجیر
+4520,A1,K1,chair,صندلی
+4521,B1,K1,chairman,رئیس
+4522,A2,K1,challenge,چالش
+4523,B2,K1,chamber,اتاق
+4524,B1,K1,champion,قهرمان
+4525,B1,K1,championship,قهرمانی
+4526,A2,K1,chance,شانس
+4527,A1,K4,change,تغییر دادن
+4528,B2,K2,changing,در حال تغییر
+4529,A2,K1,channel,کانال
+4530,A2,K1,chapter,فصل
+4531,A1,K1,character,شخصیت
+4532,B1,K1,characteristic,مشخصه
+4533,B2,K4,characterize,مشخص کردن
+4534,A2,K1,charge,هزینه
+4535,A2,K1,charity,خیریه
+4536,A2,K1,chart,نمودار
+4537,A2,K4,chase,تعقیب کردن
+4538,A1,K2,cheap,ارزان
+4539,A1,K4,check,چک کردن
+4540,B1,K1,cheek,گونه
+4541,A1,K1,cheese,پنیر
+4542,B1,K1,chef,سرآشپز
+4543,A2,K1,chemical,شیمیایی
+4544,B1,K1,chest,قفسه سینه
+4545,A1,K1,chicken,مرغ
+4546,A2,K1,chief,رئیس
+4547,A1,K1,child,کودک
+4548,A2,K1,childhood,کودکی
+4549,B2,K2,Chinese,چینی
+4550,A2,K1,chip,تراشه
+4551,A1,K1,chocolate,شکلات
+4552,A2,K1,choice,انتخاب
+4553,B2,K1,cholesterol,کلسترول
+4554,A1,K4,choose,انتخاب کردن
+4555,B2,K1,Christian,مسیحی
+4556,A2,K1,Christmas,کریسمس
+4557,A2,K1,church,کلیسا
+4558,A2,K1,cigarette,سیگار
+4559,A1,K1,circle,دایره
+4560,B1,K1,circumstance,شرایط
+4561,B2,K4,cite,نقل قول کردن
+4562,A2,K1,citizen,شهروند
+4563,A1,K1,city,شهر
+4564,B1,K2,civil,مدنی
+4565,B2,K1,civilian,غیر نظامی
+4566,B1,K4,claim,ادعا کردن
+4567,A1,K1,class,کلاس
+4568,A2,K2,classic,کلاسیک
+4569,A1,K1,classroom,کلاس درس
+4570,A1,K4,clean,تمیز کردن
+4571,A1,K2,clear,واضح
+4572,A2,K5,clearly,به وضوح
+4573,B1,K1,client,مشتری
+4574,A2,K1,climate,آب و هوا
+4575,A2,K4,climb,بالا رفتن
+4576,B1,K1,clinic,کلینیک
+4577,B1,K2,clinical,بالینی
+4578,B1,K1,clip,کلیپ
+4579,A1,K1,clock,ساعت
+4580,A1,K4,close,بستن
+4581,B1,K5,closely,از نزدیک
+4582,B1,K5,closer,نزدیکتر
+4583,A2,K1,clothes,لباس
+4584,A2,K1,clothing,پوشاک
+4585,A2,K1,cloud,ابر
+4586,A1,K1,club,باشگاه
+4587,A2,K1,clue,سرنخ
+4588,B2,K1,cluster,خوشه
+4589,A2,K1,coach,مربی
+4590,A2,K1,coal,زغال سنگ
+4591,B2,K1,coalition,ائتلاف
+4592,B1,K1,coast,ساحل
+4593,A1,K1,coat,کت
+4594,A2,K1,code,کد
+4595,A1,K1,coffee,قهوه
+4596,B2,K2,cognitive,شناختی
+4597,A1,K2,cold,سرد
+4598,B2,K4,collapse,فروپاشی
+4599,B1,K1,colleague,همکار
+4600,A2,K4,collect,جمع آوری کردن
+4601,A2,K1,collection,مجموعه
+4602,B2,K2,collective,جمعی
+4603,A2,K1,college,کالج
+4604,B2,K2,colonial,استعماری
+4605,A1,K1,color,رنگ
+4606,B1,K1,column,ستون
+4607,B1,K1,combination,ترکیب
+4608,B1,K4,combine,ترکیب کردن
+4609,A1,K4,come,آمدن
+4610,A1,K1,comedy,کمدی
+4611,B1,K1,comfort,آسایش
+4612,A1,K2,comfortable,راحت
+4613,A2,K1,command,فرمان
+4614,B2,K1,commander,فرمانده
+4615,A2,K1,comment,نظر
+4616,A2,K2,commercial,تجاری
+4617,B1,K1,commission,کمیسیون
+4618,B1,K4,commit,مرتکب شدن
+4619,B1,K1,commitment,تعهد
+4620,B1,K1,committee,کمیته
+4621,A1,K2,common,مشترک
+4622,A2,K4,communicate,ارتباط برقرار کردن
+4623,A2,K1,communication,ارتباط
+4624,A2,K1,community,جامعه
+4625,A1,K1,company,شرکت
+4626,A2,K4,compare,مقایسه کردن
+4627,B1,K1,comparison,مقایسه
+4628,A2,K4,compete,رقابت کردن
+4629,A2,K1,competition,رقابت
+4630,B1,K2,competitive,رقابتی
+4631,B1,K1,competitor,رقیب
+4632,A2,K4,complain,شکایت کردن
+4633,A2,K1,complaint,شکایت
+4634,A2,K2,complete,کامل
+4635,A2,K5,completely,کاملا
+4636,A2,K2,complex,پیچیده
+4637,B2,K2,complicated,پیچیده
+4638,B1,K1,component,جزء
+4639,B2,K4,compose,ساختن
+4640,B1,K1,composition,ترکیب
+4641,B1,K2,comprehensive,جامع
+4642,A1,K1,computer,کامپیوتر
+4643,B1,K4,concentrate,تمرکز کردن
+4644,B1,K1,concentration,تمرکز
+4645,B1,K1,concept,مفهوم
+4646,B1,K1,concern,نگرانی
+4647,B1,K2,concerned,نگران
+4648,A2,K1,concert,کنسرت
+4649,A2,K4,conclude,نتیجه گیری کردن
+4650,A2,K1,conclusion,نتیجه
+4651,B2,K2,concrete,بتن، عینی
+4652,A1,K1,condition,وضعیت
+4653,B1,K1,conduct,رفتار
+4654,A2,K1,conference,کنفرانس
+4655,B1,K1,confidence,اعتماد به نفس
+4656,A2,K2,confident,مطمئن
+4657,B1,K4,confirm,تایید کردن
+4658,B1,K1,conflict,درگیری
+4659,B2,K4,confront,مقابله کردن
+4660,B1,K1,confusion,سردرگمی
+4661,B2,K1,Congress,کنگره
+4662,B2,K2,congressional,کنگره ای
+4663,A1,K4,connect,وصل کردن
+4664,A2,K1,connection,ارتباط
+4665,B2,K1,consciousness,آگاهی
+4666,B2,K1,consensus,اجماع
+4667,B2,K1,consequence,نتیجه
+4668,B1,K2,conservative,محافظه کار
+4669,A2,K4,consider,در نظر گرفتن
+4670,B1,K2,considerable,قابل توجه
+4671,B1,K1,consideration,ملاحظه
+4672,A2,K4,consist,شامل بودن
+4673,B2,K2,consistent,ثابت قدم
+4674,B1,K2,constant,ثابت
+4675,B1,K5,constantly,به طور مداوم
+4676,B2,K4,constitute,تشکیل دادن
+4677,B2,K2,constitutional,مطابق قانون اساسی
+4678,B1,K4,construct,ساختن
+4679,B1,K1,construction,ساخت و ساز
+4680,B1,K1,consultant,مشاور
+4681,B1,K4,consume,مصرف کردن
+4682,B1,K1,consumer,مصرف کننده
+4683,B1,K1,consumption,مصرف
+4684,A2,K1,contact,تماس
+4685,A2,K4,contain,شامل بودن
+4686,A2,K1,container,ظرف
+4687,B1,K2,contemporary,معاصر
+4688,B1,K1,content,محتوا
+4689,B1,K1,contest,مسابقه
+4690,B1,K1,context,زمینه
+4691,A1,K4,continue,ادامه دادن
+4692,B1,K2,continued,ادامه دار
+4693,A2,K1,contract,قرارداد
+4694,A2,K1,contrast,تضاد
+4695,A2,K4,contribute,مشارکت کردن
+4696,B1,K1,contribution,مشارکت
+4697,B1,K1,control,کنترل
+4698,B1,K2,controversial,بحث برانگیز
+4699,B1,K1,controversy,جدال
+4700,B1,K1,convention,قرارداد
+4701,B1,K2,conventional,مرسوم
+4702,A1,K1,conversation,گفتگو
+4703,B1,K4,convert,تبدیل کردن
+4704,B2,K1,conviction,اعتقاد راسخ
+4705,B1,K4,convince,متقاعد کردن
+4706,A2,K4,cook,آشپزی کردن
+4707,A2,K1,cookie,کلوچه
+4708,A2,K1,cooking,آشپزی
+4709,A2,K2,cool,خنک
+4710,B2,K1,cooperation,همکاری
+4711,B1,K1,cop,پلیس
+4712,B1,K4,cope,کنار آمدن
+4713,A1,K1,copy,کپی
+4714,B1,K1,core,هسته
+4715,B1,K1,corn,ذرت
+4716,A1,K1,corner,گوشه
+4717,B1,K2,corporate,شرکتی
+4718,B1,K1,corporation,شرکت
+4719,A1,K2,correct,درست
+4720,B2,K1,correspondent,خبرنگار
+4721,A1,K1,cost,هزینه
+4722,A2,K1,cotton,پنبه
+4723,B1,K1,couch,کاناپه
+4724,A1,K4,could,می توانست
+4725,B1,K1,council,شورا
+4726,B2,K1,counsel,مشاور
+4727,A1,K4,count,شمردن
+4728,B1,K1,counter,پیشخوان
+4729,A1,K1,country,کشور
+4730,A2,K1,county,شهرستان
+4731,A2,K1,couple,زوج
+4732,A2,K1,courage,شجاعت
+4733,A1,K1,course,دوره
+4734,B1,K1,court,دادگاه
+4735,A1,K1,cousin,پسرعمو، دخترعمو
+4736,A1,K4,cover,پوشاندن
+4737,B2,K1,coverage,پوشش خبری
+4738,A2,K1,cow,گاو
+4739,B1,K1,crack,ترک
+4740,B1,K1,craft,صنایع دستی
+4741,A2,K1,crash,تصادف
+4742,A2,K2,crazy,دیوانه
+4743,A2,K1,cream,خامه
+4744,A2,K4,create,ایجاد کردن
+4745,B1,K1,creation,خلقت
+4746,A2,K2,creative,خلاق
+4747,A2,K1,creature,موجود
+4748,A2,K1,credit,اعتبار
+4749,A2,K1,crew,خدمه
+4750,A2,K1,crime,جرم
+4751,A2,K1,criminal,مجرم
+4752,A2,K1,crisis,بحران
+4753,B2,K1,criteria,معیارها
+4754,A2,K1,critic,منتقد
+4755,B1,K2,critical,بحرانی
+4756,B1,K1,criticism,انتقاد
+4757,B1,K4,criticize,انتقاد کردن
+4758,A2,K1,crop,محصول
+4759,A2,K1,cross,صلیب
+4760,A2,K1,crowd,جمعیت
+4761,B2,K2,crucial,حیاتی
+4762,A2,K4,cry,گریه کردن
+4763,A2,K2,cultural,فرهنگی
+4764,A2,K1,culture,فرهنگ
+4765,A1,K1,cup,فنجان
+4766,B1,K2,curious,کنجکاو
+4767,A2,K2,current,جاری
+4768,B1,K5,currently,در حال حاضر
+4769,B1,K1,curriculum,برنامه تحصیلی
+4770,B1,K1,custom,سفارشی
+4771,A1,K1,customer,مشتری
+4772,A1,K4,cut,بریدن
+4773,B1,K1,cycle,چرخه
+4774,A2,K1,dad,بابا
+4775,A2,K2,daily,روزانه
+4776,A2,K1,damage,خسارت
+4777,A1,K1,dance,رقص
+4778,A1,K1,danger,خطر
+4779,A1,K2,dangerous,خطرناک
+4780,B1,K4,dare,جرات کردن
+4781,A1,K2,dark,تاریک
+4782,B1,K1,darkness,تاریکی
+4783,A2,K1,data,داده ها
+4784,A1,K1,date,تاریخ
+4785,A1,K1,daughter,دختر
+4786,A1,K1,day,روز
+4787,A2,K2,dead,مرده
+4788,A2,K1,deal,معامله
+4789,B1,K1,dealer,فروشنده
+4790,A1,K2,dear,عزیز
+4791,A2,K1,death,مرگ
+4792,A2,K1,debate,بحث
+4793,B1,K1,debt,بدهی
+4794,B1,K1,decade,دهه
+4795,A1,K4,decide,تصمیم گرفتن
+4796,A2,K1,decision,تصمیم
+4797,B2,K1,deck,عرشه
+4798,B2,K4,declare,اعلام کردن
+4799,B1,K1,decline,کاهش
+4800,A2,K1,decrease,کاهش
+4801,A2,K2,deep,عمیق
+4802,B1,K5,deeply,عمیقا
+4803,B2,K1,deer,گوزن
+4804,A2,K1,defeat,شکست
+4805,B1,K4,defend,دفاع کردن
+4806,B2,K1,defendant,متهم
+4807,B1,K1,defense,دفاع
+4808,B2,K2,defensive,دفاعی
+4809,B2,K1,deficit,کسری
+4810,A2,K4,define,تعریف کردن
+4811,A2,K5,definitely,قطعا
+4812,A2,K1,definition,تعریف
+4813,B2,K1,degree,درجه
+4814,A2,K1,delay,تاخیر
+4815,A2,K4,deliver,تحویل دادن
+4816,B1,K1,delivery,تحویل
+4817,A2,K1,demand,تقاضا
+4818,B1,K1,democracy,دموکراسی
+4819,B2,K2,democratic,دموکراتیک
+4820,B2,K4,demonstrate,نشان دادن
+4821,B2,K1,demonstration,تظاهرات
+4822,B2,K4,deny,انکار کردن
+4823,A2,K1,department,بخش
+4824,B1,K4,depend,بستگی داشتن
+4825,B1,K2,dependent,وابسته
+4826,B2,K2,depending,بسته به
+4827,B2,K4,depict,به تصویر کشیدن
+4828,B1,K1,depression,افسردگی
+4829,A2,K1,depth,عمق
+4830,B2,K1,deputy,معاون
+4831,B2,K4,derive,مشتق شدن
+4832,A1,K4,describe,توصیف کردن
+4833,A1,K1,description,شرح
+4834,A2,K1,desert,بیابان
+4835,B1,K4,deserve,سزاوار بودن
+4836,A2,K1,design,طرح
+4837,A2,K1,designer,طراح
+4838,A2,K1,desire,میل
+4839,A1,K1,desk,میز
+4840,B1,K2,desperate,ناامید
+4841,B1,K6,despite,علیرغم
+4842,B1,K4,destroy,نابود کردن
+4843,B1,K1,destruction,تخریب
+4844,A2,K1,detail,جزئیات
+4845,B1,K2,detailed,با جزئیات
+4846,B1,K4,detect,تشخیص دادن
+4847,B1,K4,determine,تعیین کردن
+4848,B1,K4,develop,توسعه دادن
+4849,B1,K2,developing,در حال توسعه
+4850,A2,K1,development,توسعه
+4851,A2,K1,device,دستگاه
+4852,B2,K4,devote,وقف کردن
+4853,B1,K1,dialogue,گفتگو
+4854,A2,K4,die,مردن
+4855,A2,K1,diet,رژیم غذایی
+4856,B2,K4,differ,متفاوت بودن
+4857,A1,K1,difference,تفاوت
+4858,A1,K2,different,متفاوت
+4859,B1,K5,differently,متفاوت
+4860,A1,K2,difficult,دشوار
+4861,A2,K1,difficulty,دشواری
+4862,A2,K4,dig,حفر کردن
+4863,A2,K2,digital,دیجیتال
+4864,B1,K1,dimension,بعد
+4865,B1,K1,dining,ناهارخوری
+4866,A1,K1,dinner,شام
+4867,A2,K2,direct,مستقیم
+4868,A2,K1,direction,جهت
+4869,A2,K5,directly,مستقیما
+4870,A2,K1,director,کارگردان
+4871,A2,K1,dirt,خاک
+4872,A2,K2,dirty,کثیف
+4873,B1,K1,disability,ناتوانی
+4874,B1,K4,disagree,مخالفت کردن
+4875,A2,K4,disappear,ناپدید شدن
+4876,B1,K1,disappointment,ناامیدی
+4877,A2,K1,disaster,فاجعه
+4878,B1,K1,disc,دیسک
+4879,B1,K1,discipline,انضباط
+4880,B2,K1,discourse,گفتمان
+4881,A2,K4,discover,کشف کردن
+4882,A2,K1,discovery,کشف
+4883,B2,K1,discrimination,تبعیض
+4884,A2,K4,discuss,بحث کردن
+4885,A2,K1,discussion,بحث
+4886,A2,K1,disease,بیماری
+4887,A2,K1,dish,ظرف
+4888,B2,K4,dismiss,اخراج کردن
+4889,B1,K1,disorder,اختلال
+4890,B1,K1,display,نمایش
+4891,B1,K1,dispute,اختلاف
+4892,A2,K1,distance,فاصله
+4893,B2,K2,distant,دور
+4894,B1,K2,distinct,متمایز
+4895,B2,K1,distinction,تمایز
+4896,B1,K4,distinguish,تشخیص دادن
+4897,B1,K4,distribute,توزیع کردن
+4898,B1,K1,distribution,توزیع
+4899,B1,K1,district,منطقه
+4900,B1,K2,diverse,متنوع
+4901,B2,K1,diversity,تنوع
+4902,A2,K4,divide,تقسیم کردن
+4903,B1,K2,divine,الهی
+4904,B1,K1,division,بخش
+4905,B1,K1,divorce,طلاق
+4906,B2,K1,DNA,دی‌ان‌ای
+4907,A1,K4,do,انجام دادن
+4908,A1,K1,doctor,دکتر
+4909,A2,K1,document,سند
+4910,A1,K1,dog,سگ
+4911,B1,K2,domestic,داخلی
+4912,B2,K2,dominant,غالب
+4913,B2,K4,dominate,تسلط داشتن
+4914,A1,K1,door,در
+4915,A2,K2,double,دو برابر
+4916,A2,K1,doubt,شک
+4917,A1,K6,down,پایین
+4918,B1,K1,downtown,مرکز شهر
+4919,A2,K1,dozen,دوجین
+4920,B1,K1,draft,پیش نویس
+4921,A2,K4,drag,کشیدن
+4922,A2,K1,drama,درام
+4923,B1,K2,dramatic,نمایشی
+4924,B1,K5,dramatically,به طور چشمگیری
+4925,A1,K4,draw,کشیدن
+4926,A2,K1,drawing,طراحی
+4927,A2,K1,dream,رویا
+4928,A1,K1,dress,لباس
+4929,A1,K1,drink,نوشیدنی
+4930,A1,K4,drive,رانندگی کردن
+4931,A1,K1,driver,راننده
+4932,A2,K4,drop,انداختن
+4933,A2,K1,drug,دارو
+4934,A2,K2,dry,خشک
+4935,A2,K2,due,ناشی از
+4936,A1,K6,during,در طول
+4937,A2,K1,dust,گرد و غبار
+4938,A2,K1,duty,وظیفه
+4939,A1,K2,each,هر
+4940,B2,K2,eager,مشتاق
+4941,A1,K1,ear,گوش
+4942,A1,K2,early,زود
+4943,A2,K4,earn,کسب درآمد کردن
+4944,B2,K1,earnings,درآمد
+4945,A1,K1,earth,زمین
+4946,B1,K1,ease,آسانی
+4947,A1,K5,easily,به آسانی
+4948,A1,K1,east,شرق
+4949,A2,K2,eastern,شرقی
+4950,A1,K2,easy,آسان
+4951,A1,K4,eat,خوردن
+4952,B1,K2,economic,اقتصادی
+4953,B2,K1,economics,اقتصاد
+4954,B2,K1,economist,اقتصاددان
+4955,A2,K1,economy,اقتصاد
+4956,A2,K1,edge,لبه
+4957,B1,K1,edition,نسخه
+4958,A2,K1,editor,ویرایشگر
+4959,A2,K4,educate,آموزش دادن
+4960,A2,K1,education,تحصیلات
+4961,B1,K2,educational,آموزشی
+4962,B2,K1,educator,مربی
+4963,A2,K1,effect,اثر
+4964,A2,K2,effective,موثر
+4965,B1,K5,effectively,به طور موثر
+4966,B2,K1,efficiency,بهره وری
+4967,A2,K2,efficient,کارآمد
+4968,A2,K1,effort,تلاش
+4969,A1,K1,egg,تخم مرغ
+4970,A1,K1,eight,هشت
+4971,A2,K2,either,هر کدام
+4972,B1,K2,elderly,مسن
+4973,B1,K4,elect,انتخاب کردن
+4974,A2,K1,election,انتخابات
+4975,A2,K2,electric,برقی
+4976,B1,K1,electricity,برق
+4977,A2,K2,electronic,الکترونیکی
+4978,A2,K1,element,عنصر
+4979,B1,K2,elementary,ابتدایی
+4980,B1,K4,eliminate,حذف کردن
+4981,B2,K1,elite,نخبه
+4982,A1,K5,else,دیگر
+4983,B1,K5,elsewhere,جای دیگر
+4984,A2,K1,e-mail,ایمیل
+4985,B2,K4,embrace,در آغوش گرفتن
+4986,A2,K4,emerge,ظاهر شدن
+4987,A2,K1,emergency,اورژانس
+4988,B2,K1,emission,انتشار
+4989,A2,K1,emotion,احساس
+4990,B1,K2,emotional,احساسی
+4991,B1,K1,emphasis,تاکید
+4992,B1,K4,emphasize,تاکید کردن
+4993,A2,K4,employ,استخدام کردن
+4994,A2,K1,employee,کارمند
+4995,A2,K1,employer,کارفرما
+4996,A2,K1,employment,اشتغال
+4997,A2,K2,empty,خالی
+4998,B2,K4,enable,قادر ساختن
+4999,B2,K1,encounter,رویارویی
+5000,A2,K4,encourage,تشویق کردن
+5001,A1,K1,food,غذا
+5002,A1,K1,foot,پا
+5003,A1,K1,football,فوتبال
+5004,A1,K6,for,برای
+5005,A2,K1,force,نیرو
+5006,A1,K2,foreign,خارجی
+5007,A2,K1,forest,جنگل
+5008,A2,K5,forever,برای همیشه
+5009,A1,K4,forget,فراموش کردن
+5010,B1,K4,forgive,بخشیدن
+5011,A2,K1,fork,چنگال
+5012,A1,K1,form,فرم
+5013,A2,K2,formal,رسمی
+5014,B1,K1,formation,تشکیل
+5015,A2,K2,former,سابق
+5016,A2,K1,formula,فرمول
+5017,B2,K5,forth,به پیش
+5018,A2,K1,fortune,شانس
+5019,A2,K5,forward,به جلو
+5020,B2,K4,found,پیدا کردن
+5021,B1,K1,foundation,بنیاد
+5022,B2,K1,founder,موسس
+5023,A1,K1,four,چهار
+5024,A1,K1,fourth,چهارم
+5025,A2,K1,frame,قاب
+5026,B2,K1,framework,چارچوب
+5027,A1,K2,free,آزاد
+5028,A2,K1,freedom,آزادی
+5029,B1,K4,freeze,یخ زدن
+5030,B1,K1,frequency,فرکانس
+5031,A2,K2,frequent,مکرر
+5032,A2,K5,frequently,اغلب
+5033,A2,K2,fresh,تازه
+5034,A1,K1,friend,دوست
+5035,A1,K2,friendly,دوستانه
+5036,A2,K1,friendship,دوستی
+5037,A1,K6,from,از
+5038,A1,K1,front,جلو
+5039,A1,K1,fruit,میوه
+5040,B1,K1,frustration,ناکامی
+5041,A2,K1,fuel,سوخت
+5042,A1,K2,full,پر
+5043,B1,K5,fully,کاملا
+5044,A2,K1,fun,سرگرمی
+5045,A2,K1,function,تابع
+5046,B1,K1,fund,صندوق
+5047,B2,K2,fundamental,اساسی
+5048,B1,K1,funding,تامین مالی
+5049,B1,K1,funeral,مراسم تشییع جنازه
+5050,A1,K2,funny,خنده دار
+5051,A2,K1,fur,خز
+5052,A2,K1,furniture,مبلمان
+5053,A2,K5,further,بیشتر
+5054,B2,K5,furthermore,علاوه بر این
+5055,A1,K1,future,آینده
+5056,A2,K1,gain,سود
+5057,B2,K1,galaxy,کهکشان
+5058,A2,K1,gallery,گالری
+5059,A1,K1,game,بازی
+5060,A2,K1,gang,باند
+5061,B1,K1,gap,شکاف
+5062,A2,K1,garage,گاراژ
+5063,A2,K1,garden,باغ
+5064,B1,K1,garlic,سیر
+5065,A2,K1,gas,گاز
+5066,A2,K1,gate,دروازه
+5067,A2,K4,gather,جمع آوری کردن
+5068,B1,K2,gay,همجنسگرا
+5069,B1,K4,gaze,خیره شدن
+5070,B1,K1,gear,دنده
+5071,B1,K1,gender,جنسیت
+5072,B1,K1,gene,ژن
+5073,A2,K2,general,عمومی
+5074,A2,K5,generally,به طور کلی
+5075,B1,K4,generate,تولید کردن
+5076,A2,K1,generation,نسل
+5077,B2,K2,genetic,ژنتیکی
+5078,A2,K1,gentleman,جنتلمن
+5079,B1,K5,gently,به آرامی
+5080,B1,K2,genuine,اصل
+5081,B2,K5,genuinely,واقعا
+5082,A2,K1,geography,جغرافیا
+5083,A1,K4,get,گرفتن
+5084,A2,K1,ghost,روح
+5085,A2,K1,giant,غول پیکر
+5086,A2,K1,gift,هدیه
+5087,B2,K2,gifted,با استعداد
+5088,A1,K1,girl,دختر
+5089,A2,K1,girlfriend,دوست دختر
+5090,A1,K4,give,دادن
+5091,B1,K2,given,داده شده
+5092,A2,K2,glad,خوشحال
+5093,B1,K4,glance,نگاه کردن
+5094,A1,K1,glass,شیشه
+5095,B1,K2,global,جهانی
+5096,B1,K1,glove,دستکش
+5097,A1,K4,go,رفتن
+5098,A2,K1,goal,هدف
+5099,A2,K1,God,خدا
+5100,A2,K1,gold,طلا
+5101,B1,K2,golden,طلایی
+5102,A2,K1,golf,گلف
+5103,A1,K2,good,خوب
+5104,A2,K1,government,دولت
+5105,B1,K1,governor,فرماندار
+5106,A2,K4,grab,گرفتن
+5107,A2,K1,grade,نمره
+5108,B1,K5,gradually,به تدریج
+5109,A2,K4,graduate,فارغ التحصیل شدن
+5110,A2,K1,grain,دانه
+5111,A2,K2,grand,بزرگ
+5112,B1,K1,grandfather,پدربزرگ
+5113,B1,K1,grandmother,مادربزرگ
+5114,B1,K1,grant,کمک هزینه
+5115,A2,K1,grass,چمن
+5116,B1,K1,grave,قبر
+5117,B2,K2,gray,خاکستری
+5118,A1,K2,great,عالی
+5119,B1,K2,greatest,بزرگترین
+5120,A1,K2,green,سبز
+5121,B1,K1,grocery,خواربار
+5122,A2,K1,ground,زمین
+5123,A1,K1,group,گروه
+5124,A1,K4,grow,رشد کردن
+5125,B1,K2,growing,در حال رشد
+5126,A2,K1,growth,رشد
+5127,B1,K1,guarantee,ضمانت
+5128,A2,K1,guard,نگهبان
+5129,A1,K4,guess,حدس زدن
+5130,A1,K1,guest,مهمان
+5131,B1,K1,guide,راهنما
+5132,B1,K1,guideline,دستورالعمل
+5133,A2,K2,guilty,گناهکار
+5134,A1,K1,gun,تفنگ
+5135,A2,K1,guy,مرد
+5136,A2,K1,habit,عادت
+5137,B1,K1,habitat,زیستگاه
+5138,A1,K1,hair,مو
+5139,A1,K1,half,نیم
+5140,A2,K1,hall,سالن
+5141,A2,K1,hand,دست
+5142,B1,K1,handful,یک مشت
+5143,A2,K4,handle,رسیدگی کردن
+5144,A2,K4,hang,آویزان کردن
+5145,A1,K4,happen,اتفاق افتادن
+5146,A1,K2,happy,خوشحال
+5147,A1,K2,hard,سخت
+5148,A2,K5,hardly,به ندرت
+5149,A1,K1,hat,کلاه
+5150,A1,K4,hate,متنفر بودن
+5151,A1,K4,have,داشتن
+5152,A1,K3,he,او (مذکر)
+5153,A1,K1,head,سر
+5154,B1,K1,headline,سرخط خبر
+5155,B1,K1,headquarters,دفتر مرکزی
+5156,A1,K1,health,سلامتی
+5157,A1,K2,healthy,سالم
+5158,A1,K4,hear,شنیدن
+5159,B1,K1,hearing,شنوایی
+5160,A2,K1,heart,قلب
+5161,A2,K1,heat,گرما
+5162,B1,K1,heaven,بهشت
+5163,B1,K5,heavily,به شدت
+5164,A1,K2,heavy,سنگین
+5165,B1,K1,heel,پاشنه
+5166,A2,K1,height,قد
+5167,B1,K1,helicopter,هلیکوپتر
+5168,B1,K1,hell,جهنم
+5169,A1,K8,hello,سلام
+5170,A1,K1,help,کمک
+5171,A2,K2,helpful,مفید
+5172,A1,K3,her,او (مونث)
+5173,A1,K5,here,اینجا
+5174,B1,K1,heritage,میراث
+5175,A2,K1,hero,قهرمان
+5176,A1,K3,hers,مال او (مونث)
+5177,A1,K3,herself,خودش (مونث)
+5178,B1,K4,hesitate,تردید کردن
+5179,A1,K8,hey,هی
+5180,A1,K8,hi,سلام
+5181,A1,K4,hide,پنهان کردن
+5182,A1,K2,high,بلند
+5183,B1,K4,highlight,برجسته کردن
+5184,B1,K5,highly,بسیار
+5185,A2,K1,highway,بزرگراه
+5186,A2,K1,hill,تپه
+5187,A1,K3,him,او (مذکر)
+5188,A1,K3,himself,خودش (مذکر)
+5189,B1,K1,hip,مفصل ران
+5190,A2,K4,hire,استخدام کردن
+5191,A1,K3,his,مال او (مذکر)
+5192,B2,K2,historic,تاریخی
+5193,B1,K2,historical,تاریخی
+5194,A1,K1,history,تاریخ
+5195,A1,K4,hit,زدن
+5196,A1,K1,hobby,سرگرمی
+5197,A1,K4,hold,نگه داشتن
+5198,A2,K1,hole,سوراخ
+5199,A1,K1,holiday,تعطیلات
+5200,B1,K2,holy,مقدس
+5201,A1,K1,home,خانه
+5202,A1,K1,homework,تکلیف
+5203,A2,K2,honest,صادق
+5204,A2,K1,honey,عسل
+5205,A2,K1,honor,افتخار
+5206,A1,K1,hope,امید
+5207,B1,K2,horrible,وحشتناک
+5208,A2,K1,horror,وحشت
+5209,A1,K1,horse,اسب
+5210,A1,K1,hospital,بیمارستان
+5211,A2,K1,host,میزبان
+5212,A1,K2,hot,داغ
+5213,A1,K1,hotel,هتل
+5214,A1,K1,hour,ساعت
+5215,A1,K1,house,خانه
+5216,B1,K1,household,خانوار
+5217,B1,K1,housing,مسکن
+5218,A1,K5,how,چگونه
+5219,A1,K5,however,با این حال
+5220,A2,K2,huge,عظیم
+5221,A1,K2,human,انسان
+5222,B1,K2,humorous,شوخ
+5223,A1,K1,hundred,صد
+5224,A1,K2,hungry,گرسنه
+5225,A2,K4,hunt,شکار کردن
+5226,A2,K1,hunting,شکار
+5227,A2,K4,hurry,عجله کردن
+5228,A1,K4,hurt,آسیب رساندن
+5229,A1,K1,husband,شوهر
+5230,B2,K1,hypothesis,فرضیه
+5231,A1,K1,ice,یخ
+5232,A2,K1,idea,ایده
+5233,A2,K2,ideal,ایده آل
+5234,B1,K4,identify,شناسایی کردن
+5235,B1,K1,identity,هویت
+5236,A1,K7,if,اگر
+5237,B1,K4,ignore,نادیده گرفتن
+5238,A2,K2,ill,بیمار
+5239,B1,K2,illegal,غیرقانونی
+5240,A2,K1,illness,بیماری
+5241,B1,K1,image,تصویر
+5242,A2,K4,imagine,تصور کردن
+5243,A2,K2,immediate,فوری
+5244,A2,K5,immediately,فورا
+5245,B1,K1,immigrant,مهاجر
+5246,B1,K1,immigration,مهاجرت
+5247,B1,K1,impact,تاثیر
+5248,B2,K4,implement,پیاده سازی کردن
+5249,B2,K1,implication,پیامد
+5250,A2,K4,imply,دلالت کردن
+5251,A1,K1,importance,اهمیت
+5252,A1,K2,important,مهم
+5253,A2,K2,impossible,غیر ممکن
+5254,A2,K4,impress,تحت تاثیر قرار دادن
+5255,B1,K1,impression,برداشت
+5256,B1,K4,improve,بهبود بخشیدن
+5257,B1,K1,improvement,بهبود
+5258,A1,K6,in,در
+5259,B1,K1,inch,اینچ
+5260,A2,K4,include,شامل شدن
+5261,A2,K6,including,شامل
+5262,B1,K1,income,درآمد
+5263,A2,K1,increase,افزایش
+5264,B1,K5,indeed,در واقع
+5265,B1,K2,independent,مستقل
+5266,B2,K4,indicate,نشان دادن
+5267,B2,K1,indication,نشانه
+5268,A2,K1,individual,فرد
+5269,B1,K2,industrial,صنعتی
+5270,A2,K1,industry,صنعت
+5271,B1,K1,influence,نفوذ
+5272,A2,K4,inform,اطلاع دادن
+5273,A1,K1,information,اطلاعات
+5274,B2,K2,initial,اولیه
+5275,B1,K1,initiative,ابتکار
+5276,A2,K1,injury,آسیب
+5277,A2,K6,inside,داخل
+5278,A2,K4,insist,اصرار کردن
+5279,A2,K4,install,نصب کردن
+5280,A2,K1,instance,نمونه
+5281,A2,K5,instead,به جای
+5282,B1,K1,institution,نهاد
+5283,A1,K1,instruction,دستورالعمل
+5284,A2,K1,instructor,مربی
+5285,A2,K1,instrument,ابزار
+5286,A2,K2,intelligent,باهوش
+5287,B1,K4,intend,قصد داشتن
+5288,B1,K1,intention,قصد
+5289,A1,K1,interest,علاقه
+5290,A1,K2,interested,علاقه مند
+5291,A1,K2,interesting,جالب
+5292,A2,K2,international,بین المللی
+5293,A2,K1,internet,اینترنت
+5294,A2,K1,interview,مصاحبه
+5295,A1,K6,into,به داخل
+5296,A1,K4,introduce,معرفی کردن
+5297,A2,K1,introduction,معرفی
+5298,A2,K4,invent,اختراع کردن
+5299,A2,K1,invention,اختراع
+5300,B1,K4,invest,سرمایه گذاری کردن
+5301,B1,K4,investigate,تحقیق کردن
+5302,B1,K1,investigation,تحقیق
+5303,B1,K1,investment,سرمایه گذاری
+5304,B1,K1,invitation,دعوت
+5305,A2,K4,invite,دعوت کردن
+5306,B1,K4,involve,درگیر کردن
+5307,B1,K2,iron,آهن
+5308,B1,K1,island,جزیره
+5309,A2,K1,issue,موضوع
+5310,A1,K3,it,آن
+5311,A1,K1,item,مورد
+5312,A1,K3,its,مال آن
+5313,A1,K3,itself,خودش
+5314,A2,K1,jacket,ژاکت
+5315,A2,K1,jam,مربا
+5316,A2,K1,jazz,جاز
+5317,A2,K1,jeans,شلوار جین
+5318,A2,K1,job,شغل
+5319,A1,K4,join,پیوستن
+5320,A2,K1,joke,شوخی
+5321,A2,K1,journalist,روزنامه نگار
+5322,A2,K1,journey,سفر
+5323,B1,K1,joy,شادی
+5324,A2,K1,judge,قاضی
+5325,B1,K1,judgment,قضاوت
+5326,A2,K1,juice,آبمیوه
+5327,A1,K4,jump,پریدن
+5328,B1,K1,junior,جوانتر
+5329,A1,K5,just,فقط
+5330,B1,K1,justice,عدالت
+5331,A2,K4,keep,نگه داشتن
+5332,A1,K1,key,کلید
+5333,A2,K4,kick,لگد زدن
+5334,A2,K1,kid,بچه
+5335,A1,K4,kill,کشتن
+5336,A1,K2,kind,مهربان
+5337,A2,K1,king,پادشاه
+5338,A2,K4,kiss,بوسیدن
+5339,A1,K1,kitchen,آشپزخانه
+5340,A2,K1,knee,زانو
+5341,A2,K1,knife,چاقو
+5342,A2,K4,knock,زدن
+5343,A1,K4,know,دانستن
+5344,A2,K1,knowledge,دانش
+5345,A2,K1,lab,آزمایشگاه
+5346,B1,K1,label,برچسب
+5347,B1,K1,lack,کمبود
+5348,A2,K1,lady,خانم
+5349,A2,K1,lake,دریاچه
+5350,A2,K1,lamp,لامپ
+5351,A1,K1,land,زمین
+5352,B1,K1,landscape,منظره
+5353,A1,K1,language,زبان
+5354,A1,K2,large,بزرگ
+5355,B1,K5,largely,تا حد زیادی
+5356,A1,K2,last,آخرین
+5357,A1,K2,late,دیر
+5358,A1,K5,later,بعدا
+5359,A2,K4,laugh,خندیدن
+5360,B1,K4,launch,راه اندازی کردن
+5361,A2,K1,law,قانون
+5362,A2,K1,lawyer,وکیل
+5363,A2,K4,lay,گذاشتن
+5364,B1,K1,layer,لایه
+5365,A2,K2,lazy,تنبل
+5366,A2,K4,lead,رهبری کردن
+5367,A2,K1,leader,رهبر
+5368,B1,K1,leadership,رهبری
+5369,B1,K2,leading,پیشرو
+5370,A2,K1,leaf,برگ
+5371,A2,K1,league,لیگ
+5372,A1,K4,learn,یاد گرفتن
+5373,A2,K5,least,حداقل
+5374,A2,K1,leather,چرم
+5375,A1,K4,leave,ترک کردن
+5376,A2,K1,lecture,سخنرانی
+5377,A1,K1,left,چپ
+5378,A1,K1,leg,پا
+5379,A2,K2,legal,قانونی
+5380,B1,K1,legend,افسانه
+5381,A2,K1,lemon,لیمو
+5382,B1,K4,lend,قرض دادن
+5383,A2,K1,length,طول
+5384,A2,K2,less,کمتر
+5385,A1,K1,lesson,درس
+5386,A1,K4,let,اجازه دادن
+5387,A1,K1,letter,نامه
+5388,A2,K1,level,سطح
+5389,A2,K1,library,کتابخانه
+5390,B1,K1,license,مجوز
+5391,A2,K4,lie,دروغ گفتن
+5392,A1,K1,life,زندگی
+5393,B1,K1,lifestyle,سبک زندگی
+5394,B1,K4,lift,بلند کردن
+5395,A1,K1,light,روشنایی
+5396,A1,K4,like,دوست داشتن
+5397,A2,K2,likely,احتمالا
+5398,A2,K1,limit,محدودیت
+5399,A1,K1,line,خط
+5400,A2,K4,link,ارتباط دادن
+5401,B1,K1,lion,شیر
+5402,A2,K1,lip,لب
+5403,B1,K1,liquid,مایع
+5404,A2,K1,list,لیست
+5405,A1,K4,listen,گوش دادن
+5406,B1,K5,literally,به معنای واقعی کلمه
+5407,B1,K2,literature,ادبیات
+5408,A1,K2,little,کوچک
+5409,A1,K4,live,زندگی کردن
+5410,A2,K1,living,زندگی
+5411,B1,K1,load,بار
+5412,A2,K2,local,محلی
+5413,A2,K4,locate,مکان یابی کردن
+5414,A2,K1,location,مکان
+5415,A2,K4,lock,قفل کردن
+5416,A2,K2,lonely,تنها
+5417,A1,K2,long,طولانی
+5418,A1,K4,look,نگاه کردن
+5419,B1,K2,loose,شل
+5420,B2,K1,lord,ارباب
+5421,A2,K4,lose,از دست دادن
+5422,A2,K1,loss,ضرر
+5423,A2,K2,lost,گم شده
+5424,A1,K1,lot,مقدار زیاد
+5425,A2,K2,loud,بلند
+5426,A1,K1,love,عشق
+5427,A2,K2,lovely,دوست داشتنی
+5428,A2,K2,low,کم
+5429,B1,K4,lower,پایین آوردن
+5430,B1,K1,luck,شانس
+5431,A2,K2,lucky,خوش شانس
+5432,A2,K1,lunch,ناهار
+5433,B1,K1,machine,ماشین
+5434,A2,K2,mad,دیوانه
+5435,A2,K1,magazine,مجله
+5436,A2,K1,mail,پست
+5437,A2,K2,main,اصلی
+5438,B1,K5,mainly,عمدتا
+5439,B1,K4,maintain,نگه داشتن
+5440,A2,K2,major,عمده
+5441,B1,K1,majority,اکثریت
+5442,A1,K4,make,ساختن
+5443,A2,K2,male,مذکر
+5444,A2,K1,mall,مرکز خرید
+5445,A1,K1,man,مرد
+5446,A2,K4,manage,مدیریت کردن
+5447,A2,K1,management,مدیریت
+5448,A2,K1,manager,مدیر
+5449,A2,K1,manner,شیوه
+5450,A1,K2,many,زیاد
+5451,A1,K1,map,نقشه
+5452,A2,K1,mark,علامت
+5453,A2,K1,market,بازار
+5454,A2,K1,marketing,بازاریابی
+5455,A2,K1,marriage,ازدواج
+5456,A2,K2,married,متاهل
+5457,A2,K4,marry,ازدواج کردن
+5458,A2,K1,mass,جرم
+5459,A2,K2,massive,عظیم
+5460,A2,K1,master,استاد
+5461,A2,K1,match,مسابقه
+5462,A2,K1,material,ماده
+5463,A2,K1,math,ریاضی
+5464,A2,K1,matter,موضوع
+5465,A1,K4,may,ممکن است
+5466,A2,K5,maybe,شاید
+5467,A1,K3,me,مرا
+5468,A2,K1,meal,وعده غذایی
+5469,A2,K4,mean,معنی دادن
+5470,A2,K1,meaning,معنی
+5471,B1,K5,meanwhile,در عین حال
+5472,A2,K1,measure,اندازه گیری
+5473,B1,K1,measurement,اندازه گیری
+5474,A2,K1,meat,گوشت
+5475,B1,K1,media,رسانه ها
+5476,A2,K2,medical,پزشکی
+5477,A2,K1,medicine,دارو
+5478,A2,K1,medium,متوسط
+5479,A1,K4,meet,ملاقات کردن
+5480,A1,K1,meeting,جلسه
+5481,A2,K1,member,عضو
+5482,A2,K1,memory,حافظه
+5483,A2,K2,mental,روانی
+5484,A2,K4,mention,ذکر کردن
+5485,A2,K1,menu,منو
+5486,B2,K2,merely,صرفا
+5487,A2,K1,mess,درهم و برهمی
+5488,A1,K1,message,پیام
+5489,A2,K1,metal,فلز
+5490,A2,K1,method,روش
+5491,B1,K1,middle,وسط
+5492,B1,K1,midnight,نیمه شب
+5493,A2,K4,might,ممکن است
+5494,A2,K1,mile,مایل
+5495,B1,K2,military,نظامی
+5496,A1,K1,milk,شیر
+5497,A2,K1,million,میلیون
+5498,A2,K1,mind,ذهن
+5499,A2,K3,mine,مال من
+5500,B1,K1,minister,وزیر
+5501,B2,K2,sensible,معقول
+5502,A2,K2,sensitive,حساس
+5503,B1,K1,sensitivity,حساسیت
+5504,B2,K2,sensory,حسی
+5505,B2,K2,sensual,شهوانی
+5506,A1,K1,sentence,جمله
+5507,B2,K1,sentiment,احساس
+5508,B1,K2,sentimental,احساساتی
+5509,A2,K2,separate,جدا
+5510,B1,K1,separation,جدایی
+5511,B2,K1,separatist,جدایی طلب
+5512,A1,K1,September,سپتامبر
+5513,B1,K1,sequence,توالی
+5514,B2,K2,serene,آرام
+5515,B2,K1,serenity,آرامش
+5516,B2,K2,serial,سریال
+5517,A2,K1,series,سری
+5518,A2,K2,serious,جدی
+5519,A2,K5,seriously,به طور جدی
+5520,B2,K1,seriousness,جدیت
+5521,B2,K1,sermon,خطبه
+5522,B2,K1,serum,سرم
+5523,A2,K1,servant,خدمتکار
+5524,A2,K4,serve,خدمت کردن
+5525,A2,K1,server,سرور
+5526,A1,K1,service,سرویس
+5527,B1,K1,serving,سرو کردن
+5528,A2,K1,session,جلسه
+5529,A1,K1,set,مجموعه
+5530,B2,K1,setback,شکست
+5531,B1,K1,setting,تنظیمات
+5532,A2,K4,settle,حل و فصل کردن
+5533,B1,K1,settlement,توافق
+5534,B2,K1,settler,مهاجر
+5535,A1,K1,seven,هفت
+5536,A1,K1,seventeen,هفده
+5537,A1,K1,seventh,هفتم
+5538,A1,K1,seventy,هفتاد
+5539,A1,K2,several,چندین
+5540,A2,K2,severe,شدید
+5541,B1,K5,severely,به شدت
+5542,A2,K4,sew,دوختن
+5543,B2,K1,sewage,فاضلاب
+5544,A2,K1,sex,جنسیت
+5545,B2,K1,sexism,جنسیت زدگی
+5546,B2,K2,sexist,جنسیت زده
+5547,A2,K2,sexual,جنسی
+5548,B1,K1,sexuality,جنسیت
+5549,B1,K2,sexy,سکسی
+5550,B1,K1,shade,سایه
+5551,B1,K1,shadow,سایه
+5552,B2,K2,shady,سایه دار
+5553,B2,K1,shaft,محور
+5554,A2,K4,shake,تکان دادن
+5555,B2,K2,shaky,لرزان
+5556,A2,K4,shall,باید
+5557,B2,K2,shallow,کم عمق
+5558,B1,K1,shame,شرم
+5559,A2,K1,shampoo,شامپو
+5560,A1,K1,shape,شکل
+5561,A2,K4,share,به اشتراک گذاشتن
+5562,B1,K1,shareholder,سهامدار
+5563,B1,K1,shark,کوسه
+5564,A2,K2,sharp,تیز
+5565,B1,K5,sharply,به شدت
+5566,B1,K4,shatter,خرد کردن
+5567,A2,K4,shave,تراشیدن
+5568,A1,K3,she,او (مونث)
+5569,A2,K4,shed,ریختن
+5570,A2,K1,sheep,گوسفند
+5571,B2,K2,sheer,محض
+5572,A2,K1,sheet,ورق
+5573,A2,K1,shelf,قفسه
+5574,B1,K1,shell,پوسته
+5575,B1,K1,shelter,پناهگاه
+5576,B2,K4,shelve,کنار گذاشتن
+5577,A2,K1,shepherd,چوپان
+5578,B2,K1,sheriff,کلانتر
+5579,B1,K1,shield,سپر
+5580,A2,K4,shift,تغییر دادن
+5581,B2,K1,shilling,شیلینگ
+5582,A2,K4,shine,درخشیدن
+5583,B1,K2,shiny,براق
+5584,A2,K1,ship,کشتی
+5585,B1,K1,shipping,حمل و نقل
+5586,B2,K1,shipwreck,کشتی شکستگی
+5587,A1,K1,shirt,پیراهن
+5588,C1,K1,shit,گه
+5589,A2,K1,shiver,لرزیدن
+5590,A2,K1,shock,شوک
+5591,A2,K2,shocked,شوکه
+5592,A2,K2,shocking,تکان دهنده
+5593,A1,K1,shoe,کفش
+5594,A2,K4,shoot,شلیک کردن
+5595,B1,K1,shooting,تیراندازی
+5596,A1,K1,shop,مغازه
+5597,A1,K1,shopping,خرید
+5598,B1,K1,shore,ساحل
+5599,A1,K2,short,کوتاه
+5600,B1,K2,short-term,کوتاه مدت
+5601,B1,K1,shortage,کمبود
+5602,B2,K1,shortcoming,نقص
+5603,B2,K1,shorthand,تندنویسی
+5604,A2,K5,shortly,به زودی
+5605,A2,K1,shorts,شلوارک
+5606,A2,K1,shot,شات
+5607,A1,K4,should,باید
+5608,B1,K1,shoulder,شانه
+5609,A2,K4,shout,فریاد زدن
+5610,B1,K4,shove,هل دادن
+5611,A1,K4,show,نشان دادن
+5612,B1,K1,showcase,ویترین
+5613,A2,K1,shower,دوش
+5614,B2,K4,shred,خرد کردن
+5615,B2,K2,shrewd,زیرک
+5616,B2,K4,shriek,جیغ زدن
+5617,B2,K2,shrill,تیز
+5618,B2,K1,shrine,زیارتگاه
+5619,B1,K4,shrink,کوچک شدن
+5620,B2,K1,shroud,کفن
+5621,B2,K1,shrub,بوته
+5622,B1,K4,shrug,شانه بالا انداختن
+5623,A2,K4,shut,بستن
+5624,B2,K1,shutter,کرکره
+5625,A2,K2,shy,خجالتی
+5626,B1,K1,sibling,خواهر و برادر
+5627,A1,K2,sick,بیمار
+5628,A2,K1,sickness,بیماری
+5629,A1,K1,side,طرف
+5630,B2,K1,sidebar,نوار کناری
+5631,B2,K1,sidekick,همدست
+5632,A2,K1,sidewalk,پیاده رو
+5633,B2,K5,sideways,به پهلو
+5634,B2,K1,siege,محاصره
+5635,B1,K4,sigh,آه کشیدن
+5636,A2,K1,sight,منظره
+5637,A2,K1,sightseeing,گشت و گذار
+5638,A1,K1,sign,امضا کردن
+5639,A2,K1,signal,سیگنال
+5640,B1,K1,signature,امضا
+5641,B1,K1,significance,اهمیت
+5642,B1,K2,significant,قابل توجه
+5643,B1,K5,significantly,به طور قابل توجهی
+5644,B2,K4,signify,دلالت کردن
+5645,B1,K1,silence,سکوت
+5646,A2,K2,silent,ساکت
+5647,B1,K5,silently,بی صدا
+5648,B2,K1,silhouette,سیلوئت
+5649,B2,K1,silicon,سیلیکون
+5650,B1,K1,silk,ابریشم
+5651,A2,K2,silly,احمقانه
+5652,B2,K1,silo,سیلو
+5653,B1,K1,silver,نقره
+5654,A1,K2,similar,مشابه
+5655,B1,K1,similarity,شباهت
+5656,B1,K5,similarly,به طور مشابه
+5657,A2,K2,simple,ساده
+5658,B2,K1,simplicity,سادگی
+5659,B1,K4,simplify,ساده کردن
+5660,A2,K5,simply,به سادگی
+5661,B2,K4,simulate,شبیه سازی کردن
+5662,B2,K1,simulation,شبیه سازی
+5663,B2,K2,simultaneous,همزمان
+5664,B2,K5,simultaneously,همزمان
+5665,B2,K1,sin,گناه
+5666,A1,K6,since,از آنجا که
+5667,B1,K2,sincere,صادقانه
+5668,B2,K5,sincerely,صادقانه
+5669,B2,K1,sincerity,صداقت
+5670,A1,K4,sing,خواندن
+5671,A1,K1,singer,خواننده
+5672,A2,K1,singing,آواز خواندن
+5673,A2,K2,single,تنها
+5674,B2,K2,singular,منحصر به فرد
+5675,B2,K2,sinister,شوم
+5676,A2,K4,sink,غرق شدن
+5677,B2,K1,sinner,گناهکار
+5678,A2,K1,sir,آقا
+5679,B2,K1,siren,آژیر
+5680,A1,K1,sister,خواهر
+5681,A1,K4,sit,نشستن
+5682,A2,K1,site,سایت
+5683,A2,K1,situation,وضعیت
+5684,A1,K1,six,شش
+5685,A1,K1,sixteen,شانزده
+5686,A1,K1,sixth,ششم
+5687,A1,K1,sixty,شصت
+5688,A2,K1,size,اندازه
+5689,B2,K2,sizeable,قابل توجه
+5690,A2,K1,skate,اسکیت
+5691,A2,K1,skateboard,اسکیت بورد
+5692,A2,K1,skating,اسکیت
+5693,B2,K2,skeletal,اسکلتی
+5694,B2,K1,skeleton,اسکلت
+5695,B2,K1,skeptic,شکاک
+5696,B2,K2,skeptical,شکاک
+5697,B2,K1,skepticism,شک و تردید
+5698,A2,K1,sketch,طرح
+5699,A2,K1,ski,اسکی
+5700,A2,K1,skiing,اسکی
+5701,A2,K1,skill,مهارت
+5702,A2,K2,skilled,ماهر
+5703,B1,K2,skillful,ماهرانه
+5704,B2,K4,skim,مرور کردن
+5705,A2,K1,skin,پوست
+5706,A1,K1,skirt,دامن
+5707,B2,K1,skull,جمجمه
+5708,A2,K1,sky,آسمان
+5709,A2,K1,slam,کوبیدن
+5710,B1,K4,slap,سیلی زدن
+5711,B1,K4,slash,بریدن
+5712,B1,K1,slave,برده
+5713,B1,K1,slavery,بردگی
+5714,B2,K4,slay,کشتن
+5715,A2,K1,sled,سورتمه
+5716,B2,K2,sledge,سورتمه
+5717,B2,K2,sleek,صاف و براق
+5718,A1,K4,sleep,خوابیدن
+5719,A2,K2,sleepy,خواب آلود
+5720,A2,K1,sleeve,آستین
+5721,A2,K1,slice,برش
+5722,B1,K1,slide,سرسره
+5723,A2,K2,slight,جزئی
+5724,A2,K5,slightly,کمی
+5725,A2,K2,slim,لاغر
+5726,A2,K4,slip,لغزش
+5727,A2,K1,slipper,دمپایی
+5728,B2,K2,slippery,لغزنده
+5729,B2,K1,slit,شکاف
+5730,A2,K1,slogan,شعار
+5731,A2,K1,slope,شیب
+5732,B1,K1,slot,شیار
+5733,A1,K2,slow,آهسته
+5734,A1,K5,slowly,به آرامی
+5735,B2,K1,slum,محله فقیر نشین
+5736,B2,K1,slump,رکود
+5737,B2,K2,sly,حیله گر
+5738,B2,K4,smack,سیلی زدن
+5739,A1,K2,small,کوچک
+5740,B2,K2,small-scale,مقیاس کوچک
+5741,A2,K2,smart,باهوش
+5742,B1,K4,smash,خرد کردن
+5743,A2,K1,smell,بو
+5744,A1,K4,smile,لبخند زدن
+5745,B2,K1,smirk,پوزخند
+5746,A2,K4,smoke,سیگار کشیدن
+5747,A2,K1,smoking,سیگار کشیدن
+5748,A2,K2,smooth,صاف
+5749,B1,K5,smoothly,به نرمی
+5750,B2,K4,smuggle,قاچاق کردن
+5751,B2,K1,smuggler,قاچاقچی
+5752,A2,K1,snack,میان وعده
+5753,A2,K1,snake,مار
+5754,B1,K4,snap,شکستن
+5755,B2,K1,snapshot,عکس فوری
+5756,B1,K4,snatch,قاپیدن
+5757,B2,K4,sneak,دزدکی حرکت کردن
+5758,B2,K1,sneakers,کفش ورزشی
+5759,B2,K1,sneer,پوزخند
+5760,B2,K4,sneeze,عطسه کردن
+5761,B2,K4,sniff,بو کشیدن
+5762,B2,K1,snooker,اسنوکر
+5763,A1,K1,snow,برف
+5764,A1,K5,so,بنابراین
+5765,B2,K2,so-called,به اصطلاح
+5766,B1,K4,soak,خیساندن
+5767,A2,K1,soap,صابون
+5768,B2,K4,soar,اوج گرفتن
+5769,B2,K2,sober,هوشیار
+5770,A2,K1,soccer,فوتبال
+5771,A2,K2,social,اجتماعی
+5772,B1,K1,socialist,سوسیالیست
+5773,A2,K1,society,جامعه
+5774,B2,K2,socio-economic,اجتماعی و اقتصادی
+5775,B2,K2,sociological,جامعه شناختی
+5776,B2,K1,sociologist,جامعه شناس
+5777,B2,K1,sociology,جامعه شناسی
+5778,A2,K1,sock,جوراب
+5779,A2,K1,soda,نوشابه
+5780,A2,K1,sofa,مبل
+5781,A2,K2,soft,نرم
+5782,B2,K4,soften,نرم کردن
+5783,B1,K5,softly,به نرمی
+5784,A2,K1,software,نرم افزار
+5785,B1,K1,soil,خاک
+5786,B1,K2,solar,خورشیدی
+5787,A2,K1,soldier,سرباز
+5788,B1,K2,sole,تنها
+5789,B2,K5,solely,منحصرا
+5790,B2,K2,solemn,جدی
+5791,B2,K4,solicit,درخواست کردن
+5792,B2,K1,solicitor,وکیل
+5793,B1,K2,solid,جامد
+5794,B2,K1,solidarity,همبستگی
+5795,B2,K5,solidly,قاطعانه
+5796,B2,K2,solitary,انفرادی
+5797,B2,K1,solitude,تنهایی
+5798,B1,K1,solo,تکنوازی
+5799,A2,K1,solution,راه حل
+5800,A2,K4,solve,حل کردن
+5801,B2,K2,somber,تیره
+5802,A1,K3,some,مقداری
+5803,A2,K3,somebody,کسی
+5804,A2,K5,somehow,به نوعی
+5805,A1,K3,someone,کسی
+5806,B2,K1,somersault,پشتک
+5807,A1,K3,something,چیزی
+5808,A2,K5,sometime,زمانی
+5809,A1,K5,sometimes,گاهی
+5810,B1,K5,somewhat,تا حدی
+5811,A1,K5,somewhere,جایی
+5812,A1,K1,son,پسر
+5813,B2,K1,sonar,سونار
+5814,A1,K1,song,آهنگ
+5815,B1,K1,songwriter,ترانه سرا
+5816,A2,K5,soon,به زودی
+5817,B2,K4,soothe,آرام کردن
+5818,B1,K2,sophisticated,پیچیده
+5819,B2,K1,sophomore,دانشجوی سال دوم
+5820,A2,K2,sore,دردناک
+5821,B2,K1,sorrow,غم
+5822,A1,K2,sorry,متاسف
+5823,A2,K1,sort,نوع
+5824,B1,K1,soul,روح
+5825,A2,K1,sound,صدا
+5826,A2,K1,soup,سوپ
+5827,A2,K2,sour,ترش
+5828,A2,K1,source,منبع
+5829,A1,K1,south,جنوب
+5830,A2,K2,southern,جنوبی
+5831,B2,K2,sovereign,حاکم
+5832,B2,K1,sovereignty,حاکمیت
+5833,B2,K4,sow,کاشتن
+5834,B2,K1,soy,سویا
+5835,B2,K1,spa,اسپا
+5836,A2,K1,space,فضا
+5837,B1,K1,spacecraft,فضاپیما
+5838,B2,K2,spacious,جادار
+5839,B2,K1,spam,هرزنامه
+5840,B1,K1,span,طول
+5841,B1,K2,spare,یدکی
+5842,B1,K4,spark,جرقه زدن
+5843,B2,K4,sparkle,درخشیدن
+5844,B2,K2,sparse,پراکنده
+5845,B2,K2,spatial,فضایی
+5846,B2,K4,spawn,تخم ریزی کردن
+5847,A1,K4,speak,صحبت کردن
+5848,A2,K1,speaker,سخنران
+5849,A1,K2,special,خاص
+5850,B1,K1,specialist,متخصص
+5851,B1,K4,specialize,تخصص داشتن
+5852,B1,K2,specialized,تخصصی
+5853,B1,K1,species,گونه ها
+5854,A2,K2,specific,خاص
+5855,B1,K5,specifically,به طور مشخص
+5856,B1,K1,specification,مشخصات
+5857,B1,K4,specify,مشخص کردن
+5858,B2,K1,specimen,نمونه
+5859,B2,K1,spectacle,منظره
+5860,B1,K2,spectacular,تماشایی
+5861,B1,K1,spectator,تماشاگر
+5862,B2,K1,spectrum,طیف
+5863,B2,K4,speculate,حدس زدن
+5864,B2,K1,speculation,حدس و گمان
+5865,B2,K2,speculative,تخمینی
+5866,A2,K1,speech,سخنرانی
+5867,B2,K2,speechless,بی زبان
+5868,A2,K1,speed,سرعت
+5869,A2,K4,spell,هجی کردن
+5870,A2,K1,spelling,هجی
+5871,A1,K4,spend,خرج کردن
+5872,B1,K1,spending,هزینه
+5873,B2,K1,sperm,اسپرم
+5874,B2,K1,sphere,کره
+5875,A2,K1,spice,ادویه
+5876,A2,K2,spicy,تند
+5877,A2,K1,spider,عنکبوت
+5878,A2,K4,spill,ریختن
+5879,B1,K4,spin,چرخیدن
+5880,B1,K1,spine,ستون فقرات
+5881,B2,K2,spiral,مارپیچ
+5882,A2,K1,spirit,روح
+5883,B1,K2,spiritual,معنوی
+5884,B2,K4,spit,تف کردن
+5885,A2,K1,spite,کینه
+5886,B2,K4,splash,پاشیدن
+5887,B2,K2,splendid,باشکوه
+5888,B2,K1,splinter,تراشه
+5889,B1,K4,split,تقسیم کردن
+5890,A2,K4,spoil,خراب کردن
+5891,B2,K1,spoken,گفتاری
+5892,B2,K1,spokesman,سخنگو
+5893,B1,K1,spokesperson,سخنگو
+5894,B2,K1,spokeswoman,سخنگوی زن
+5895,B2,K1,sponge,اسفنج
+5896,B1,K1,sponsor,حامی مالی
+5897,B1,K1,sponsorship,حمایت مالی
+5898,B2,K2,spooky,ترسناک
+5899,A2,K1,spoon,قاشق
+5900,A1,K1,sport,ورزش
+5901,B1,K2,sporting,ورزشی
+5902,A2,K1,spot,نقطه
+5903,B1,K1,spotlight,نورافکن
+5904,B1,K1,spouse,همسر
+5905,B2,K1,sprawl,پراکندگی
+5906,B1,K4,spray,اسپری کردن
+5907,A2,K4,spread,پخش شدن
+5908,A2,K1,spring,بهار
+5909,B2,K4,sprinkle,پاشیدن
+5910,B2,K1,sprint,دو سرعت
+5911,A2,K1,spy,جاسوس
+5912,B1,K1,squad,جوخه
+5913,B2,K1,squadron,اسکادران
+5914,A2,K1,square,مربع
+5915,A2,K1,squash,کدو
+5916,B2,K4,squat,چمباتمه زدن
+5917,B2,K4,squeak,جیغ کشیدن
+5918,B2,K4,squeal,جیغ زدن
+5919,B1,K4,squeeze,فشردن
+5920,B2,K1,squid,ماهی مرکب
+5921,B2,K1,squirrel,سنجاب
+5922,B2,K1,stability,ثبات
+5923,B2,K4,stabilize,تثبیت کردن
+5924,B1,K2,stable,پایدار
+5925,B1,K1,stack,پشته
+5926,A2,K1,stadium,استادیوم
+5927,B1,K1,staff,کارکنان
+5928,A2,K1,stage,مرحله
+5929,B2,K4,stagger,تلوتلو خوردن
+5930,B2,K2,stagnant,راکد
+5931,B2,K1,stain,لکه
+5932,A2,K1,stair,پله
+5933,B2,K1,staircase,راه پله
+5934,A2,K1,stairs,پله ها
+5935,B2,K1,stake,شرط
+5936,B2,K2,stale,کهنه
+5937,A2,K1,stall,غرفه
+5938,B2,K1,stamina,استقامت
+5939,A2,K1,stamp,مهر
+5940,B2,K1,stance,موضع
+5941,A1,K4,stand,ایستادن
+5942,A2,K2,standard,استاندارد
+5943,B2,K4,standardize,استاندارد کردن
+5944,B2,K1,standing,ایستاده
+5945,B2,K1,standoff,بن بست
+5946,B2,K1,standpoint,نقطه نظر
+5947,B2,K1,staple,منگنه
+5948,A1,K1,star,ستاره
+5949,B1,K4,stare,خیره شدن
+5950,B2,K2,stark,سخت
+5951,A1,K4,start,شروع کردن
+5952,B2,K2,startling,شگفت انگیز
+5953,B2,K1,starvation,گرسنگی
+5954,B2,K4,starve,گرسنگی کشیدن
+5955,A1,K1,state,ایالت
+5956,B2,K2,state-of-the-art,پیشرفته
+5957,B1,K1,statement,بیانیه
+5958,B2,K1,statesman,دولتمرد
+5959,B2,K2,statewide,سراسری
+5960,B2,K2,static,ایستا
+5961,A1,K1,station,ایستگاه
+5962,B2,K2,stationary,ثابت
+5963,B2,K2,statistical,آماری
+5964,B2,K5,statistically,از نظر آماری
+5965,B1,K1,statistics,آمار
+5966,A2,K1,statue,مجسمه
+5967,B1,K1,status,وضعیت
+5968,B2,K1,statute,اساسنامه
+5969,B2,K2,staunch,ثابت قدم
+5970,A1,K4,stay,ماندن
+5971,B2,K5,steadily,به طور پیوسته
+5972,B1,K2,steady,پایدار
+5973,B2,K1,steak,استیک
+5974,A2,K4,steal,دزدیدن
+5975,A2,K1,steam,بخار
+5976,B1,K1,steel,فولاد
+5977,B1,K2,steep,شیب دار
+5978,B1,K4,steer,هدایت کردن
+5979,B2,K1,stem,ساقه
+5980,A2,K1,step,قدم
+5981,B2,K1,stereotype,کلیشه
+5982,B2,K2,sterile,استریل
+5983,B2,K2,sterling,استرلینگ
+5984,B2,K2,stern,سختگیر
+5985,B2,K1,steroid,استروئید
+5986,B2,K1,steward,مهماندار
+5987,A2,K4,stick,چسبیدن
+5988,B1,K2,sticky,چسبناک
+5989,B1,K2,stiff,سفت
+5990,B2,K4,stifle,خفه کردن
+5991,B2,K1,stigma,انگ
+5992,A2,K5,still,هنوز
+5993,B1,K4,stimulate,تحریک کردن
+5994,B2,K1,stimulation,تحریک
+5995,B2,K1,stimulus,محرک
+5996,A2,K4,sting,نیش زدن
+5997,B1,K4,stir,هم زدن
+5998,B2,K1,stitch,بخیه
+5999,B1,K1,stock,موجودی
+6000,B2,K1,stocking,جوراب ساق بلند
+6001,A2,K1,stomach,معده
+6002,A2,K1,stone,سنگ
+6003,B2,K1,stool,چهارپایه
+6004,A1,K4,stop,متوقف کردن
+6005,B1,K1,storage,انبار
+6006,A1,K1,store,فروشگاه
+6007,A2,K1,storm,طوفان
+6008,A1,K1,story,داستان
+6009,A2,K2,straight,مستقیم
+6010,B2,K4,straighten,صاف کردن
+6011,B1,K2,straightforward,رک
+6012,B1,K1,strain,فشار
+6013,B2,K1,strait,تنگه
+6014,B2,K1,strand,رشته
+6015,A1,K2,strange,عجیب
+6016,A2,K1,stranger,غریبه
+6017,B2,K4,strangle,خفه کردن
+6018,B1,K1,strap,بند
+6019,B1,K2,strategic,استراتژیک
+6020,B2,K1,strategist,استراتژیست
+6021,B1,K1,strategy,استراتژی
+6022,B2,K4,stray,سرگردان شدن
+6023,B2,K1,streak,رگه
+6024,B1,K1,stream,جریان
+6025,B2,K4,streamline,ساده کردن
+6026,A1,K1,street,خیابان
+6027,A2,K1,strength,قدرت
+6028,B2,K4,strengthen,تقویت کردن
+6029,B2,K2,strenuous,طاقت فرسا
+6030,B1,K1,stress,استرس
+6031,A2,K4,stretch,کشیدن
+6032,A2,K2,strict,سختگیر
+6033,B1,K5,strictly,اکیدا
+6034,B2,K1,stride,گام بلند
+6035,B2,K1,strife,نزاع
+6036,A2,K1,strike,اعتصاب
+6037,B1,K2,striking,قابل توجه
+6038,B2,K5,strikingly,به طور قابل توجهی
+6039,B1,K1,string,رشته
+6040,B2,K2,stringent,سختگیرانه
+6041,B1,K1,strip,نوار
+6042,B2,K4,strive,تلاش کردن
+6043,B1,K1,stroke,سکته
+6044,A2,K4,stroll,قدم زدن
+6045,A2,K2,strong,قوی
+6046,B2,K1,stronghold,دژ
+6047,B2,K2,structural,ساختاری
+6048,A2,K1,structure,ساختار
+6049,B1,K1,struggle,تقلا
+6050,A1,K1,student,دانش آموز
+6051,A2,K1,studio,استودیو
+6052,B2,K2,studious,درسخوان
+6053,A1,K1,study,مطالعه
+6054,A2,K1,stuff,چیز
+6055,B1,K4,stumble,سکندری خوردن
+6056,B2,K4,stun,متحیر کردن
+6057,B1,K2,stunning,خیره کننده
+6058,B2,K1,stunt,بدلکاری
+6059,A2,K2,stupid,احمق
+6060,B2,K1,stupidity,حماقت
+6061,B2,K2,sturdy,محکم
+6062,B2,K1,stutter,لکنت
+6063,A2,K1,style,سبک
+6064,A2,K2,stylish,شیک
+6065,A1,K1,subject,موضوع
+6066,B2,K1,submission,تسلیم
+6067,B2,K2,submissive,مطیع
+6068,B1,K4,submit,ارائه دادن
+6069,B2,K2,subordinate,فرعی
+6070,B2,K4,subscribe,مشترک شدن
+6071,B1,K1,subscription,اشتراک
+6072,B1,K2,subsequent,بعدی
+6073,B2,K5,subsequently,متعاقبا
+6074,B2,K1,subsidiary,شرکت تابعه
+6075,B2,K4,subsidize,یارانه دادن
+6076,B2,K1,subsidy,یارانه
+6077,A2,K1,substance,ماده
+6078,B1,K2,substantial,قابل توجه
+6079,B2,K5,substantially,به طور قابل ملاحظه ای
+6080,B1,K1,substitute,جایگزین
+6081,B2,K1,substitution,جایگزینی
+6082,B1,K2,subtle,ظریف
+6083,B2,K5,subtly,به طرز ماهرانه ای
+6084,B1,K1,suburb,حومه شهر
+6085,B1,K2,suburban,حومه
+6086,A2,K1,subway,مترو
+6087,B1,K4,succeed,موفق شدن
+6088,A2,K1,success,موفقیت
+6089,A2,K2,successful,موفق
+6090,B1,K5,successfully,با موفقیت
+6091,B2,K1,succession,جانشینی
+6092,B2,K2,successive,متوالی
+6093,B2,K1,successor,جانشین
+6094,A2,K2,such,چنین
+6095,B1,K4,suck,مکیدن
+6096,A2,K2,sudden,ناگهانی
+6097,A2,K5,suddenly,ناگهان
+6098,B2,K4,sue,شکایت کردن
+6099,B1,K4,suffer,رنج بردن
+6100,B1,K1,suffering,رنج
+6101,B2,K4,suffice,کافی بودن
+6102,B1,K2,sufficient,کافی
+6103,B2,K5,sufficiently,به اندازه کافی
+6104,A2,K1,sugar,شکر
+6105,B2,K2,suicidal,متمایل به خودکشی
+6106,B1,K1,suicide,خودکشی
+6107,A2,K1,suit,کت و شلوار
+6108,A2,K2,suitable,مناسب
+6109,A2,K1,suitcase,چمدان
+6110,B1,K1,suite,سوئیت
+6111,B1,K2,suited,مناسب
+6112,B2,K1,sulfur,گوگرد
+6113,B1,K1,sum,مجموع
+6114,B1,K4,summarize,خلاصه کردن
+6115,A2,K1,summary,خلاصه
+6116,A1,K1,summer,تابستان
+6117,B2,K1,summit,قله
+6118,A1,K1,sun,خورشید
+6119,A2,K2,sunny,آفتابی
+6120,B1,K1,sunrise,طلوع آفتاب
+6121,B1,K1,sunset,غروب
+6122,B1,K1,sunshine,نور خورشید
+6123,B1,K2,super,عالی
+6124,B1,K2,superb,عالی
+6125,B2,K2,superficial,سطحی
+6126,B2,K1,superintendent,سرپرست
+6127,A2,K2,superior,برتر
+6128,A1,K1,supermarket,سوپرمارکت
+6129,B2,K1,superpower,ابرقدرت
+6130,B2,K4,supervise,نظارت کردن
+6131,B2,K1,supervision,نظارت
+6132,B1,K1,supervisor,سرپرست
+6133,B2,K2,supervisory,نظارتی
+6134,B1,K1,supplement,مکمل
+6135,B2,K2,supplementary,تکمیلی
+6136,B2,K1,supplier,تامین کننده
+6137,A2,K1,supply,عرضه
+6138,A2,K4,support,حمایت کردن
+6139,A2,K1,supporter,حامی
+6140,B1,K2,supportive,حمایتگر
+6141,A1,K4,suppose,فرض کردن
+6142,B1,K5,supposedly,ظاهرا
+6143,B2,K4,suppress,سرکوب کردن
+6144,B2,K1,suppression,سرکوب
+6145,B2,K1,supremacy,برتری
+6146,B1,K2,supreme,عالی
+6147,A1,K2,sure,مطمئن
+6148,B1,K5,surely,مطمئنا
+6149,B1,K4,surf,موج سواری کردن
+6150,A2,K1,surface,سطح
+6151,A2,K1,surfboard,تخته موج سواری
+6152,A2,K1,surfing,موج سواری
+6153,B1,K1,surgeon,جراح
+6154,B1,K1,surgery,جراحی
+6155,B2,K2,surgical,جراحی
+6156,B2,K4,surmise,حدس زدن
+6157,A2,K1,surname,نام خانوادگی
+6158,B2,K4,surpass,پیشی گرفتن
+6159,B2,K1,surplus,مازاد
+6160,A1,K1,surprise,غافلگیری
+6161,A1,K2,surprised,متعجب
+6162,A1,K2,surprising,تعجب آور
+6163,B1,K5,surprisingly,در کمال تعجب
+6164,B1,K4,surrender,تسلیم شدن
+6165,B1,K4,surround,احاطه کردن
+6166,B1,K2,surrounding,اطراف
+6167,B2,K1,surroundings,محیط اطراف
+6168,B2,K1,surveillance,نظارت
+6169,A2,K1,survey,نظرسنجی
+6170,B1,K1,survival,بقا
+6171,A2,K4,survive,زنده ماندن
+6172,B1,K1,survivor,بازمانده
+6173,B2,K2,susceptible,مستعد
+6174,B1,K1,suspect,مظنون
+6175,B1,K4,suspend,معلق کردن
+6176,B2,K1,suspense,تعلیق
+6177,B2,K1,suspension,تعلیق
+6178,B1,K1,suspicion,سوء ظن
+6179,B1,K2,suspicious,مشکوک
+6180,B1,K4,sustain,حفظ کردن
+6181,B2,K2,sustainable,پایدار
+6182,B2,K1,sustenance,رزق و روزی
+6183,B1,K4,swallow,قورت دادن
+6184,B2,K1,swamp,باتلاق
+6185,B2,K1,swan,قو
+6186,B1,K4,swap,مبادله کردن
+6187,B2,K1,swarm,ازدحام
+6188,B2,K4,sway,تاب خوردن
+6189,A2,K4,swear,قسم خوردن
+6190,A2,K1,sweat,عرق
+6191,A1,K1,sweater,ژاکت
+6192,A2,K4,sweep,جارو کردن
+6193,A1,K2,sweet,شیرین
+6194,B1,K1,sweetheart,عزیزم
+6195,B1,K4,swell,متورم شدن
+6196,B2,K1,swelling,تورم
+6197,B2,K2,swift,سریع
+6198,B2,K5,swiftly,به سرعت
+6199,A1,K4,swim,شنا کردن
+6200,A1,K1,swimming,شنا
+6201,B1,K4,swing,تاب خوردن
+6202,A2,K1,switch,کلید
+6203,B1,K1,sword,شمشیر
+6204,B1,K1,syllable,هجا
+6205,A2,K1,symbol,نماد
+6206,B1,K2,symbolic,نمادین
+6207,B2,K4,symbolize,نماد بودن
+6208,B1,K2,sympathetic,همدل
+6209,B2,K4,sympathize,همدردی کردن
+6210,B1,K1,sympathy,همدردی
+6211,B2,K1,symphony,سمفونی
+6212,B2,K1,symposium,سمپوزیوم
+6213,B1,K1,symptom,علامت
+6214,B2,K1,syndrome,سندرم
+6215,B2,K1,synergy,هم افزایی
+6216,B2,K1,synonym,مترادف
+6217,B2,K1,synthesis,سنتز
+6218,B2,K2,synthetic,مصنوعی
+6219,B2,K1,syrup,شربت
+6220,A2,K1,system,سیستم
+6221,B2,K2,systematic,سیستماتیک
+6222,B2,K5,systematically,به طور سیستماتیک
+6223,A2,K1,t-shirt,تی شرت
+6224,A1,K1,table,میز
+6225,B1,K1,tablespoon,قاشق غذاخوری
+6226,B1,K1,tablet,قرص
+6227,B2,K1,tableware,ظروف غذاخوری
+6228,B2,K1,tabloid,روزنامه جنجالی
+6229,B2,K1,taboo,تابو
+6230,B1,K4,tackle,مقابله کردن
+6231,B1,K1,tactic,تاکتیک
+6232,B2,K2,tactical,تاکتیکی
+6233,B1,K1,tag,برچسب
+6234,A2,K1,tail,دم
+6235,A1,K4,take,گرفتن
+6236,B2,K1,takeover,تصاحب
+6237,B1,K1,tale,داستان
+6238,A2,K1,talent,استعداد
+6239,B1,K2,talented,با استعداد
+6240,A1,K4,talk,صحبت کردن
+6241,A1,K2,tall,بلند
+6242,B2,K1,tally,شمارش
+6243,B2,K2,tame,اهلی
+6244,B2,K1,tan,برنزه
+6245,B2,K1,tangle,گره
+6246,A2,K1,tank,تانک
+6247,B2,K1,tanker,تانکر
+6248,A2,K4,tap,ضربه زدن
+6249,A2,K1,tape,نوار
+6250,A2,K1,target,هدف
+6251,B2,K1,tariff,تعرفه
+6252,B2,K4,tarnish,لکه دار کردن
+6253,B2,K1,tart,ترش
+6254,A2,K1,task,وظیفه
+6255,A2,K1,taste,مزه
+6256,A2,K2,tasty,خوشمزه
+6257,A2,K1,tax,مالیات
+6258,B2,K1,taxation,مالیات
+6259,A2,K1,taxi,تاکسی
+6260,B1,K1,taxpayer,مالیات دهنده
+6261,A1,K1,tea,چای
+6262,A1,K4,teach,یاد دادن
+6263,A1,K1,teacher,معلم
+6264,A2,K1,teaching,تدریس
+6265,A1,K1,team,تیم
+6266,A2,K1,tear,اشک
+6267,A2,K1,tease,اذیت کردن
+6268,B1,K1,teaspoon,قاشق چای خوری
+6269,B1,K2,technical,فنی
+6270,B1,K5,technically,از نظر فنی
+6271,B1,K1,technician,تکنسین
+6272,A2,K1,technique,تکنیک
+6273,B1,K2,technological,فناورانه
+6274,A1,K1,technology,فناوری
+6275,B2,K1,teddy,خرس عروسکی
+6276,B1,K1,teen,نوجوان
+6277,A2,K2,teenage,نوجوانی
+6278,A1,K1,teenager,نوجوان
+6279,B2,K1,telecom,مخابرات
+6280,B2,K1,telegraph,تلگراف
+6281,A1,K1,telephone,تلفن
+6282,B1,K1,telescope,تلسکوپ
+6283,A1,K1,television,تلویزیون
+6284,A1,K4,tell,گفتن
+6285,B2,K1,teller,تحویلدار
+6286,B2,K1,temper,خلق و خو
+6287,B2,K1,temperament,خلق و خو
+6288,A2,K1,temperature,دما
+6289,A2,K1,temple,معبد
+6290,B2,K1,tempo,سرعت
+6291,B2,K5,temporarily,به طور موقت
+6292,B1,K2,temporary,موقت
+6293,B1,K4,tempt,وسوسه کردن
+6294,B2,K1,temptation,وسوسه
+6295,B2,K2,tempting,وسوسه انگیز
+6296,A1,K1,ten,ده
+6297,B2,K1,tenant,مستاجر
+6298,A2,K4,tend,تمایل داشتن
+6299,B1,K1,tendency,تمایل
+6300,B2,K2,tender,لطیف
+6301,B2,K1,tenderness,لطافت
+6302,A2,K1,tennis,تنیس
+6303,A2,K2,tense,متشنج
+6304,B1,K1,tension,تنش
+6305,A2,K1,tent,چادر
+6306,B2,K1,tenure,تصدی
+6307,A2,K1,term,مدت
+6308,B1,K1,terminal,پایانه
+6309,B2,K4,terminate,خاتمه دادن
+6310,B2,K1,termination,خاتمه
+6311,B2,K1,terminology,اصطلاحات
+6312,B2,K1,termite,موریانه
+6313,B1,K1,terrace,تراس
+6314,A2,K2,terrible,وحشتناک
+6315,A2,K5,terribly,وحشتناک
+6316,A2,K2,terrific,عالی
+6317,B1,K4,terrify,ترساندن
+6318,B1,K2,terrifying,ترسناک
+6319,B2,K2,territorial,سرزمینی
+6320,B1,K1,territory,قلمرو
+6321,B1,K1,terror,وحشت
+6322,B1,K1,terrorism,تروریسم
+6323,B1,K1,terrorist,تروریست
+6324,A2,K1,test,آزمون
+6325,B2,K1,testament,وصیت نامه
+6326,B1,K4,testify,شهادت دادن
+6327,B1,K1,testimony,شهادت
+6328,B1,K1,testing,آزمایش
+6329,A2,K1,text,متن
+6330,A2,K1,textbook,کتاب درسی
+6331,B2,K1,textile,نساجی
+6332,B1,K1,texture,بافت
+6333,A1,K7,than,از
+6334,A1,K4,thank,تشکر کردن
+6335,B2,K2,thankful,سپاسگزار
+6336,B2,K5,thankfully,خوشبختانه
+6337,A1,K1,thanks,تشکر
+6338,A2,K1,thanksgiving,شکرگزاری
+6339,A1,K2,that,آن
+6340,B2,K4,thaw,آب شدن
+6341,A1,K2,the, (حرف تعریف معین)
+6342,A1,K1,theater,تئاتر
+6343,B2,K2,theatrical,تئاتری
+6344,B2,K1,theft,سرقت
+6345,A1,K3,their,مال آنها
+6346,B2,K2,thematic,موضوعی
+6347,A2,K1,theirs,مال آنها
+6348,A1,K3,them,آنها را
+6349,B1,K1,theme,موضوع
+6350,A1,K3,themselves,خودشان
+6351,A1,K5,then,سپس
+6352,B2,K1,theologian,متکلم
+6353,B2,K2,theological,کلامی
+6354,B2,K1,theology,الهیات
+6355,A2,K1,theoretical,نظری
+6356,B2,K5,theoretically,از نظر تئوری
+6357,B1,K1,theory,نظریه
+6358,B1,K1,therapist,درمانگر
+6359,B1,K1,therapy,درمان
+6360,A1,K5,there,آنجا
+6361,B2,K5,thereafter,پس از آن
+6362,B2,K5,thereby,بدین وسیله
+6363,B1,K5,therefore,بنابراین
+6364,B2,K2,thermal,حرارتی
+6365,A1,K3,these,اینها
+6366,B2,K1,thesis,پایان نامه
+6367,A1,K3,they,آنها
+6368,A2,K2,thick,ضخیم
+6369,B2,K1,thickness,ضخامت
+6370,A2,K1,thief,دزد
+6371,B1,K1,thigh,ران
+6372,A2,K2,thin,نازک
+6373,A1,K1,thing,چیز
+6374,A1,K4,think,فکر کردن
+6375,B1,K1,thinking,تفکر
+6376,A1,K1,third,سوم
+6377,B1,K2,thirsty,تشنه
+6378,A1,K1,thirteen,سیزده
+6379,A1,K1,thirty,سی
+6380,A1,K3,this,این
+6381,B2,K1,thorn,خار
+6382,A1,K3,those,آنها
+6383,B1,K2,thorough,کامل
+6384,B1,K5,thoroughly,کاملا
+6385,A2,K7,though,با اینکه
+6386,A2,K1,thought,فکر
+6387,B2,K2,thought-provoking,تامل برانگیز
+6388,B1,K2,thoughtful,باملاحظه
+6389,B2,K5,thoughtfully,با تفکر
+6390,B2,K2,thoughtless,بی فکر
+6391,A1,K1,thousand,هزار
+6392,B2,K4,thrash,کتک زدن
+6393,A2,K1,thread,نخ
+6394,B1,K1,threat,تهدید
+6395,B1,K4,threaten,تهدید کردن
+6396,A1,K1,three,سه
+6397,B2,K2,three-dimensional,سه بعدی
+6398,B2,K1,threshold,آستانه
+6399,B1,K1,thrill,هیجان
+6400,B1,K2,thrilled,هیجان زده
+6401,A2,K1,thriller,تریلر
+6402,B1,K2,thrilling,هیجان انگیز
+6403,B1,K4,thrive,رونق گرفتن
+6404,B1,K1,throat,گلو
+6405,B2,K1,throne,تخت پادشاهی
+6406,A1,K6,through,از طریق
+6407,A2,K6,throughout,سراسر
+6408,A2,K4,throw,انداختن
+6409,B1,K1,thumb,شست
+6410,B2,K4,thump,کوبیدن
+6411,B1,K1,thunder,رعد
+6412,B1,K5,thus,بنابراین
+6413,A1,K1,ticket,بلیط
+6414,B2,K4,tickle,قلقلک دادن
+6415,B1,K1,tide,جزر و مد
+6416,A2,K2,tidy,مرتب
+6417,A2,K1,tie,کراوات
+6418,B2,K1,tier,ردیف
+6419,B1,K1,tiger,ببر
+6420,A2,K2,tight,تنگ
+6421,B1,K4,tighten,سفت کردن
+6422,B1,K5,tightly,محکم
+6423,B2,K1,tile,کاشی
+6424,A2,K6,till,تا
+6425,B2,K1,tilt,کج شدن
+6426,B2,K1,timber,الوار
+6427,A1,K1,time,زمان
+6428,B2,K2,timely,به موقع
+6429,B2,K1,timer,تایمر
+6430,A2,K1,timetable,برنامه زمانی
+6431,B1,K2,timid,ترسو
+6432,B1,K1,timing,زمان بندی
+6433,B2,K1,tin,قلع
+6434,A2,K2,tiny,کوچک
+6435,A2,K1,tip,نوک
+6436,A2,K1,tire,لاستیک
+6437,A1,K2,tired,خسته
+6438,B1,K2,tiring,خسته کننده
+6439,B1,K1,tissue,بافت
+6440,A2,K1,title,عنوان
+6441,A1,K6,to,به
+6442,B1,K1,toast,نان تست
+6443,B1,K1,tobacco,تنباکو
+6444,A1,K1,today,امروز
+6445,B1,K1,toddler,کودک نوپا
+6446,A2,K1,toe,انگشت پا
+6447,A1,K5,together,با هم
+6448,A2,K1,toilet,توالت
+6449,B2,K1,token,نشانه
+6450,B1,K1,tolerance,تحمل
+6451,B2,K2,tolerant,بردبار
+6452,B1,K4,tolerate,تحمل کردن
+6453,B1,K1,toll,عوارض
+6454,A2,K1,tomato,گوجه فرنگی
+6455,A1,K1,tomorrow,فردا
+6456,B2,K1,ton,تن
+6457,A2,K1,tone,لحن
+6458,B1,K1,tongue,زبان
+6459,A1,K1,tonight,امشب
+6460,B2,K1,tonne,تن
+6461,A1,K5,too,همچنین
+6462,A2,K1,tool,ابزار
+6463,A1,K1,tooth,دندان
+6464,A2,K1,top,بالا
+6465,A2,K1,topic,موضوع
+6466,B2,K1,topography,توپوگرافی
+6467,B2,K4,topple,سرنگون کردن
+6468,B2,K1,torch,مشعل
+6469,B2,K1,torment,عذاب
+6470,B2,K1,tornado,گردباد
+6471,B2,K1,torpedo,اژدر
+6472,B2,K1,torrent,سیل
+6473,B1,K1,torture,شکنجه
+6474,B2,K4,toss,پرتاب کردن
+6475,A2,K1,total,جمع
+6476,B1,K5,totally,کاملا
+6477,A2,K4,touch,لمس کردن
+6478,B1,K2,tough,سخت
+6479,A2,K1,tour,تور
+6480,A2,K1,tourism,گردشگری
+6481,A1,K1,tourist,گردشگر
+6482,A2,K1,tournament,مسابقات
+6483,A2,K6,toward,به سمت
+6484,B1,K1,towel,حوله
+6485,B1,K1,tower,برج
+6486,A1,K1,town,شهر
+6487,B1,K2,toxic,سمی
+6488,A2,K1,toy,اسباب بازی
+6489,B1,K4,trace,ردیابی کردن
+6490,A2,K1,track,مسیر
+6491,A2,K1,trade,تجارت
+6492,B2,K1,trademark,علامت تجاری
+6493,B1,K1,trading,تجارت
+6494,A2,K1,tradition,سنت
+6495,A2,K2,traditional,سنتی
+6496,B1,K5,traditionally,به طور سنتی
+6497,A2,K1,traffic,ترافیک
+6498,B1,K1,tragedy,تراژدی
+6499,B1,K2,tragic,غم انگیز
+6500,B1,K1,trail,دنباله
+6501,B1,K1,trailer,تریلر
+6502,A1,K1,train,قطار
+6503,A2,K1,trainer,مربی
+6504,A1,K1,training,آموزش
+6505,B2,K1,trait,صفت
+6506,B2,K1,traitor,خائن
+6507,B2,K1,trajectory,مسیر حرکت
+6508,B2,K1,tram,تراموا
+6509,B2,K1,tramp,ولگرد
+6510,B2,K2,tranquil,آرام
+6511,B2,K1,tranquility,آرامش
+6512,B2,K4,transact,معامله کردن
+6513,B2,K1,transaction,معامله
+6514,B2,K4,transcend,فراتر رفتن
+6515,B2,K1,transcript,رونوشت
+6516,B2,K1,transcription,رونویسی
+6517,A2,K1,transfer,انتقال
+6518,B1,K4,transform,تبدیل کردن
+6519,B2,K1,transformation,تحول
+6520,B2,K2,transient,گذرا
+6521,B2,K1,transistor,ترانزیستور
+6522,B2,K1,transit,ترانزیت
+6523,B1,K1,transition,انتقال
+6524,B2,K2,transitional,انتقالی
+6525,B1,K4,translate,ترجمه کردن
+6526,A2,K1,translation,ترجمه
+6527,A2,K1,translator,مترجم
+6528,B2,K1,transmission,انتقال
+6529,B2,K4,transmit,انتقال دادن
+6530,B2,K1,transparency,شفافیت
+6531,B1,K2,transparent,شفاف
+6532,B2,K4,transplant,پیوند زدن
+6533,B2,K1,transplantation,پیوند
+6534,A2,K1,transport,حمل و نقل
+6535,A2,K1,transportation,حمل و نقل
+6536,B1,K1,trap,تله
+6537,B1,K2,trapped,به دام افتاده
+6538,A2,K1,trash,زباله
+6539,B1,K1,trauma,تروما
+6540,B2,K2,traumatic,تروماتیک
+6541,A1,K1,travel,سفر
+6542,A2,K1,traveler,مسافر
+6543,A2,K4,treat,رفتار کردن
+6544,B2,K1,treatise,رساله
+6545,B1,K1,treatment,درمان
+6546,B1,K1,treaty,پیمان
+6547,A1,K1,tree,درخت
+6548,B1,K2,tremendous,فوق العاده
+6549,B2,K5,tremendously,فوق العاده
+6550,B2,K1,tremor,لرزش
+6551,A2,K1,trend,روند
+6552,B2,K4,trespass,تجاوز کردن
+6553,A2,K1,trial,آزمایش
+6554,A2,K1,triangle,مثلث
+6555,B2,K2,triangular,مثلثی
+6556,B2,K2,tribal,قبیله ای
+6557,A2,K1,tribe,قبیله
+6558,B2,K1,tribunal,دادگاه
+6559,B2,K1,tribute,ادای احترام
+6560,A2,K1,trick,حیله
+6561,B2,K1,trickle,چکه
+6562,B1,K2,tricky,فریبنده
+6563,B1,K1,trigger,ماشه
+6564,B2,K1,trillion,تریلیون
+6565,B2,K1,trilogy,سه گانه
+6566,A2,K1,trim,کوتاه کردن
+6567,B2,K1,trio,سه نفر
+6568,A1,K1,trip,سفر
+6569,B2,K2,triple,سه گانه
+6570,B2,K1,triumph,پیروزی
+6571,B2,K2,triumphant,پیروزمند
+6572,B2,K2,trivial,جزئی
+6573,B1,K1,troop,سرباز
+6574,B2,K1,trophy,جایزه
+6575,A2,K2,tropical,گرمسیری
+6576,A1,K1,trouble,مشکل
+6577,B2,K2,troubled,نگران
+6578,B2,K2,troublesome,دردسرساز
+6579,A1,K1,trousers,شلوار
+6580,B2,K1,truce,آتش بس
+6581,A2,K1,truck,کامیون
+6582,A1,K2,true,درست
+6583,A2,K5,truly,واقعا
+6584,B2,K1,trumpet,ترومپت
+6585,B1,K1,trunk,تنه
+6586,A2,K1,trust,اعتماد
+6587,B2,K1,trustee,امین
+6588,A2,K1,truth,حقیقت
+6589,B2,K2,truthful,راستگو
+6590,A1,K4,try,امتحان کردن
+6591,B2,K1,tsunami,سونامی
+6592,B1,K1,tub,وان
+6593,A2,K1,tube,لوله
+6594,B1,K4,tuck,فرو کردن
+6595,A1,K1,Tuesday,سه شنبه
+6596,B2,K1,tuition,شهریه
+6597,B2,K4,tumble,غلتیدن
+6598,B2,K1,tummy,شکم
+6599,B1,K1,tumor,تومور
+6600,B2,K1,tuna,ماهی تن
+6601,A2,K1,tune,آهنگ
+6602,B1,K1,tunnel,تونل
+6603,B2,K1,turbulence,تلاطم
+6604,B2,K2,turbulent,متلاطم
+6605,B2,K1,turf,چمن
+6606,A2,K1,turkey,بوقلمون
+6607,B2,K1,turmoil,آشفتگی
+6608,A1,K4,turn,چرخیدن
+6609,B2,K1,turning,پیچ
+6610,B2,K1,turnout,مشارکت
+6611,B2,K1,turnover,گردش مالی
+6612,B2,K1,turtle,لاک پشت
+6613,B2,K1,tutor,معلم خصوصی
+6614,B2,K1,tutorial,آموزش
+6615,A1,K1,TV,تلویزیون
+6616,A1,K1,twelve,دوازده
+6617,A1,K1,twenty,بیست
+6618,A2,K5,twice,دو بار
+6619,B1,K1,twin,دوقلو
+6620,A2,K1,twist,پیچ
+6621,A1,K1,two,دو
+6622,B2,K2,two-dimensional,دو بعدی
+6623,B2,K1,tycoon,سرمایه دار بزرگ
+6624,A1,K1,type,نوع
+6625,B2,K1,typewriter,ماشین تحریر
+6626,A2,K2,typical,معمولی
+6627,B1,K5,typically,به طور معمول
+6628,B2,K1,tyranny,استبداد
+6229,B2,K1,tyrant,ستمگر
+6630,A2,K2,ugly,زشت
+6631,B1,K2,ultimate,نهایی
+6632,B1,K5,ultimately,در نهایت
+6633,B2,K1,ultrasound,سونوگرافی
+6634,A2,K1,umbrella,چتر
+6635,B2,K1,umpire,داور
+6636,B1,K2,unable,ناتوان
+6637,B1,K2,unacceptable,غیر قابل قبول
+6638,B2,K2,unanimous,متفق القول
+6639,B2,K2,unarmed,غیر مسلح
+6640,B2,K2,unaware,ناآگاه
+6641,B1,K2,unbearable,غیر قابل تحمل
+6642,B1,K2,unbelievable,باور نکردنی
+6643,B1,K2,uncertain,نامشخص
+6644,B1,K1,uncertainty,عدم قطعیت
+6645,B2,K2,unchanged,بدون تغییر
+6646,B2,K2,uncharted,ناشناخته
+6647,A1,K1,uncle,عمو، دایی
+6648,A2,K2,uncomfortable,ناراحت
+6649,B2,K2,uncommon,غیر معمول
+6650,B2,K2,unconscious,ناخودآگاه
+6651,B2,K2,unconstitutional,غیر قانونی
+6652,B1,K4,uncover,کشف کردن
+6653,A1,K6,under,زیر
+6654,B2,K4,underestimate,دست کم گرفتن
+6655,B2,K4,undergo,تحمل کردن
+6656,B1,K1,undergraduate,دانشجوی کارشناسی
+6657,A2,K2,underground,زیرزمینی
+6658,B1,K4,underline,خط کشیدن
+6659,B2,K2,underlying,اساسی
+6660,B1,K4,undermine,تضعیف کردن
+6661,B1,K6,underneath,در زیر
+6662,B2,K4,underscore,تاکید کردن
+6663,A1,K4,understand,فهمیدن
+6664,B1,K2,understandable,قابل فهم
+6665,A2,K1,understanding,درک
+6666,B1,K4,undertake,به عهده گرفتن
+6667,A2,K1,underwear,لباس زیر
+6668,B1,K5,undoubtedly,بدون شک
+6669,A2,K2,unemployed,بیکار
+6670,A2,K1,unemployment,بیکاری
+6671,B2,K2,uneven,ناهموار
+6672,B1,K2,unexpected,غیر منتظره
+6673,B1,K5,unexpectedly,به طور غیر منتظره
+6674,B1,K2,unfair,ناعادلانه
+6675,B2,K4,unfold,باز شدن
+6676,A2,K2,unfortunate,مایه تاسف
+6677,B1,K5,unfortunately,متاسفانه
+6678,A2,K2,unfriendly,غیر دوستانه
+6679,B1,K2,unhappy,ناراحت
+6680,B1,K2,unhealthy,ناسالم
+6681,A2,K1,uniform,یونیفرم
+6682,B2,K4,unify,متحد کردن
+6683,B2,K2,unilateral,یک جانبه
+6684,B2,K2,unintended,ناخواسته
+6685,B2,K2,uninterrupted,بدون وقفه
+6686,A2,K1,union,اتحادیه
+6687,B1,K2,unique,منحصر به فرد
+6688,B2,K1,unison,همزمان
+6689,A2,K1,unit,واحد
+6690,B2,K4,unite,متحد شدن
+6691,A2,K2,united,متحد
+6692,B1,K2,universal,جهانی
+6693,B1,K1,universe,جهان
+6694,A1,K1,university,دانشگاه
+6695,B2,K2,unjust,ناعادلانه
+6696,B1,K2,unknown,ناشناخته
+6697,B2,K2,unlawful,غیر قانونی
+6698,A1,K7,unless,مگر اینکه
+6699,B1,K6,unlike,بر خلاف
+6700,B1,K2,unlikely,بعید
+6701,B2,K2,unlimited,نامحدود
+6702,B2,K4,unload,تخلیه کردن
+6703,B1,K4,unlock,باز کردن
+6704,A2,K2,unlucky,بدشانس
+6705,B2,K2,unmanned,بدون سرنشین
+6706,B2,K2,unmistakable,غیر قابل انکار
+6707,B1,K2,unnecessary,غیر ضروری
+6708,A2,K2,unpleasant,ناخوشایند
+6709,B2,K2,unprecedented,بی سابقه
+6710,B2,K2,unpredictable,غیر قابل پیش بینی
+6711,B2,K2,unprepared,آماده نشده
+6712,B2,K2,unreasonable,غیر منطقی
+6713,B2,K1,unrest,ناآرامی
+6714,B2,K2,unsafe,ناامن
+6715,B2,K2,unsettling,نگران کننده
+6716,B2,K2,unstable,ناپایدار
+6717,B1,K2,unsuccessful,ناموفق
+6718,B1,K2,unsuitable,نامناسب
+6719,B1,K2,unsure,نامطمئن
+6720,A1,K6,until,تا
+6721,B1,K2,unusual,غیر معمول
+6722,B1,K5,unusually,به طور غیر معمول
+6723,B2,K4,unveil,رونمایی کردن
+6724,B2,K2,unwanted,ناخواسته
+6725,B2,K2,unwilling,بی میل
+6726,B2,K2,unworthy,بی ارزش
+6727,A1,K6,up,بالا
+6728,B2,K2,upbeat,خوش بینانه
+6729,B2,K1,upbringing,تربیت
+6730,B1,K2,upcoming,آینده
+6731,A2,K1,update,به روز رسانی
+6732,B1,K1,upgrade,ارتقا
+6733,B2,K4,uphold,حمایت کردن
+6734,B1,K4,upload,آپلود کردن
+6735,B1,K6,upon,بر
+6736,A2,K2,upper,بالایی
+6737,B2,K1,upper-class,طبقه بالا
+6738,B2,K2,upright,عمودی
+6739,B2,K1,uprising,قیام
+6740,B2,K1,uproar,هیاهو
+6741,A2,K2,upset,ناراحت
+6742,B2,K1,upside,جنبه مثبت
+6743,A2,K1,upstairs,طبقه بالا
+6744,B1,K2,urban,شهری
+6745,B1,K4,urge,اصرار کردن
+6746,B1,K2,urgent,فوری
+6747,B2,K1,urine,ادرار
+6748,A1,K3,us,ما را
+6749,B2,K1,usage,استفاده
+6750,A2,K4,use,استفاده کردن
+6751,B1,K2,used,استفاده شده
+6752,A2,K2,useful,مفید
+6753,B1,K2,useless,بی فایده
+6754,B2,K2,user-friendly,کاربر پسند
+6755,A2,K1,user,کاربر
+6756,B2,K1,usher,راهنما
+6757,A1,K2,usual,معمول
+6758,A1,K5,usually,معمولا
+6759,B2,K1,utility,سودمندی
+6760,B2,K4,utilize,بهره برداری کردن
+6761,B2,K2,utmost,نهایت
+6762,B2,K1,utopia,آرمانشهر
+6763,B2,K4,utter,به زبان آوردن
+6764,B2,K5,utterly,کاملا
+6765,B2,K1,vacancy,جای خالی
+6766,B2,K2,vacant,خالی
+6767,A2,K1,vacation,تعطیلات
+6768,B1,K1,vaccine,واکسن
+6769,B1,K1,vacuum,خلاء
+6770,A2,K2,vague,مبهم
+6771,A2,K1,valentine,ولنتاین
+6772,B1,K2,valid,معتبر
+6773,B2,K1,validity,اعتبار
+6774,A2,K1,valley,دره
+6775,B1,K2,valuable,با ارزش
+6776,A2,K1,value,ارزش
+6777,B2,K2,valued,ارزشمند
+6778,B2,K1,valve,شیر
+6779,B2,K1,vampire,خون آشام
+6780,B1,K1,van,ون
+6781,B2,K4,vanish,ناپدید شدن
+6782,B2,K1,vanity,غرور
+6783,B1,K1,variable,متغیر
+6784,B1,K1,variation,تنوع
+6785,B1,K2,varied,متنوع
+6786,A2,K1,variety,تنوع
+6787,A2,K2,various,مختلف
+6788,B1,K4,vary,متفاوت بودن
+6789,B1,K2,vast,وسیع
+6790,B2,K5,vastly,بسیار
+6791,B2,K1,vat,خمره
+6792,B2,K1,vault,طاق
+6793,B2,K1,vector,بردار
+6794,A1,K1,vegetable,سبزیجات
+6795,B1,K1,vegetarian,گیاهخوار
+6796,B2,K1,vegetation,پوشش گیاهی
+6797,A2,K1,vehicle,وسیله نقلیه
+6798,B2,K1,veil,حجاب
+6799,B2,K1,vein,رگ
+6800,B2,K1,velocity,سرعت
+6801,B2,K1,velvet,مخمل
+6802,B1,K1,vendor,فروشنده
+6803,B2,K1,vengeance,انتقام
+6804,B1,K1,venture,سرمایه گذاری
+6805,B1,K1,venue,محل برگزاری
+6806,A1,K1,verb,فعل
+6807,B1,K2,verbal,کلامی
+6808,B2,K5,verbally,شفاهی
+6809,B2,K1,verdict,رای
+6810,B2,K1,verge,لبه
+6811,B2,K1,verification,تایید
+6812,B2,K4,verify,تایید کردن
+6813,B2,K2,versatile,همه کاره
+6814,B2,K1,versatility,تطبیق پذیری
+6815,B1,K1,verse,آیه
+6816,A2,K1,version,نسخه
+6817,B1,K6,versus,در مقابل
+6818,B2,K2,vertical,عمودی
+6819,A1,K2,very,بسیار
+6820,B2,K1,vessel,کشتی
+6821,B1,K1,veteran,کهنه سرباز
+6822,B2,K1,veto,وتو
+6823,B1,K6,via,از طریق
+6824,B2,K2,viable,قابل دوام
+6825,B1,K2,vibrant,پر جنب و جوش
+6826,B2,K1,vibration,لرزش
+6827,B2,K1,vice,معاون
+6828,B2,K2,vicious,شرور
+6829,A2,K1,victim,قربانی
+6830,B2,K4,victimize,قربانی کردن
+6831,B1,K1,victory,پیروزی
+6832,A2,K1,video,ویدئو
+6833,B2,K1,videotape,نوار ویدئویی
+6834,A2,K1,view,منظره
+6835,B1,K1,viewer,بیننده
+6836,B2,K1,viewpoint,نقطه نظر
+6837,B2,K2,vigorous,نیرومند
+6838,B2,K1,villa,ویلا
+6839,A2,K1,village,روستا
+6840,B2,K1,villager,روستایی
+6841,B1,K1,villain,شرور
+6842,B1,K4,violate,نقض کردن
+6843,B1,K1,violation,نقض
+6844,B1,K1,violence,خشونت
+6845,B1,K2,violent,خشن
+6846,B1,K5,violently,به شدت
+6847,A2,K1,violin,ویولن
+6848,B1,K2,virtual,مجازی
+6849,B1,K5,virtually,عملا
+6850,B2,K1,virtue,فضیلت
+6851,B2,K2,virtuous,با فضیلت
+6852,B1,K1,virus,ویروس
+6853,B2,K1,visa,ویزا
+6854,B2,K1,visibility,دید
+6855,B1,K2,visible,قابل مشاهده
+6856,B1,K1,vision,بینایی
+6857,A1,K1,visit,بازدید
+6858,A2,K1,visitor,بازدید کننده
+6859,B1,K2,visual,بصری
+6860,B2,K4,visualize,تجسم کردن
+6861,B1,K2,vital,حیاتی
+6862,B1,K1,vitamin,ویتامین
+6863,B1,K2,vivid,واضح
+6864,B2,K5,vividly,به وضوح
+6865,A2,K1,vocabulary,واژگان
+6866,B1,K2,vocal,آوازی
+6867,B2,K1,vocalist,خواننده
+6868,B2,K1,vocation,شغل
+6869,B2,K2,vocational,حرفه ای
+6870,A2,K1,voice,صدا
+6871,B2,K1,void,خالی
+6872,B2,K2,volatile,فرار
+6873,B2,K1,volatility,نوسان
+6874,B2,K2,volcanic,آتشفشانی
+6875,A2,K1,volcano,آتشفشان
+6876,A2,K1,volleyball,والیبال
+6877,B2,K1,volt,ولت
+6878,B2,K1,voltage,ولتاژ
+6879,A2,K1,volume,حجم
+6880,B1,K2,voluntary,داوطلبانه
+6881,A2,K1,volunteer,داوطلب
+6882,B2,K4,vomit,استفراغ کردن
+6883,B1,K1,voter,رای دهنده
+6884,B1,K1,voting,رای گیری
+6885,B2,K1,vow,سوگند
+6886,A2,K1,vowel,حرف صدادار
+6887,B2,K1,voyage,سفر دریایی
+6888,B2,K1,vulnerability,آسیب پذیری
+6889,B1,K2,vulnerable,آسیب پذیر
+6890,B2,K4,wade,در آب راه رفتن
+6891,B1,K1,wage,دستمزد
+6892,B2,K1,wagon,واگن
+6893,B2,K1,wail,ناله کردن
+6894,A1,K4,wait,صبر کردن
+6895,A1,K1,waiter,پیشخدمت
+6896,A1,K1,waitress,پیشخدمت زن
+6897,A1,K4,wake,بیدار شدن
+6898,A1,K4,walk,راه رفتن
+6899,A1,K1,wall,دیوار
+6900,A2,K1,wallet,کیف پول
+6901,B2,K1,wallpaper,کاغذ دیواری
+6902,B1,K4,wander,سرگردان بودن
+6903,A1,K4,want,خواستن
+6904,B2,K2,wanton,بی پروا
+6905,A1,K1,war,جنگ
+6906,B2,K1,ward,بخش
+6907,B2,K1,warden,نگهبان
+6908,B1,K1,wardrobe,کمد لباس
+6909,B1,K1,warehouse,انبار
+6910,B2,K1,warfare,جنگ
+6911,A1,K2,warm,گرم
+6912,B2,K1,warm-up,گرم کردن
+6913,B1,K1,warmth,گرما
+6914,B1,K4,warn,هشدار دادن
+6915,A2,K1,warning,هشدار
+6916,B1,K1,warrant,حکم
+6917,B2,K1,warrior,جنگجو
+6918,B2,K1,wartime,زمان جنگ
+6919,B2,K2,wary,محتاط
+6920,A1,K4,wash,شستن
+6921,A2,K1,washing,شستشو
+6922,A2,K1,waste,زباله
+6923,A1,K4,watch,تماشا کردن
+6924,B2,K1,watchdog,سگ نگهبان
+6925,A1,K1,water,آب
+6926,B2,K1,waterfront,اسکله
+6927,B2,K1,watershed,آب پخشان
+6928,A2,K1,wave,موج
+6929,B2,K4,waver,تردید کردن
+6930,B2,K1,wax,موم
+6931,A1,K1,way,راه
+6932,A1,K3,we,ما
+6933,A2,K2,weak,ضعیف
+6934,B2,K4,weaken,ضعیف کردن
+6935,B1,K1,weakness,ضعف
+6936,B1,K1,wealth,ثروت
+6937,B1,K2,wealthy,ثروتمند
+6938,A2,K1,weapon,سلاح
+6939,A1,K4,wear,پوشیدن
+6940,B2,K2,weary,خسته
+6941,A1,K1,weather,آب و هوا
+6942,B2,K4,weave,بافتن
+6943,A2,K1,web,وب
+6944,A2,K1,website,وب سایت
+6945,A2,K1,wedding,عروسی
+6946,B2,K1,wedge,گوه
+6947,A2,K1,weed,علف هرز
+6948,A1,K1,week,هفته
+6949,A1,K1,weekend,آخر هفته
+6950,A2,K2,weekly,هفتگی
+6951,B2,K4,weep,گریه کردن
+6952,B1,K4,weigh,وزن کردن
+6953,A2,K1,weight,وزن
+6954,B1,K2,weird,عجیب
+6955,A1,K1,welcome,خوش آمدید
+6956,B1,K1,welfare,رفاه
+6957,A1,K2,well,خوب
+6958,B1,K1,well-being,رفاه
+6959,A2,K2,well-known,شناخته شده
+6960,B2,K2,well-off,مرفه
+6961,A1,K1,west,غرب
+6962,A2,K2,western,غربی
+6963,A2,K2,wet,خیس
+6964,A1,K3,what,چه
+6965,B1,K3,whatever,هر چه
+6966,B2,K2,whatsoever,به هیچ وجه
+6967,B1,K1,wheat,گندم
+6968,A2,K1,wheel,چرخ
+6969,B1,K1,wheelchair,ویلچر
+6970,A1,K5,when,چه زمانی
+6971,B1,K5,whenever,هر زمان که
+6972,A1,K5,where,کجا
+6973,B2,K1,whereabouts,محل
+6974,B1,K7,whereas,در حالی که
+6975,B2,K5,whereby,که به موجب آن
+6976,B1,K5,wherever,هر جا که
+6977,A1,K7,whether,آیا
+6978,A1,K3,which,کدام
+6979,B2,K1,whiff,بو
+6980,A1,K7,while,در حالی که
+6981,B1,K4,whip,شلاق زدن
+6982,B2,K1,whirl,چرخش
+6983,A2,K4,whisper,پچ پچ کردن
+6984,A2,K1,whistle,سوت
+6985,A1,K2,white,سفید
+6986,A1,K3,who,چه کسی
+6987,B1,K3,whoever,هر کس که
+6988,A2,K2,whole,کامل
+6989,B2,K1,wholesale,عمده فروشی
+6990,B2,K2,wholesome,سالم
+6991,B2,K5,wholly,کاملا
+6992,A2,K3,whom,چه کسی را
+6993,B2,K1,whoop,فریاد شادی
+6994,C1,K1,whore,فاحشه
+6995,A2,K3,whose,مال چه کسی
+6996,A1,K5,why,چرا
+6997,B2,K2,wicked,شرور
+6998,A2,K2,wide,گسترده
+6999,B2,K2,wide-ranging,گسترده
+7000,B1,K4,widen,گسترش دادن
+7001,A2,K1,wedding,عروسی
+7002,B2,K1,wedge,گوه
+7003,A2,K1,weed,علف هرز
+7004,A1,K1,week,هفته
+7005,A1,K1,weekend,آخر هفته
+7006,A2,K2,weekly,هفتگی
+7007,B2,K4,weep,گریه کردن
+7008,B1,K4,weigh,وزن کردن
+7009,A2,K1,weight,وزن
+7010,B1,K2,weird,عجیب
+7011,A1,K1,welcome,خوش آمدید
+7012,B1,K1,welfare,رفاه
+7013,A1,K2,well,خوب
+7014,B1,K1,well-being,رفاه
+7015,A2,K2,well-known,شناخته شده
+7016,B2,K2,well-off,مرفه
+7017,A1,K1,west,غرب
+7018,A2,K2,western,غربی
+7019,A2,K2,wet,خیس
+7020,A1,K3,what,چه
+7021,B1,K3,whatever,هر چه
+7022,B2,K2,whatsoever,به هیچ وجه
+7023,B1,K1,wheat,گندم
+7024,A2,K1,wheel,چرخ
+7025,B1,K1,wheelchair,ویلچر
+7026,A1,K5,when,چه زمانی
+7027,B1,K5,whenever,هر زمان که
+7028,A1,K5,where,کجا
+7029,B2,K1,whereabouts,محل
+7030,B1,K7,whereas,در حالی که
+7031,B2,K5,whereby,که به موجب آن
+7032,B1,K5,wherever,هر جا که
+7033,A1,K7,whether,آیا
+7034,A1,K3,which,کدام
+7035,B2,K1,whiff,بو
+7036,A1,K7,while,در حالی که
+7037,B1,K4,whip,شلاق زدن
+7038,B2,K1,whirl,چرخش
+7039,A2,K4,whisper,پچ پچ کردن
+7040,A2,K1,whistle,سوت
+7041,A1,K2,white,سفید
+7042,A1,K3,who,چه کسی
+7043,B1,K3,whoever,هر کس که
+7044,A2,K2,whole,کامل
+7045,B2,K1,wholesale,عمده فروشی
+7046,B2,K2,wholesome,سالم
+7047,B2,K5,wholly,کاملا
+7048,A2,K3,whom,چه کسی را
+7049,B2,K1,whoop,فریاد شادی
+7050,C1,K1,whore,فاحشه
+7051,A2,K3,whose,مال چه کسی
+7052,A1,K5,why,چرا
+7053,B2,K2,wicked,شرور
+7054,A2,K2,wide,گسترده
+7055,B2,K2,wide-ranging,گسترده
+7056,B1,K4,widen,گسترش دادن
+7057,B1,K2,widespread,گسترده
+7058,B1,K1,widow,بیوه
+7059,B2,K1,widower,مرد بیوه
+7060,B2,K1,width,عرض
+7061,B2,K4,wield,به کار بردن
+7062,A1,K1,wife,همسر
+7063,A2,K2,wild,وحشی
+7064,B1,K1,wilderness,بیابان
+7065,A2,K1,wildlife,حیات وحش
+7066,B1,K5,wildly,وحشیانه
+7067,A1,K4,will,خواهد
+7068,B1,K2,willing,مایل
+7069,B2,K1,willingness,تمایل
+7070,A1,K4,win,بردن
+7071,A2,K1,wind,باد
+7072,B2,K1,windmill,آسیاب بادی
+7073,A1,K1,window,پنجره
+7074,A2,K2,windy,بادی
+7075,A2,K1,wine,شراب
+7076,B1,K1,wing,بال
+7077,B2,K4,wink,چشمک زدن
+7078,A2,K1,winner,برنده
+7079,B1,K1,winning,برنده
+7080,A1,K1,winter,زمستان
+7081,B1,K4,wipe,پاک کردن
+7082,B1,K1,wire,سیم
+7083,B1,K1,wisdom,خرد
+7084,A2,K2,wise,عاقل
+7085,A2,K4,wish,آرزو کردن
+7086,B2,K1,wit,شوخ طبعی
+7087,A1,K6,with,با
+7088,B1,K4,withdraw,کنار کشیدن
+7089,B1,K1,withdrawal,برداشت
+7090,B1,K6,within,در داخل
+7091,A1,K6,without,بدون
+7092,B1,K1,witness,شاهد
+7093,B2,K2,witty,شوخ
+7094,B2,K1,woe,وای
+7095,B2,K1,wolf,گرگ
+7096,A1,K1,woman,زن
+7097,B2,K1,womb,رحم
+7098,A2,K4,wonder,تعجب کردن
+7099,A2,K2,wonderful,شگفت انگیز
+7100,B1,K5,wonderfully,به طور شگفت انگیزی
+7101,A2,K1,wood,چوب
+7102,B1,K2,wooden,چوبی
+7103,B1,K1,woods,جنگل
+7104,A2,K1,wool,پشم
+7105,A1,K1,word,کلمه
+7106,A1,K1,work,کار
+7107,A1,K1,worker,کارگر
+7108,B1,K1,workforce,نیروی کار
+7109,A2,K1,working,کار کردن
+7110,B2,K1,workload,حجم کار
+7111,B2,K1,workman,کارگر
+7112,B1,K1,workout,تمرین
+7113,B1,K1,works,آثار
+7114,B1,K1,workshop,کارگاه
+7115,B2,K1,workstation,ایستگاه کاری
+7116,A1,K1,world,جهان
+7117,A2,K5,worldwide,در سراسر جهان
+7118,B2,K1,worm,کرم
+7119,A2,K2,worried,نگران
+7120,A2,K4,worry,نگران بودن
+7121,A1,K2,worse,بدتر
+7122,B2,K1,worship,پرستش
+7123,A1,K2,worst,بدترین
+7124,B1,K2,worth,ارزش
+7125,B2,K2,worthless,بی ارزش
+7126,B1,K2,worthwhile,ارزشمند
+7127,B2,K2,worthy,شایسته
+7128,A1,K4,would,می خواست
+7129,B2,K2,would-be,احتمالی
+7130,A2,K1,wound,زخم
+7131,A2,K8,wow,وای
+7132,B1,K4,wrap,پیچیدن
+7133,B2,K1,wrath,خشم
+7134,B2,K4,wreak,وارد کردن
+7135,B2,K1,wreath,تاج گل
+7136,B1,K1,wreck,خرابه
+7137,B2,K1,wreckage,لاشه
+7138,B2,K1,wrench,آچار
+7139,B2,K4,wrestle,کشتی گرفتن
+7140,A2,K1,wrestling,کشتی
+7141,B2,K2,wretched,بدبخت
+7142,B1,K1,wrinkle,چین و چروک
+7143,B1,K1,wrist,مچ دست
+7144,B2,K1,writ,نوشته
+7145,A1,K4,write,نوشتن
+7146,A1,K1,writer,نویسنده
+7147,A1,K1,writing,نوشتن
+7148,A2,K2,written,نوشته شده
+7149,A1,K2,wrong,اشتباه
+7150,B2,K1,wrongdoing,تخلف
+7151,B2,K2,wry,کنایه آمیز
+7152,C1,K1,xenophobia,بیگانه هراسی
+7153,B2,K1,yacht,قایق بادبانی
+7154,A2,K1,yard,حیاط
+7155,B2,K1,yarn,نخ
+7156,B2,K1,yawn,خمیازه
+7157,A2,K8,yeah,آره
+7158,A1,K1,year,سال
+7159,B2,K2,yearly,سالیانه
+7160,B2,K4,yearn,اشتیاق داشتن
+7161,B1,K4,yell,فریاد زدن
+7162,A1,K2,yellow,زرد
+7163,B2,K1,yen,ین
+7164,A1,K8,yes,بله
+7165,A1,K1,yesterday,دیروز
+7166,A1,K5,yet,هنوز
+7167,B1,K4,yield,تسلیم شدن
+7168,B1,K1,yoga,یوگا
+7169,B2,K1,yoghurt,ماست
+7170,B2,K1,yolk,زرده
+7171,A1,K3,you,تو
+7172,A1,K2,young,جوان
+7173,B1,K1,youngster,جوان
+7174,A1,K3,your,مال تو
+7175,A2,K3,yours,مال شما
+7176,A1,K3,yourself,خودت
+7177,A2,K1,youth,جوانی
+7178,B2,K1,zenith,اوج
+7179,A2,K1,zero,صفر
+7180,B2,K1,zest,شور و شوق
+7181,B2,K1,zip,زیپ
+7182,B2,K1,zombie,زامبی
+7183,A2,K1,zone,منطقه
+7184,A2,K1,zoo,باغ وحش
+7185,B2,K4,zoom,بزرگنمایی کردن
